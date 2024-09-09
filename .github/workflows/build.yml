@@ -57,7 +57,7 @@ jobs:
 
       - name: Set up Node.js dependencies
         if: steps.cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: npm ci
 
       - name: Build project
         run: |
