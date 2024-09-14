@@ -92,3 +92,9 @@ jobs:
         with:
           key: mkdocs-material-${{ hashfiles('.cache/**') }}
           path: .cache
+      - name: Upload site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: site
+          retention-days: 1
