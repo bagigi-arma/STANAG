@@ -19,22 +19,23 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: STANAG BAGIGI
+site_url: https://stanag.bagigi.ovh/
+site_author: Comunità Bagigi
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: bagigi-arma/STANAG
+repo_url: https://github.com/bagigi-arma/STANAG
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2024 Martin Donath
+copyright: Copyright &copy; 2024 Comunità Bagigi
 
 # Configuration
 theme:
+  language: it
   name: material
   custom_dir: material/overrides
   features:
@@ -51,12 +52,12 @@ theme:
     # - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -68,28 +69,36 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/link
+        icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: orange
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: indigo
+      primary: custom
+      accent: orange
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/weather-night
         name: Switch to system preference
   font:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
+  logo: assets/logo.png
   icon:
-    logo: logo
+    repo: fontawesome/brands/github
+
+# Custom colors
+extra_css:
+  - stylesheets/extra.css
+
+watch:
+  - includes
 
 # Plugins
 plugins:
@@ -98,6 +107,9 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
 
 # Hooks
 hooks:
@@ -109,20 +121,15 @@ extra:
   status:
     new: Recently added
     deprecated: Deprecated
-  analytics:
-    provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/squidfunk
+      link: https://github.com/bagigi-arma
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/vzJGTCaJxb
+  consent:
+    title: Informativa Cookie
+    description: >- 
+      Noi e terze parti selezionate utilizziamo cookie per finalità tecniche.
 
 # Extensions
 markdown_extensions:
@@ -132,8 +139,10 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - tables
   - toc:
       permalink: true
+      permalink_title: Link a questa sezione
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
