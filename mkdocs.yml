@@ -168,6 +168,7 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/mkdocs.md
+        - includes/abbreviations.md
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
