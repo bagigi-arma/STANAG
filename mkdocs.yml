@@ -190,3 +190,7 @@ not_in_nav: |
 # Page tree
 nav:
   - Introduzione: index.md
+  - Basso livello:
+    - basso-livello/index.md
+  - Alto livello:
+    - alto-livello/index.md
