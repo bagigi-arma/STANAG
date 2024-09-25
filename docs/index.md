@@ -1,9 +1,8 @@
 ---
 template: home.html
-title: Material for MkDocs
-social:
-  cards_layout_options:
-    title: Documentation that simply works
+title: Intro
 ---
 
-Welcome to Material for MkDocs.
+# Introduzione
+
+Il progetto Bagigi STANAG consiste nello sviluppo di SOP comuni tra i vari clan e comunità del Network Bagigi, al fine di migliorare il coordinamento in eventi più grandi, in particolare quando devono collaborare elementi di comando provenienti da clan diversi.
