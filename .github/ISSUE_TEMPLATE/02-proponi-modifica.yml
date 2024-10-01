@@ -1,0 +1,42 @@
+name: Proponi una modifica o aggiunta
+description: Se ci siamo dimenticati qualcosa, facci sapere
+labels:
+  - proposta
+body:
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contesto
+      description: >-
+        Questo campo è facoltativo.
+        Puoi aggiungere ulteriore contesto per la natura della tua proposta.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione
+      description: >-
+        Descrivi la modifica/aggiunta che stai proponendo, per aiutarci a capire come meglio implementarla.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-links
+    attributes:
+      label: Link interessati
+      description: >-
+        Elenca qualsiasi [problema riportato in passato](https://github.com/bagigi-arma/STANAG/issues),
+        [discussione](https://github.com/bagigi-arma/STANAG/discussions) o [pagina/sezione](https://bagigi.ovh/stanag)
+        che sono correlate alla tua proposta.
+    validations:
+      required: true
+
+  - type: textarea
+    id: visuals
+    attributes:
+      label: Media
+      description: >-
+        Questo campo è facoltativo. Puoi allegare schizzi, screenshot, foto, video o altri media che sono utili a illustrare la tua proposta.
+      placeholder: |-
+        Trascina qui file o inserisci link a media esterni

@@ -20,8 +20,7 @@
 
 blank_issues_enabled: false
 contact_links:
-  - name: Ask a question
-    url: https://github.com/squidfunk/mkdocs-material/discussions
+  - name: Contattaci
+    url: https://discord.gg/vzJGTCaJxb
     about: >
-      Have a question or need help? Connect with our community on the
-      discussion board
+      Hai domande o ti serve altro? Contatta la nostra comunità su Discord

@@ -1,0 +1,34 @@
+name: Riporta un problema
+description: Facci notare eventuali problemi nella nostra documentazione
+labels:
+  - problema
+body:
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione
+      description: >-
+        Descrivi l'incongruenza o problema che hai trovato nelle [nostre pagine](https://bagigi.ovh/stanag)
+        o indica dove potremmo migliorare qualcosa.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-links
+    attributes:
+      label: Pagine interessate
+      description: >-
+        Elenca tutti i link alle sezioni problematiche.
+        Se necessario, allega screenshot.
+        Puoi anche aggiungere link a [problemi simili](https://github.com/bagigi-arma/STANAG) già riportati o [discussioni](https://github.com/bagigi-arma/STANAG/discussions).
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-change
+    attributes:
+      label: Modifica proposta
+      description: >-
+        Questo campo è facoltativo.
+        Puoi proporre una modifica che migliorerebbe la nostra documentazione descrivendola qui, oppure creando una Pull Request.
