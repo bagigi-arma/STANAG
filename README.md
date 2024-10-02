@@ -10,6 +10,8 @@ Ogni STANAG è raccolto in una pagina formattata in formato `.md`, mediante l'ut
 
 I membri del Network Bagigi sono invitati a contribuire attivamente alla costruzione degli STANAG, ampliando la documentazione esistente con nuove pagine o rimodellando quelle esistenti.
 
-Per discutere e trovare il "minimo comune standard" utile al network, sarà usato il canale forum `stanag-bagigi` nel nostro Discord, in cui si troverà un thread dedicato ad ogni pagina/sezione presente in questo repository.
+Per discutere e trovare il "minimo comune standard" utile al network viene usato il canale forum `stanag-bagigi` nel nostro Discord, in cui si trova un thread dedicato ad ogni pagina/sezione presente in questo repository.
 
-Per modificare il contenuto di una pagina, potete premere l'opportuno tasto "modifica" in cima alla stessa, dovrete poi usare comuni metodi di collaborazione mediante "Pull Request" di GitHub per inviarci la vostra modifica, che potremo poi discutere ulteriormente e integrare. Qui alcuni [riferimenti su come maneggiare il formato dei file](https://squidfunk.github.io/mkdocs-material/reference/).
+Per contribuire effettivamente alla scrittura delle pagine, potete premere l'opportuno tasto "modifica" in cima alla stessa, dovrete poi usare comuni metodi di collaborazione mediante "Pull Request" di GitHub per inviarci la vostra modifica, che potremo poi discutere ulteriormente e integrare. Qui alcuni [riferimenti su come maneggiare il formato dei file](https://squidfunk.github.io/mkdocs-material/reference/).
+
+Per modifiche più sostanziali come l'aggiunta di nuove pagine e/o per verificare la corretta applicazione di formattazione più complessa, conviene clonare [il proprio Fork](https://github.com/bagigi-arma/STANAG/fork) localmente con un programma come [GitHub Desktop](https://desktop.github.com/download/), importare [le librerie python necessarie](https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip) e poi [avviare un server locale di preview](https://squidfunk.github.io/mkdocs-material/creating-your-site/#previewing-as-you-write).
