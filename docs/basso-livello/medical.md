@@ -7,7 +7,7 @@ title: Sistema Medico
 
 ## Concetti generali
 
-A prescindere dalla mod e i settaggi esatti in uso, esistono dei concetti generali utili a medicare altri giocatori in missione in maniera efficiente.
+A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti generali utili a medicare altri giocatori in missione in maniera efficiente.
 
 ### Il Fante
 
