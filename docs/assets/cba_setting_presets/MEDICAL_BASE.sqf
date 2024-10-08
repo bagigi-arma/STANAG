@@ -122,7 +122,6 @@ force kat_breathing_deterioratingPneumothorax_chance = 50;
 force kat_breathing_deterioratingPneumothorax_interval = 60;
 force kat_breathing_enable = false;
 force kat_breathing_enable_selfChestseal = 1;
-force kat_breathing_enableSPO2Flashing = true;
 force kat_breathing_Etco2_Enabled = true;
 force kat_breathing_Etco2_Units = 0;
 force kat_breathing_HPTXBleedAmount = 0.06;
@@ -131,7 +130,6 @@ force kat_breathing_inspectChest_enable = 2;
 force kat_breathing_inspectChest_medLvl = 0;
 force kat_breathing_inspectChest_time = 4;
 force kat_breathing_locationProvideOxygen = 3;
-force kat_breathing_lowSPO2Level = 90;
 force kat_breathing_medLvl_BVM = 0;
 force kat_breathing_medLvl_BVM_Oxygen = 0;
 force kat_breathing_medLvl_Chestseal = 0;
@@ -226,8 +224,16 @@ force kat_circulation_medLvl_AED_X = 1;
 force kat_circulation_tamponadeChance = 10;
 force kat_circulation_useLocation_AED = 0;
 
+// KAT - ADV Medical: Feedback
+force kat_feedback_effectLowSpO2 = 90;
+force kat_feedback_enableOpioidEffect = true;
+
 // KAT - ADV Medical: GUI
 force kat_gui_ColoredLogs = true;
+kat_gui_showPatientSideLabels = false;
+
+// KAT - ADV Medical: Hypothermia
+force kat_hypothermia_hypothermiaActive = false;
 
 // KAT - ADV Medical: Misc
 force kat_misc_AFAK_RemoveWhenEmpty = true;
@@ -237,7 +243,7 @@ force kat_misc_AFAKFourthSlotItem = "[['kat_chestSeal', 3], ['kat_ncdKit', 3]]";
 force kat_misc_AFAKSecondSlotItem = "[['ACE_packingBandage', 10], ['ACE_quikclot', 10]]";
 force kat_misc_AFAKSixthSlotItem = "[['ACE_epinephrine', 3], ['kat_Carbonate', 1]]";
 force kat_misc_AFAKThirdSlotItem = "[['ACE_morphine', 3], ['kat_Penthrox', 1], ['kat_Painkiller', 1]]";
-force kat_misc_allowSharedVehicleEquipment = 1;
+force kat_misc_allowSharedVehicleEquipment = 4;
 force kat_misc_enable = true;
 force kat_misc_enableStitchFullBody = true;
 force kat_misc_IFAK_RemoveWhenEmpty = true;
@@ -246,6 +252,7 @@ force kat_misc_IFAKFourthSlotItem = "[['kat_chestSeal', 1]]";
 force kat_misc_IFAKSecondSlotItem = "[['ACE_packingBandage', 5], ['ACE_quikclot', 5]]";
 force kat_misc_IFAKThirdSlotItem = "[['kat_Painkiller', 1]]";
 force kat_misc_incompatibilityWarning = true;
+force kat_misc_MFAK_RemoveWhenEmpty = true;
 force kat_misc_MFAKEighthSlotItem = "[['kat_Pulseoximeter', 1], ['kat_pocketBVM', 1], ['kat_AED', 1]]";
 force kat_misc_MFAKFifthSlotItem = "[['kat_larynx', 6]]";
 force kat_misc_MFAKFirstSlotItem = "[['ACE_tourniquet', 6], ['ACE_splint', 4]]";
@@ -269,12 +276,6 @@ force kat_pharma_carbonateChance = 100;
 force kat_pharma_CheckCoag_Location = 0;
 force kat_pharma_CheckCoag_MedLevel = 0;
 force kat_pharma_CheckCoag_TreatmentTime = 10;
-force kat_pharma_chromatic_aberration_checkbox_fentanyl = true;
-force kat_pharma_chromatic_aberration_checkbox_ketamine = true;
-force kat_pharma_chromatic_aberration_checkbox_pervitin = true;
-force kat_pharma_chromatic_aberration_slider_fentanyl = 1;
-force kat_pharma_chromatic_aberration_slider_ketamine = 0.8;
-force kat_pharma_chromatic_aberration_slider_pervitin = 1;
 force kat_pharma_coagulation = true;
 force kat_pharma_coagulation_allow_clot_text = true;
 force kat_pharma_coagulation_allow_EACA_script = true;
@@ -386,3 +387,11 @@ force kat_surgery_surgicalLocation = 0;
 force kat_surgery_ultrasound_MedLevel = 1;
 force kat_surgery_ultrasoundLocation = 0;
 force kat_surgery_ultrasoundTime = 8;
+
+// KAT - ADV Medical: Vitals
+force kat_vitals_simpleMedical = false;
+
+// KAT - ADV Medical: Watch
+force kat_watch_altitudeUnit = 0;
+force kat_watch_pressureUnit = 0;
+force kat_watch_temperatureUnit = 0;
