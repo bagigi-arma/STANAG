@@ -230,7 +230,6 @@ force kat_feedback_enableOpioidEffect = true;
 
 // KAT - ADV Medical: GUI
 force kat_gui_ColoredLogs = true;
-kat_gui_showPatientSideLabels = false;
 
 // KAT - ADV Medical: Hypothermia
 force kat_hypothermia_hypothermiaActive = false;
