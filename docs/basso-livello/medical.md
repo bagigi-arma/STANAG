@@ -11,23 +11,32 @@ A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti genera
 
 ### Il Fante
 
-Conoscenze utili al fante che dovrà effettuare pronto soccorso in attesa del soccorritore/medico.
+??? note
+    Conoscenze utili al fante che dovrà effettuare pronto soccorso in attesa del soccorritore/medico.
 
 ### Il Soccorritore
 
-Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul medico per casi gravi.
+Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul supporto del medico per casi gravi.
 
 ### Il Medico
 
-Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento medico più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un'eventuale CASEVAC o MEDEVAC.
+Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
 
 ## Lo STANAG Medico
 
-Una descrizione dei 2 livelli medici dello STANAG
+??? note
+    Una descrizione dei 2 livelli medici dello STANAG
+
+Al fine di essere compatibile sia con piccole missioni improvvisate, che con grandi eventi con decine di giocatori, lo STANAG si suddivide in due livelli, uno Base e uno Avanzato.
+
+Entrambi richiedono la combinazione di mod ACE Medical + KAT Medical. La differenza consiste solamente nel numero maggiore di moduli KAM abilitati nel sistema avanzato rispetto a quello base.
 
 ### Base
 
-Descrizione di nozioni fondamentali ACE Medical e KAM, considerando solo i moduli abilitati (ben pochi).
+??? note
+    Descrizione di nozioni fondamentali ACE Medical e KAM, considerando solo i moduli abilitati (ben pochi).
+
+Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun livello di difficoltà rispetto al solo ACE Medical, la presenza della KAM comporta solamente l'aggiunta di funzionalità utili come il risveglio assistito mediante "riorientamento" (schiaffo sulla guancia) e la meccanica di coagulazione.
 
 <div class="grid cards" markdown>
 - :fontawesome-solid-chevron-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
@@ -36,7 +45,8 @@ Descrizione di nozioni fondamentali ACE Medical e KAM, considerando solo i modul
 
 ### Avanzato
 
-Descrizione dei moduli KAM aggiunti dal livello avanzato.
+??? note
+    Descrizione dei moduli KAM aggiunti dal livello avanzato.
 
 <div class="grid cards" markdown>
 - :fontawesome-solid-chevron-up: [__Sistema Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO.sqf)<br>
