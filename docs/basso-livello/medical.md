@@ -9,16 +9,30 @@ title: Sistema Medico
 
 A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti generali utili a medicare altri giocatori in missione in maniera efficiente.
 
-### Il Fante
+### L'ordine di cura
 
-??? note
-    Conoscenze utili al fante che dovrà effettuare pronto soccorso in attesa del soccorritore/medico.
+In entrambi livelli dello STANAG (e molte altre missioni impostate diversamente) i settaggi vigenti comportano un ordine di cura ottimale, che riduce la durata di rinvenimento del paziente e la probabilità del decesso ad un minimo.
 
-### Il Soccorritore
+1. **Ferma l'emorraggia**
+
+2. **Ristabilisci il battito cardiaco**
+
+3. **Controlla le vie aeree**
+
+4. **Agevola il rinvenimento**
+
+### I Ruoli
+
+#### Il Fante
+
+Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore/medico, ma anche nei casi in cui non gli è possibile sarà comunque in grado di alleggerire il compito al personale medico.
+Per questo è importante che ogni fante conosca le fondamenta del sistema medico e settaggi in uso, al fine di accorciare il più possibile i tempi di cura (propri e altrui) e snellire il flusso della missione.
+
+#### Il Soccorritore
 
 Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul supporto del medico per casi gravi.
 
-### Il Medico
+#### Il Medico
 
 Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
 
@@ -49,7 +63,7 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
 - Per iniettare fluidi o farmaci (eccetto autoiniettori) nel corpo del paziente, dovranno prima piazzare uno dei seguenti collegamenti:
     - un collegamento endovenoso in un arto, il `16g IV`;
     - un collegamento intraosseo nello sterno, il `Fast IO`;
-- Il sistema di coagulazione avanzata permette la chiusura automatica di ferite, senza richiedere bendaggi. Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, certi fluidi sono più efficaci di altri nel ripristino di questi fattori.
+- Il sistema di coagulazione avanzata permette la chiusura automatica di ferite, senza richiedere bendaggi. Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, certi fluidi sono più efficaci di altri nel ripristino di questi fattori. **Link a documentazione KAM**
 - La somministrazione di coagulanti mediante IV può causare il blocco del collegamento se non vengono preceduti da soluzione salina. In quel caso potrete somministrare soluzione salina e effettuare un `"saline flush"` dal tab "farmaci" per sbloccare il collegamento.
 
 <div class="grid cards" markdown>
