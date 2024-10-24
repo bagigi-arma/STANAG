@@ -17,31 +17,45 @@ A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti genera
 
 In entrambi livelli dello STANAG (e molte altre missioni impostate diversamente) i settaggi vigenti comportano un ordine di cura ottimale, che riduce la durata di rinvenimento del paziente e la probabilità del decesso ad un minimo.
 
-1. **Ferma l'emorragia**<br>
-L'azione di fermare il dissanguamento è praticamente sempre quella con priorità più alta. Più tempo trascorre e più si dovrà attendere per colmare il volume di fluidi perso mediante flebo. Inoltre, se la perdita di sangue diventa più grave del colore giallo (nel menu medico), sarà impossibile far rinvenire il paziente senza il supporto di personale medico.<br>
-Per fermare l'emorragia da arti (braccia/gambe) è spesso preferibile l'utilizzo di un laccio emostatico (anche chiamato "CAT") visto che il tempo di applicazione è molto minore di una qualsiasi benda.<br>
+#### 1. Ferma l'emorragia
+
+L'azione di fermare il dissanguamento è praticamente sempre quella con priorità più alta. Più tempo trascorre e più si dovrà attendere per colmare il volume di fluidi perso mediante flebo. Inoltre, se la perdita di sangue diventa più grave del colore giallo (nel menu medico), sarà impossibile far rinvenire il paziente senza il supporto di personale medico.
+
+Per fermare l'emorragia da arti (braccia/gambe) è spesso preferibile l'utilizzo di un laccio emostatico (anche chiamato "CAT") visto che il tempo di applicazione è molto minore di una qualsiasi benda.
+
 Una ferita bendata può riaprirsi se non viene successivamente suturata da un soccorritore/medico. Alcuni tipi di bende sono più veloci nel tappare ampie ferite, altri sono più longevi prima di permettere la riapertura. [Qui potete trovare una tabella che elenca tali differenze](https://i.imgur.com/yr1hXT4.png).
 
-2. **Ristabilisci il battito cardiaco**<br>
-Emorragie e ferite gravi, in particolare alla testa, possono spesso causare un arresto cardiaco del paziente. Questa condizione può causare la morte entro pochi minuti, a prescindere dal dissanguamento o altre problematiche più apparenti.<br>
-Per questo motivo è importante ristabilire un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate. **Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, lo ristabilimento del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.**<br>
-Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.<br>
-Un soccorritore/medico potrà poi arrivare per supportare lo ristabilimento di un ritmo normale, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+#### 2. Ristabilisci il battito cardiaco
 
-3. **Controlla le vie aeree**<br>
-Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aeree) (airway e breathing), per stabilizzare un paziente bisognerà anche controllare che le vie aeree sono libere (prive di ostruzioni o occlusioni) e che i polmoni e la gabbia toracica del paziente sono integri.<br>
+Emorragie e ferite gravi, in particolare alla testa, possono spesso causare un arresto cardiaco del paziente. Questa condizione può causare la morte entro pochi minuti, a prescindere dal dissanguamento o altre problematiche più apparenti.
+
+Per questo motivo è importante ristabilire un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate.<br>
+^^Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, lo ristabilimento del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.^^
+
+Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
+Un soccorritore/medico potrà poi arrivare per supportare il ristabilimento di un ritmo normale, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+
+#### 3. Controlla le vie aeree
+
+Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aeree) (airway e breathing), per stabilizzare un paziente bisognerà anche controllare che le vie aeree sono libere (prive di ostruzioni o occlusioni) e che i polmoni e la gabbia toracica del paziente sono integri.
+
 Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come una volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. La persistenza di un SpO2 ridotto può allungare drasticamente i tempi di rinvenimento.
-Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
-    1. Le vie aeree possono essere:
-        - **Ostruite/Obstructed** da una posizione del corpo stesso, es: la testa che in stato di svenimento si accascia. Tale condizione è **mitigabile** mediante `hyperextension`/`iperestensione` della testa (solo finché si rimane accanto al paziente) oppure risolvibile a tempo prolungato mediante l'utilizzo di `Guedel Tube`/`Canula Guedel` o `King LT`/`Tubo Laringeo` (solo da parte del medico).<br>
-        In assenza di utensili (o al fine di non consumarli su lievi feriti) è validissima anche la `Recovery Position`/`Posizione di Sicurezza`, che risolve entrambe le problematiche finché il paziente non viene spostato o medicato con [interazioni che annullano la posizione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.ch6nvx96t0nv).
-        - **Occluse/Occluded** dalla presenza di fluidi, es: vomito (spesso collegato all'arresto cardiaco). Risolvibile mediante l'utilizzo di una `Manual Suction Pump` (monouso) da parte di chiunque o del `ACCUVAC` da parte di un soccorritore/medico. Finché il paziente è svenuto la condizione si può ripetere, quindi conviene prevenirla mediante un `King LT`/`Tubo Laringeo` o la `Recovery Position`/`Posizione di Sicurezza`.
-    2. I polmoni di un paziente (anche conscio) possono presentare lesioni più subdule, diagnosticabili mediante `Inspect Chest` o `Auscultandone` i suoni con uno stetoscopio, [secondo criteri specifici elencati nella documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.cgxm2eh7b3pw). Sono elencate in ordine decrescente di frequenza.
-        - **Pneumothorax:** risolvibile mediante un `Chest Seal` che può applicare chiunque;
-        - **Tension Pneumothorax:** risolvibile da un `Chest Seal` + decompressione con `NDC Kit` o `AAT Kit` da parte di un soccorritore/medico.
-        - **Hemothorax:** risolvibile da un `Chest Seal` + `Drain Fluids`/`Drenare il liquido` mediante un `AAT Kit` da parte di un soccorritore/medico.
 
-4. **Agevola il rinvenimento**<br>
+Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
+
+1. Le vie aeree possono essere:
+
+    - ^^Ostruite/Obstructed^^ da una posizione del corpo stesso, es: la testa che in stato di svenimento si accascia. Tale condizione è **mitigabile** mediante `hyperextension`/`iperestensione` della testa (solo finché si rimane accanto al paziente) oppure risolvibile a tempo prolungato mediante l'utilizzo di `Guedel Tube`/`Canula Guedel` o `King LT`/`Tubo Laringeo` (solo da parte del medico).<br>
+    In assenza di utensili (o al fine di non consumarli su lievi feriti) è validissima anche la `Recovery Position`/`Posizione di Sicurezza`, che risolve entrambe le problematiche finché il paziente non viene spostato o medicato con [interazioni che annullano la posizione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.ch6nvx96t0nv).
+    - ^^Occluse/Occluded^^ dalla presenza di fluidi, es: vomito (spesso collegato all'arresto cardiaco). Risolvibile mediante l'utilizzo di una `Manual Suction Pump` (monouso) da parte di chiunque o del `ACCUVAC` da parte di un soccorritore/medico. Finché il paziente è svenuto la condizione si può ripetere, quindi conviene prevenirla mediante un `King LT`/`Tubo Laringeo` o la `Recovery Position`/`Posizione di Sicurezza`.
+
+2. I polmoni di un paziente (anche conscio) possono presentare lesioni più subdule, diagnosticabili mediante `Inspect Chest` o `Auscultando` il torace con uno stetoscopio, [secondo criteri specifici elencati nella documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.cgxm2eh7b3pw). Sono elencate in ordine decrescente di frequenza.
+
+    - ^^Pneumothorax:^^ risolvibile mediante un `Chest Seal` che può applicare chiunque;
+    - ^^Tension Pneumothorax:^^ risolvibile da un `Chest Seal` + decompressione con `NDC Kit` o `AAT Kit` da parte di un soccorritore/medico.
+    - ^^Hemothorax:^^ risolvibile da un `Chest Seal` + `Drain Fluids`/`Drenare il liquido` mediante un `AAT Kit` da parte di un soccorritore/medico.
+
+#### 4. Agevola il rinvenimento
 
 
 ### Il personale medico
@@ -49,6 +63,7 @@ Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis
 #### Il Fante
 
 Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore/medico, ma anche nei casi in cui non gli è possibile sarà comunque in grado di alleggerire il compito al personale medico.
+
 Per questo è importante che ogni fante conosca le fondamenta del sistema medico e settaggi in uso, al fine di accorciare il più possibile i tempi di cura (propri e altrui) e snellire il flusso della missione.
 
 #### Il Soccorritore
