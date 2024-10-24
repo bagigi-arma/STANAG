@@ -13,6 +13,22 @@ Le informazioni in questa guida fanno riferimento alle documentazioni delle mod 
 
 A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti generali utili a medicare altri giocatori in missione in maniera efficiente.
 
+### Il personale medico
+
+#### Il Fante
+
+Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore/medico, ma anche nei casi in cui non gli è possibile sarà comunque in grado di alleggerire il compito al personale medico.
+
+Per questo è importante che ogni fante conosca le fondamenta del sistema medico e settaggi in uso, al fine di accorciare il più possibile i tempi di cura (propri e altrui) e snellire il flusso della missione.
+
+#### Il Soccorritore
+
+Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul supporto del medico per casi gravi.
+
+#### Il Medico
+
+Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
+
 ### L'ordine di cura
 
 In entrambi livelli dello STANAG (e molte altre missioni impostate diversamente) i settaggi vigenti comportano un ordine di cura ottimale, che riduce la durata di rinvenimento del paziente e la probabilità del decesso ad un minimo.
@@ -57,22 +73,6 @@ Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis
 
 #### 4. Agevola il rinvenimento
 
-
-### Il personale medico
-
-#### Il Fante
-
-Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore/medico, ma anche nei casi in cui non gli è possibile sarà comunque in grado di alleggerire il compito al personale medico.
-
-Per questo è importante che ogni fante conosca le fondamenta del sistema medico e settaggi in uso, al fine di accorciare il più possibile i tempi di cura (propri e altrui) e snellire il flusso della missione.
-
-#### Il Soccorritore
-
-Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul supporto del medico per casi gravi.
-
-#### Il Medico
-
-Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
 
 ## Lo STANAG Medico
 
