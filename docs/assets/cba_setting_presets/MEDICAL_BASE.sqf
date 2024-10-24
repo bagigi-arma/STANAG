@@ -139,6 +139,7 @@ force kat_breathing_medLvl_PocketBVM = 0;
 force kat_breathing_medLvl_Pulseoximeter = 0;
 force kat_breathing_mildValue = 80;
 force kat_breathing_NasalCannula_time = 3;
+force kat_breathing_paco2Active = false;
 force kat_breathing_PneumothoraxAlwaysVisible = false;
 force kat_breathing_PneumothoraxArrest = true;
 force kat_breathing_pneumothoraxChance = 40;
@@ -298,6 +299,7 @@ force kat_pharma_eacaClearTrauma = false;
 force kat_pharma_ivCheckLimbDamage = false;
 force kat_pharma_IVdrop = 600;
 force kat_pharma_IVdropEnable = true;
+force kat_pharma_IVflowControl = false;
 force kat_pharma_IVreuse = false;
 force kat_pharma_keepScriptRunning_EACA = true;
 force kat_pharma_keepScriptRunning_TXA = true;
@@ -388,7 +390,8 @@ force kat_surgery_ultrasoundLocation = 0;
 force kat_surgery_ultrasoundTime = 8;
 
 // KAT - ADV Medical: Vitals
-force kat_vitals_simpleMedical = false;
+force kat_vitals_enableFluidShift = true;
+force kat_vitals_enableSimpleMedical = false;
 
 // KAT - ADV Medical: Watch
 force kat_watch_altitudeUnit = 0;
