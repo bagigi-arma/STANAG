@@ -76,17 +76,11 @@ Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis
 
 ## Lo STANAG Medico
 
-??? note
-    Una descrizione dei 2 livelli medici dello STANAG
-
 Al fine di essere compatibile sia con piccole missioni improvvisate, che con grandi eventi con decine di giocatori, lo STANAG si suddivide in due livelli, uno Base e uno Avanzato.
 
 Entrambi richiedono la combinazione di mod ACE Medical + KAT Medical. La differenza consiste solamente nel numero maggiore di moduli KAM abilitati nel sistema Avanzato rispetto a quello Base.
 
 ### Il Sistema Base
-
-??? note
-    Descrizione di nozioni fondamentali ACE Medical e KAM, considerando solo i moduli abilitati (ben pochi).
 
 Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun livello di difficoltà rispetto al solo ACE Medical, la presenza della KAM comporta solamente l'aggiunta di funzionalità utili come il risveglio assistito mediante `Reorient Patient`/`Stimolare il paziente` (schiaffo sulla guancia) e la meccanica di coagulazione.
 
