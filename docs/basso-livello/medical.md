@@ -57,7 +57,7 @@ Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aere
 
 Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come una volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. La persistenza di un SpO2 ridotto può allungare drasticamente i tempi di rinvenimento.
 
-Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
+Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
 
 1. Le vie aeree possono essere:
 
@@ -123,7 +123,7 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
     - un collegamento endovenoso in un arto, il `16g IV`;
     - un collegamento intraosseo nello sterno, il `Fast IO`;
 - Il [sistema di coagulazione avanzata](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.kftfvmvzcnlk) permette la chiusura automatica di ferite, senza richiedere bendaggi. Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, [alcuni fluidi sono più efficaci di altri](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.brf4cmv3xjxe) nel ripristino di questi fattori.
-- La somministrazione di coagulanti mediante IV può causare il blocco del collegamento se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccare il collegamento.
+- La somministrazione di coagulanti mediante IV può causare il blocco della cannula se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccarla.
 
 <div class="grid cards" markdown>
 - :fontawesome-solid-chevron-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
