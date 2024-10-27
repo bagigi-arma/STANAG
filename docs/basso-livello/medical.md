@@ -74,6 +74,32 @@ Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis
 
 #### 4. Agevola il rinvenimento
 
+Una volta stabilizzate le funzioni vitali in modo tale da escludere un eventuale decesso del paziente, si può passare a ridurre il tempo di rinvenimento il più possibile, per liberarsi della zavorra che rappresenta un fante privo di sensi.
+
+Se il SpO2 è ancora molto inferiore alla soglia minima per rinvenire, conviene l'utilizzo del `BVM` (un [pallone AMBU](https://it.wikipedia.org/wiki/Pallone_autoespandibile)) per accelerare il recupero dell'ossigenazione. Esistono due varianti:
+
+- Il `Pocket BVM`/`Maschera AMBU portatile` è una versione più leggera ma meno efficace, utile per i loadout più basilari dei soccorritori.
+- Il `BVM`/`Maschera AMBU`, oltre ad essere più efficace, permette l'utilizzo di ossigeno supplementare per potenziare ulteriormente il recupero. Le fonti sono:
+    - Bombole portatili di ossigeno (da 150/300l) nel proprio inventario (irrealistico per soccorritori/medici da campo, visto che IRL se colpiti possono detonare).
+    - Veicoli/Edifici definiti da ACE3 o l'Editor della missione come medici. Un'interazione su di essi permette anche di riempire una propria bombola portatile.
+
+??? warning "Attenti quando usate il BVM"
+    Dato che l'utilizzo di un qualsiasi BVM annulla la posizione di sicurezza, durante l'applicazione può riformarsi un'ostruzione/occlusione se le vie aeree non sono state stabilizzate con un `King LT`/`Tubo Laringeo`. Così ci si accorgerebbe solo dopo aver interrotto l'applicazione che l'SpO2 è rimasto costante oppure calato ulteriormente.<br>
+    Per evitare questo spreco di tempo è meglio stabilizzare sempre le vie aeree di pazienti che hanno l'SpO2 abbastanza basso da richiedere un utilizzo prolungato del BVM.
+
+Appena i parametri vitali diventano "stabili" da permettere il rinvenimento, possiamo tentare alcune interazioni sulla testa per svegliare forzatamente il paziente. Altrimenti dovrebbe aspettare la probabilità randomica di rinvenimento.
+
+- `Reorient Patient`/`Stimolare il paziente` effettua uno schiaffo in faccia, non richiede equipaggiamenti specifici.
+- `Ammonium Carbonate`/`Carbonato d'ammonio` fa annusare al paziente dei sali da bagno, con probabilità di rinvenimento più alta della stimolazione.
+
+Il soccorritore/medico deve quindi suturare le ferite del paziente in modo da completare la cura. Il paziente stesso è comunque responsabile di ^^verificare la suturazione^^ di tutte le sue ferite e richiederla altrimenti al personale medico più vicino.
+
+Anche eventuali fratture possono essere risolte completamente da un soccorritore/medico, mentre lo `Splint`/`Gessatura` da parte di chiunque può solo ristabilire parzialmente la funzionalità dell'arto.
+
+L'applicazione di antidolorifici ha solo senso se il paziente è conscio e ne ha bisogno, l'applicazione preventiva rischia il prolungamento del rinvenimento e l'eventuale overdose.<br>
+Di solito quelli presenti nell'equipaggiamento da fante bastano e avanzano in tutte le situazioni, di conseguenza è meglio che il paziente se li somministri da solo.
+
+!!! warning "Attenti a non andare in overdose da un antidolorifico iniettabile, controllate prima nella "triage card" di non aver già ricevuto uno entro gli ultimi 10 minuti."
 
 ## Lo STANAG Medico
 
