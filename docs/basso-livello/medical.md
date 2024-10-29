@@ -49,7 +49,7 @@ Per questo motivo è importante ristabilire un ritmo normale appena possibile, p
 ^^Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, lo ristabilimento del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.^^
 
 Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
-Un soccorritore/medico potrà poi arrivare per supportare il ristabilimento di un ritmo normale, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+Un soccorritore/medico potrà poi arrivare per supportare il ristabilimento di un ritmo normale con un defibrillatore, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
 
 #### 3. Controlla le vie aeree
 
@@ -63,7 +63,7 @@ Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis
 
     - ^^Ostruite/Obstructed^^ da una posizione del corpo stesso, es: la testa che in stato di svenimento si accascia. Tale condizione è **mitigabile** mediante `hyperextension`/`iperestensione` della testa (solo finché si rimane accanto al paziente) oppure risolvibile a tempo prolungato mediante l'utilizzo di `Guedel Tube`/`Canula Guedel` o `King LT`/`Tubo Laringeo` (solo da parte del medico).<br>
     In assenza di utensili (o al fine di non consumarli su lievi feriti) è validissima anche la `Recovery Position`/`Posizione di Sicurezza`, che risolve entrambe le problematiche finché il paziente non viene spostato o medicato con [interazioni che annullano la posizione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.ch6nvx96t0nv).
-    - ^^Occluse/Occluded^^ dalla presenza di fluidi, es: vomito (spesso collegato all'arresto cardiaco). Risolvibile mediante l'utilizzo di una `Manual Suction Pump` (monouso) da parte di chiunque o del `ACCUVAC` da parte di un soccorritore/medico. In assenza di equipaggiamenti può anche essere effettuato il `Head Turning` per tentare ripetutamente di "scrollare fuori" l'occlusione (richiede più tempo).<br>
+    - ^^Occluse/Occluded^^ dalla presenza di fluidi, es: vomito (spesso collegato all'arresto cardiaco). Risolvibile mediante l'utilizzo di una `Manual Suction Pump` (monouso) o del `ACCUVAC` (multiuso più veloce ma anche pesante). In assenza di equipaggiamenti può anche essere effettuato il `Head Turning` per tentare ripetutamente di "scrollare fuori" l'occlusione (richiede più tempo).<br>
     Finché il paziente è svenuto la condizione si può ripetere, quindi conviene prevenirla mediante un `King LT`/`Tubo Laringeo` o la `Recovery Position`/`Posizione di Sicurezza` (che la può anche risolvere direttamente).
 
 2. I polmoni di un paziente (anche conscio) possono presentare lesioni più subdule, diagnosticabili mediante `Inspect Chest` o `Auscultando` il torace con uno stetoscopio, [secondo criteri specifici spiegati nella documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.cgxm2eh7b3pw). Sono elencate in ordine decrescente di frequenza.
@@ -133,6 +133,8 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
 ### Il Sistema Avanzato
 
 I seguenti moduli KAM vengono abilitati dal sistema avanzato, senza modificare gli esistenti settaggi o altre meccaniche del sistema base.
+
+Specifichiamo che con "personale medico" si intende almeno l'abilitazione di "Medico" ACE3. Nello STANAG non esistono per il momento strumenti limitati solo al ruolo di "Dottore" ACE3.
 
 #### Vie aeree
 
