@@ -144,19 +144,56 @@ Specifichiamo che con "personale medico" si intende almeno l'abilitazione di "Me
 
 #### Vie aeree
 
-Vie aeree
+Abilitate tutte le meccaniche di ostruzione/occlusione, le ultime possono ripetersi ogni 60s (dopo un cooldown di 45s) con probabilità del 10%.
 
-#### Polmoni
+Per stabilizzare le vie aeree può essere applicato un `Guedel Tube`/`Canula Guedel` o `King LT`/`Tubo Laringeo` in 3s (il secondo solo da personale medico).
 
-Polmoni
+Per la risoluzione di ostruzioni possono essere usati: `ACCUVAC` per 3s (da personale medico), `Manual Suction Pump` per 5s o `Head Turning` per una probabilità di successo del 20% ogni 5s.
 
-#### Ritmi avanzati
+La `Recovery Position`/`Posizione di Sicurezza` può essere applicata in 4s, annullata in 2s e risolvere un'ostruzione in 5s.
 
-Ritmi cardiaci avanzati
+#### Respirazione
+
+La condizione di `Cyanosis`/`Cianosi` viene indicata come `Slight`/`Leggera` a SpO2 <90% (minimo per il rinvenimento), `Mild`/`Moderata` a <80% (soglia di svenimento) e `Severe`/`Severa` a <70%. La soglia letale è il 60%.
+
+Abilitati tutti i tipi di condizioni toraciche con descrescente probabilità di occorrenza:
+
+- `Pneumothorax` al 40%<br>
+Risolvibile da chiunque mediante un `Chest Seal`;
+- `Tension Pneumothorax` al 20%<br>
+Risolvibile da personale medico mediante un `Chest Seal` + decompressione con `NDC Kit`/`AAT Kit`;
+- `Hemothorax` al 10%<br>
+Risolvibile da personale medico mediante un `Chest Seal` + `Drain Fluids`/`Drenare il liquido` con un `AAT Kit`;
+
+!!! warning "Le condizioni NON sono visibili nel menu medico, vanno diagnosticate con lo stetoscopio o mediante Inspect Chest."
+
+Tutte le varianti del `BVM`/`Maschera AMBU` sono utilizzabili da chiunque, anche con ossigeno supplementare.
+
+#### Circolazione
+
+Sono abilitati i ritmi avanzati [come spiegati dalla documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.bvxbceizzega), con tempo di degradazione massimo di 900s. Il ritmo `VTac` ha probabilità 70% e la `PEA` 30%.
+
+Le [condizioni H&T](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.ke7yki3idopn) "hardcore" sono disabilitate.
+
+La RCP ha intervallo di 12s per probabilità di successo (minime-massime) del 30-50% per chiunque, 40-60% per "Medici" e 50-70% per "Dottori" ACE.
+
+Il defibrillatore `AED` ha probabilità di successo (minima-massima) del 45-80%, mentre l'`AED-X` (solo utilizzabile da personale medico) del 60-90%.
+
+Sono abilitati i gruppi sanguigni, essi vengono assegnati randomicamente a tutti ogni volta che entrano in missione. Il settaggio del "proprio gruppo" viene quindi ignorato.
 
 #### Coagulazione
 
-Medesima meccanica già accennata nel [sistema base](#il-sistema-base), 
+Medesima meccanica già accennata nel [sistema base](#il-sistema-base), impostata come "avanzata" in maniera realistica. TXA/EACA somministrato senza altri fluidi può causare un blocco della cannula.
+
+#### Chirurgia
+
+Le fratture avanzate (composte/pluriframmentarie) sono disabilitate per motivi di giocabilità e realismo (non si effettuano interventi chirurgici di quella scala sul campo).
+
+Sono attive solo le fratture semplici, riducibili da personale medico (non è possibile ridurre da soli le proprie fratture).
+
+#### Altri Sistemi
+
+Il sistema renale e di pH sanguineo è disattivato, così come la PaCO2 e il nuovo sistema di ipotermia (ancora in valutazione).
 
 <div class="grid cards" markdown>
 - :fontawesome-solid-chevron-up: [__Sistema Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO.sqf)<br>
