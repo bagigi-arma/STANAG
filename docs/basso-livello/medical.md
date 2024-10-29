@@ -109,6 +109,9 @@ Entrambi richiedono la combinazione di mod ACE Medical + KAT Medical. La differe
 
 ### Il Sistema Base
 
+??? note "Impostazioni fondamentali in entrambi i livelli"
+    Il timeout di decesso dall'arresto cardiaco è di 5 minuti.<br>Il sanguinamento è ridotto con un moltiplicatore del x0.4.<br>Sono abilitate le bende avanzate e la riapertura di ferite non suturate.<br>Le fratture gessate di una gamba ci limitano alla corsa, impedendo lo "scatto".
+
 Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun livello di difficoltà rispetto al solo ACE Medical, la presenza della KAM comporta solamente l'aggiunta di funzionalità utili come il risveglio assistito mediante `Reorient Patient`/`Stimolare il paziente` (schiaffo sulla guancia) e la meccanica di coagulazione.
 
 Il personale medico invece può trarre beneficio dall'aggiunta di:
@@ -131,6 +134,9 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
 </div>
 
 ### Il Sistema Avanzato
+
+??? note "Impostazioni fondamentali in entrambi i livelli"
+    Il timeout di decesso dall'arresto cardiaco è di 5 minuti.<br>Il sanguinamento è ridotto con un moltiplicatore del x0.4.<br>Sono abilitate le bende avanzate e la riapertura di ferite non suturate.<br>Le fratture gessate di una gamba ci limitano alla corsa, impedendo lo "scatto".
 
 I seguenti moduli KAM vengono abilitati dal sistema avanzato, senza modificare gli esistenti settaggi o altre meccaniche del sistema base.
 
