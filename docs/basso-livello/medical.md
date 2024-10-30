@@ -142,7 +142,7 @@ I seguenti moduli KAM vengono abilitati dal sistema avanzato, senza modificare g
 
 Specifichiamo che con "personale medico" si intende almeno l'abilitazione di "Medico" ACE3. Nello STANAG non esistono per il momento strumenti limitati solo al ruolo di "Dottore" ACE3.
 
-#### Vie aeree
+#### Vie Aeree
 
 Abilitate tutte le meccaniche di ostruzione/occlusione, le ultime possono ripetersi ogni 60s (dopo un cooldown di 45s) con probabilità del 10%.
 
