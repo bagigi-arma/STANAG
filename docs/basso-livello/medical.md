@@ -57,7 +57,7 @@ Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aere
 
 Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
 
-Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
+Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
 
 1. Le vie aeree possono essere:
 
