@@ -128,11 +128,6 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
 - Il [sistema di coagulazione avanzata](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.kftfvmvzcnlk) permette la chiusura automatica di ferite, senza richiedere bendaggi. Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, [alcuni fluidi sono più efficaci di altri](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.brf4cmv3xjxe) nel ripristino di questi fattori.
 - La somministrazione di coagulanti mediante IV può causare il blocco della cannula se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccarla.
 
-<div class="grid cards" markdown>
-- :fontawesome-solid-chevron-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
-  Preset medico base, completo di tutti i settaggi.
-</div>
-
 ### Il Sistema Avanzato
 
 ??? note "Impostazioni fondamentali in entrambi i livelli"
@@ -195,9 +190,17 @@ Sono attive solo le fratture semplici, riducibili da personale medico (non è po
 
 Il sistema renale e di pH sanguineo è disattivato, così come la PaCO2 e il nuovo sistema di ipotermia (ancora in valutazione).
 
+### Download dei settaggi CBA
+
+<div class="grid cards" markdown>
+- :fontawesome-solid-chevron-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
+  Preset medico base, completo di tutti i settaggi.
+</div>
+<div class="grid cards" markdown>
+- :fontawesome-solid-chevron-up: [__Override Base :material-arrow-right: Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO_OVERRIDE.sqf)<br>
+  Preset con i soli settaggi necessari per abilitare moduli avanzati sovrascrivendoli dalla missione, quando il server è impostato con il preset base.
+</div>
 <div class="grid cards" markdown>
 - :fontawesome-solid-chevron-up: [__Sistema Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO.sqf)<br>
   Preset medico avanzato, completo di tutti i settaggi.
-- :fontawesome-solid-chevron-up: [__Override Base :material-arrow-right: Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO_OVERRIDE.sqf)<br>
-  Preset con solo i settaggi per abilitare moduli avanzati sovrascrivendoli dalla missione, quando il server è impostato con il preset base.
 </div>
