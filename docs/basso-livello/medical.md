@@ -17,13 +17,13 @@ A prescindere dalle mod e i settaggi esatti in uso, esistono dei concetti genera
 
 #### Il Fante
 
-Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore/medico, ma anche nei casi in cui non gli è possibile sarà comunque in grado di alleggerire il compito al personale medico.
+Un fante senza specializzazione può a volte stabilizzare un ferito senza richiedere l'intervento di un soccorritore o di un medico. Ma anche nei casi in cui questo non sia possibile, può comunque alleggerire il lavoro del personale medico.
 
 Per questo è importante che ogni fante conosca le fondamenta del sistema medico e settaggi in uso, al fine di accorciare il più possibile i tempi di cura (propri e altrui) e snellire il flusso della missione.
 
 #### Il Soccorritore
 
-Un "mini-medico" a livello di gruppo/squadra che potrà spesso stabilizzare in autonomia pazienti lievi, ma contare sul supporto del medico per casi gravi.
+Un "mini-medico" a livello di gruppo/squadra, capace di stabilizzare autonomamente pazienti con condizioni lievi e in grado di fare affidamento sul supporto del medico per i casi più gravi.
 
 #### Il Medico
 
@@ -41,21 +41,21 @@ Per fermare l'emorragia da arti (braccia/gambe) è spesso preferibile l'utilizzo
 
 Una ferita bendata può riaprirsi se non viene successivamente suturata da un soccorritore/medico. Alcuni tipi di bende sono più veloci nel tappare ampie ferite, altri sono più longevi prima di permettere la riapertura. [Qui potete trovare una tabella che elenca tali differenze](https://i.imgur.com/yr1hXT4.png).
 
-#### 2. Ristabilisci il battito cardiaco
+#### 2. Ripristina il battito cardiaco
 
 Emorragie e ferite gravi, in particolare alla testa, possono spesso causare un arresto cardiaco del paziente. Questa condizione può causare la morte entro pochi minuti, a prescindere dal dissanguamento o altre problematiche più apparenti.
 
-Per questo motivo è importante ristabilire un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate.<br>
-^^Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, lo ristabilimento del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.^^
+Per questo motivo è importante ripristinare un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate.<br>
+^^Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, il ripristino del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.^^
 
 Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
-Un soccorritore/medico potrà poi arrivare per supportare il ristabilimento di un ritmo normale con un defibrillatore, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+Un soccorritore/medico potrà poi arrivare per accelerare il ripristino di un ritmo normale con un defibrillatore, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
 
 #### 3. Controlla le vie aeree
 
 Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aeree) (airway e breathing), per stabilizzare un paziente bisognerà anche controllare che le vie aeree sono libere (prive di ostruzioni o occlusioni) e che i polmoni e la gabbia toracica del paziente sono integri.
 
-Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come una volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. La persistenza di un SpO2 ridotto può allungare drasticamente i tempi di rinvenimento.
+Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
 
 Il valore esatto di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
 
@@ -94,7 +94,7 @@ Appena i parametri vitali diventano "stabili" da permettere il rinvenimento, pos
 
 Il soccorritore/medico deve quindi suturare le ferite del paziente in modo da completare la cura. Il paziente stesso è comunque responsabile di ^^verificare la suturazione^^ di tutte le sue ferite e richiederla altrimenti al personale medico più vicino.
 
-Anche eventuali fratture possono essere risolte completamente da un soccorritore/medico, mentre lo `Splint`/`Gessatura` da parte di chiunque può solo ristabilire parzialmente la funzionalità dell'arto.
+Anche eventuali fratture possono essere risolte completamente da un soccorritore/medico, mentre lo `Splint`/`Gessatura` da parte di chiunque può solo ripristinare parzialmente la funzionalità dell'arto.
 
 L'applicazione di antidolorifici ha solo senso se il paziente è conscio e ne ha bisogno, l'applicazione preventiva rischia il prolungamento del rinvenimento e l'eventuale overdose.<br>
 Di solito quelli presenti nell'equipaggiamento da fante bastano e avanzano in tutte le situazioni, di conseguenza è meglio che il paziente se li somministri da solo.
@@ -116,7 +116,7 @@ Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun
 
 Il personale medico invece può trarre beneficio dall'aggiunta di:
 
-- Defibrillatori (AED e AED-X), utili per ristabilire un ritmo cardiaco normale più velocemente della sola CPR;
+- Defibrillatori (AED e AED-X), utili per ripristinare un ritmo cardiaco normale più velocemente della sola CPR;
 - Medicinali avanzati, come antidolorifici più variati e coagulanti (TXA e EACA);
 - Feature QOL come la suturazione di tutto il corpo mediante una sola interazione;
 
@@ -125,7 +125,7 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
 - Per iniettare fluidi o farmaci (eccetto autoiniettori) nel corpo del paziente, dovranno prima piazzare uno dei seguenti collegamenti:
     - un collegamento endovenoso in un arto, il `16g IV`;
     - un collegamento intraosseo nello sterno, il `Fast IO`;
-- Il [sistema di coagulazione avanzata](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.kftfvmvzcnlk) permette la chiusura automatica di ferite, senza richiedere bendaggi. Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, [alcuni fluidi sono più efficaci di altri](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.brf4cmv3xjxe) nel ripristino di questi fattori.
+- Il [sistema di coagulazione avanzata](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.kftfvmvzcnlk), che accelera la chiusura automatica di ferite (senza richiedere bendaggi). Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, [alcuni fluidi sono più efficaci di altri](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.brf4cmv3xjxe) nel ripristino di questi fattori.
 - La somministrazione di coagulanti mediante IV può causare il blocco della cannula se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccarla.
 
 ### Il Sistema Avanzato
@@ -166,7 +166,7 @@ Tutte le varianti del `BVM`/`Maschera AMBU` sono utilizzabili da chiunque, anche
 
 #### Circolazione
 
-Sono abilitati i ritmi avanzati [come spiegati dalla documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.bvxbceizzega), con tempo di degradazione massimo di 900s. Il ritmo `VTac` ha probabilità 70% e la `PEA` 30%.
+Sono abilitati i ritmi avanzati [come spiegati dalla documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.bvxbceizzega), con tempo di degradazione massimo di 900s. Probabilità del 70% per `VTac` e del 30% per `PEA`.
 
 Le [condizioni H&T](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.ke7yki3idopn) "hardcore" sono disabilitate.
 
