@@ -39,7 +39,8 @@ L'azione di fermare il dissanguamento è praticamente sempre quella con priorit�
 
 Per fermare l'emorragia da arti (braccia/gambe) è spesso preferibile l'utilizzo di un laccio emostatico (anche chiamato "CAT") visto che il tempo di applicazione è molto minore di una qualsiasi benda.
 
-Una ferita bendata può riaprirsi se non viene successivamente suturata da un soccorritore/medico. Alcuni tipi di bende sono più veloci nel tappare ampie ferite, altri sono più longevi prima di permettere la riapertura. [Qui potete trovare una tabella che elenca tali differenze](https://i.imgur.com/yr1hXT4.png).
+Una ferita bendata può riaprirsi se non viene successivamente suturata da un soccorritore/medico. Alcuni tipi di bende sono più veloci nel tappare ampie ferite, altri sono più longevi prima di permettere la riapertura. [Qui potete trovare una tabella che elenca tali differenze](https://i.imgur.com/yr1hXT4.png).<br>
+Come regola generale si può dire che i bendaggi elastici sono i più veloci a tappare ferite ma anche i primi a riaprirsi, i `packing`/`compressivi` sono una buona via di mezzo, mentre i `Quikclot` sono i più longevi e utili quando è prevedibile un'attesa prolungata del personale medico.
 
 #### 2. Ripristina il battito cardiaco
 
@@ -96,7 +97,7 @@ Il soccorritore/medico deve quindi suturare le ferite del paziente in modo da co
 
 Anche eventuali fratture possono essere risolte completamente da un soccorritore/medico, mentre lo `Splint`/`Gessatura` da parte di chiunque può solo ripristinare parzialmente la funzionalità dell'arto.
 
-L'applicazione di antidolorifici ha solo senso se il paziente è conscio e ne ha bisogno, l'applicazione preventiva rischia il prolungamento del rinvenimento e l'eventuale overdose.<br>
+L'applicazione di antidolorifici ha solo senso se il paziente è conscio e ne ha bisogno, la somministrazione preventiva rischia il prolungamento del rinvenimento e un'eventuale overdose (risolvibile dal `Naloxone`).<br>
 Di solito quelli presenti nell'equipaggiamento da fante bastano e avanzano in tutte le situazioni, di conseguenza è meglio che il paziente se li somministri da solo.
 
 !!! warning "Attenti a non andare in overdose da un antidolorifico iniettabile, controllate prima nella "triage card" di non aver già ricevuto uno entro gli ultimi 10 minuti."
@@ -117,7 +118,7 @@ Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun
 Il personale medico invece può trarre beneficio dall'aggiunta di:
 
 - Defibrillatori (AED e AED-X), utili per ripristinare un ritmo cardiaco normale più velocemente della sola CPR;
-- Medicinali avanzati, come antidolorifici più variati e coagulanti (TXA e EACA);
+- Medicinali avanzati, come antidolorifici più variati e coagulanti (`TXA` ed `EACA`);
 - Feature QOL come la suturazione di tutto il corpo mediante una sola interazione;
 
 Il personale medico deve però considerare anche le seguenti **difficoltà aggiunte**:
@@ -126,7 +127,7 @@ Il personale medico deve però considerare anche le seguenti **difficoltà aggiu
     - un collegamento endovenoso in un arto, il `16g IV`;
     - un collegamento intraosseo nello sterno, il `Fast IO`;
 - Il [sistema di coagulazione avanzata](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.kftfvmvzcnlk), che accelera la chiusura automatica di ferite (senza richiedere bendaggi). Questa meccanica consuma però certi "fattori coagulanti" nel sangue del paziente, [alcuni fluidi sono più efficaci di altri](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.brf4cmv3xjxe) nel ripristino di questi fattori.
-- La somministrazione di coagulanti mediante IV può causare il blocco della cannula se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccarla.
+- La somministrazione di coagulanti come `TXA` ed `EACA` mediante IV può causare il blocco della cannula se non vengono preceduti da altri fluidi. In quel caso potrete somministrare soluzione salina e effettuare un `saline flush` dal tab "farmaci" per sbloccarla.
 
 ### Il Sistema Avanzato
 
@@ -178,7 +179,7 @@ Sono abilitati i gruppi sanguigni, essi vengono assegnati randomicamente a tutti
 
 #### Coagulazione
 
-Medesima meccanica già accennata nel [sistema base](#il-sistema-base), impostata come "avanzata" in maniera realistica. TXA/EACA somministrato senza altri fluidi può causare un blocco della cannula.
+Medesima meccanica già accennata nel [sistema base](#il-sistema-base), impostata come "avanzata" in maniera realistica. `TXA`/`EACA` somministrato senza altri fluidi può causare un blocco della cannula.
 
 #### Chirurgia
 
