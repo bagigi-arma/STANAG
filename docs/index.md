@@ -20,9 +20,9 @@ Il progetto Bagigi STANAG consiste nello sviluppo di SOP comuni tra i vari clan 
 A grosso modo, questi STANAG si suddividono in due categorie:
 
 <div class="grid cards" markdown>
-- :fontawesome-solid-chevron-down: [__Basso Livello__](basso-livello/index.md)<br>
+- :material-chevron-double-down: [__Basso Livello__](basso-livello/index.md)<br>
   Procedure di base, utili a tutti i giocatori in missione.
-- :fontawesome-solid-chevron-up: [__Alto Livello__](alto-livello/index.md)<br>
+- :material-chevron-double-up: [__Alto Livello__](alto-livello/index.md)<br>
   Procedure avanzate, utili per coordinare situazioni specifiche.
 </div>
 
