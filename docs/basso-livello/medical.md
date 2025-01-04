@@ -56,9 +56,9 @@ Un soccorritore/medico potrà poi arrivare per accelerare il ripristino di un ri
 
 Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aeree) (airway e breathing), per stabilizzare un paziente bisognerà anche controllare che le vie aeree sono libere (prive di ostruzioni o occlusioni) e che i polmoni e la gabbia toracica del paziente sono integri.
 
-Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero l'ossigenazione del sangue del paziente, che idealmente è al 100%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
+Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero la [saturazione di ossigeno del sangue](https://it.wikipedia.org/wiki/Saturazione_arteriosa_dell%27ossigeno) del paziente, che idealmente è superiore al 95%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
 
-Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il pulsossimetro o il `Vitals Monitor` integrato nel AED-X.
+Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il `Pulsoximeter`/`Pulsossimetro` o il `Vitals Monitor` integrato nel AED-X.
 
 1. Le vie aeree possono essere:
 
@@ -77,16 +77,16 @@ Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cian
 
 Una volta stabilizzate le funzioni vitali in modo tale da escludere un eventuale decesso del paziente, si può passare a ridurre il tempo di rinvenimento il più possibile, per liberarsi della zavorra che rappresenta un fante privo di sensi.
 
-Se il SpO2 è ancora molto inferiore alla soglia minima per rinvenire, conviene l'utilizzo del `BVM` (un [pallone AMBU](https://it.wikipedia.org/wiki/Pallone_autoespandibile)) per accelerare il recupero dell'ossigenazione. Esistono due varianti:
+Se la SpO2 è ancora molto inferiore alla soglia minima per rinvenire, conviene l'utilizzo del `BVM` (un [pallone AMBU](https://it.wikipedia.org/wiki/Pallone_autoespandibile)) per accelerare il recupero dell'ossigenazione. Esistono due varianti:
 
-- Il `Pocket BVM`/`Maschera AMBU portatile` è una versione più leggera ma meno efficace, utile per i loadout più basilari dei soccorritori.
-- Il `BVM`/`Maschera AMBU`, oltre ad essere più efficace, permette l'utilizzo di ossigeno supplementare per potenziare ulteriormente il recupero. Le fonti sono:
-    - Bombole portatili di ossigeno (da 150/300l) nel proprio inventario (irrealistico per soccorritori/medici da campo, visto che IRL se colpiti possono detonare).
+- Il `Pocket BVM`/`Maschera AMBU portatile` è una variante più leggera, utile per i loadout più basilari dei soccorritori.
+- Il `BVM`/`Maschera AMBU` è più pesante e permette l'utilizzo di ossigeno supplementare per potenziare il recupero. Le fonti sono:
+    - Bombole portatili di ossigeno (da 150/300l) nel proprio inventario (irrealistico per soccorritori/medici da campo, visto che IRL se colpite possono detonare).
     - Veicoli/Edifici definiti da ACE3 o l'Editor della missione come medici. Un'interazione su di essi permette anche di riempire una propria bombola portatile.
 
 ??? warning "Attenti quando usate il BVM"
-    Dato che l'utilizzo di un qualsiasi BVM annulla la posizione di sicurezza, durante l'applicazione può riformarsi un'ostruzione/occlusione se le vie aeree non sono state stabilizzate con un `King LT`/`Tubo Laringeo`. Così ci si accorgerebbe solo dopo aver interrotto l'applicazione che l'SpO2 è rimasto costante oppure calato ulteriormente.<br>
-    Per evitare questo spreco di tempo è meglio stabilizzare sempre le vie aeree di pazienti che hanno l'SpO2 abbastanza basso da richiedere un utilizzo prolungato del BVM.
+    Dato che l'utilizzo di un qualsiasi BVM annulla la posizione di sicurezza, durante l'applicazione può riformarsi un'ostruzione/occlusione se le vie aeree non sono state stabilizzate con un `King LT`/`Tubo Laringeo`. Così ci si accorgerebbe solo dopo aver interrotto l'applicazione che la SpO2 è rimasta costante oppure calata ulteriormente.<br>
+    Per evitare questo spreco di tempo è meglio stabilizzare sempre le vie aeree di pazienti che hanno la SpO2 abbastanza bassa da richiedere un utilizzo prolungato del BVM.
 
 Appena i parametri vitali diventano "stabili" da permettere il rinvenimento, possiamo tentare alcune interazioni sulla testa per svegliare forzatamente il paziente. Altrimenti dovrebbe aspettare la probabilità randomica di rinvenimento.
 
