@@ -1,4 +1,5 @@
 *[SOP]: Standard Operating Procedures
+*[LOS]: Line of Sight, una linea di vista libera tra un osservatore e un bersaglio, utilizzabile anche in riferimento a collegamenti tra radio o il campo "visivo" di sensori radar.
 *[CAS]: Close Air Support
 *[MCI]: Mass Casualty Incident, una situazione con molteplici feriti più o meno gravi, richiedente l'intervento di più soccorritori e medici.
 *[CASEVAC]: Evacuazione improvvisata di feriti utilizzando un veicolo/velivolo qualsiasi, come camion/MRAP/APC o elicotteri da trasporto generale.
