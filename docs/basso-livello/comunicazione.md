@@ -17,17 +17,29 @@ Mod utili compatibili con questo Fork sono:
 
 ### La voce diretta
 
-La simulazione della voce mediante cui possiamo parlare con i giocatori in prossimità.
+La simulazione della voce ci permette di sentire gli altri giocatori **direzionalmente**, con un volume nelle nostre orecchie che dipende dai seguenti fattori:
 
-> ACRE2 has a built in direct speech slider allowing you to determine how far your voice in direct speech should travel. The system has five states and by default starts in the middle state. The below table contains an approximated table with empirical testing by Bullhorn.
+- La distanza tra di noi.
+- La presenza di compartimenti veicolari o terreno/muri tra di noi.
+- Il volume con cui stanno parlando.
 
-| Volume state | Loud (m)| Quiet (m)| Barely audible (m)|
-| -------- | -------- | -------- | -------- |
-| 1/5 | 1 | 2 | 13 |
-| 2/5 | 3 | 15 | 55 |
-| 3/5 | 8 | 30 | 100 |
-| 4/5 | 12 | 45 | 145 |
-| 5/5 | 15 | 55 | 195 |
+Questo ultimo fattore si riferisce alla funzionalità di ACRE2 che ci permette di modificare il "volume" della nostra voce, dal bisbiglio al grido.
+
+Tenendo premuto <kbd>Tab</kbd> e girando la rotellina del mouse possiamo selezionare velocemente l'impostazione desiderata o semplicemente controllare quella attuale.
+
+!!! warning "Parlare a voce troppo alta rivela la nostra presenza anche ai Bot nemici"
+
+La seguente tabella elenca i 5 volumi di voce disponibili, con le relative distanze massime udibili e le situazioni più adatte all'utilizzo.
+
+| Volume della voce | Alto (m)| Basso (m) | Quasi impercettibile (m) | Quando usarlo? |
+| -------- | -------- | -------- | -------- | -------- |
+| `1/5` | 1 | 2 | 13 | Comunicazioni a singoli durante briefing o CQB con nemici vicinissimi |
+| `2/5` | 3 | 15 | 55 | Comunicazione con il proprio buddy senza intralciare il resto del gruppo, oppure con il proprio gruppo se c'è possibile presenza nemica nelle vicinanze |
+| `3/5` | 8 | 30 | 100 | Adatto al 90% delle situazioni sul campo, buona via di mezzo tra non intralciare/svelarsi e essere sentiti dal proprio gruppo |
+| `4/5` | 12 | 45 | 145 | Situazioni di combattimento in cui dobbiamo farci sentire da tutta una squadra, con buddy-team distribuiti a >15m di distanza |
+| `5/5` | 15 | 55 | 195 | Comunicazione chiara con un gruppo distaccato o altre squadre, specialmente in scenari senza radio personali |
+
+!!! note "Mentre trasmettiamo in radio, il volume parlato (indipendente da quello trasmesso) viene ridotto di un singolo livello."
 
 ### Le radio personali
 

@@ -7,3 +7,4 @@
 *[KAM]: KAT - Advanced Medical
 *[CAT]: Combat Application Tourniquet, un laccio emostatico che può essere infilato su un arto per fermare l'emorragia.
 *[RCP]: Rianimazione Cardio-Polmonare (anche chiamata "massaggio cardiaco"), un'azione effettuabile da un qualsiasi giocatore sul torace di un paziente in assenza di battito cardiaco, al fine di ristabilire un ritmo normale e interrompere così il timeout di morte in seguito a 5m di arresto.
+*[CQB]: Close Quarters Battle/Combat, una situazione di combattimento molto ravvicinato, spesso visto in aree urbane o trincee. È caratterizzato dalla costante necessità di mutua copertura, visto il numero molto maggiore di angoli dai quali una minaccia potrebbe ingaggiarci. La distanza ridotta favorisce inoltre l'utilizzo di granate.
