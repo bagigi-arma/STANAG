@@ -63,6 +63,16 @@ Veicoli e velivoli hanno delle radio proprie con ampia potenza di trasmissione.
 
 Il loro interfono ci permette di comunicare in modo chiaro con altri membri dell'equipaggio e passeggeri imbarcati, senza essere ostacolati dal rumore generato dal veicolo e la distanza tra i nostri sedili.
 
+### Keybind e concetti utili
+
+#### La radio "attiva"
+
+Concetto di radio "attiva" dell'ACRE2, <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>CapsLock</kbd>.
+
+#### I tasti PTT
+
+Concetto di PTT e come riassegnarli.
+
 ## La radiofonia
 
 Come comunicare via radio in modo chiaro ed efficente.
@@ -70,6 +80,7 @@ Come comunicare via radio in modo chiaro ed efficente.
 ### Fraseologia fondamentale
 
 Esempi di comunicazioni corrette.
+- "Passo" e "Chiudo"/"Fine"
 Tabella con le brevity principali.
 
 ### Procedure utili
