@@ -100,7 +100,7 @@ Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radi
 
 Esistono situazioni, in particolare nella figura di caposquadra o di plotone, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
 
-Con <kbd>Ctrl</kbd>+<kbd>⇧&nbsp;Shift</kbd>+<kbd>&darr;</kbd> (o la relativa autointerazione) possiamo alzare/abbassare la "cuffia". Il risultato è che il volume di tutte le nostre radio sarà immediatamente ridotto, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
+Con <kbd>Ctrl</kbd>+<kbd>⇧&nbsp;Shift</kbd>+<kbd>&darr;</kbd> (o la relativa autointerazione) possiamo alzare/abbassare la "cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
 
 ### Interfono e radio veicolari
 
