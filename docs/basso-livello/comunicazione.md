@@ -10,6 +10,8 @@ title: Comunicazione
 Il Network Bagigi si è standardizzato sulla mod [ACRE2 - Bagigi Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=3012268676) come mod radio per le operazioni Arma 3.<br>
 Essa ci permette di parlare con gli altri giocatori in missione mediante un plugin di [TeamSpeak3](https://teamspeak.com/en/downloads/#ts3client), che viene auto-installato durante l'avvio di Arma 3, se la mod è stata attivata.
 
+Le informazioni in questa guida fanno riferimento alla [wiki di ACRE2](https://acre2.idi-systems.com/wiki/user/overview). La lettura è consigliata in particolare per argomenti non trattati su questa pagina, come [i GUI delle radio](https://acre2.idi-systems.com/wiki/radios/overview).
+
 Mod utili compatibili con questo Fork sono:
 
 - [ACRE2 Bagigi Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=3126781754) per le animazioni delle mani che interagiscono con le varie radio.
