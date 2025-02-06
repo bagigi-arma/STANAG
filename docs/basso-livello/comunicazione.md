@@ -33,8 +33,8 @@ La seguente tabella elenca i 5 volumi di voce disponibili, con le relative dista
 
 | Volume della voce | Alto (m)| Basso (m) | Quasi impercettibile (m) | Quando usarlo? |
 | -------- | -------- | -------- | -------- | -------- |
-| `1/5` | 1 | 2 | 13 | Comunicazioni a singoli durante briefing o CQB con nemici vicinissimi |
-| `2/5` | 3 | 15 | 55 | Comunicazione con il proprio buddy senza intralciare il resto del gruppo, oppure con il proprio gruppo se c'è possibile presenza nemica nelle vicinanze |
+| `1/5` | 1 | 2 | 13 | Comunicazione a singoli durante briefing o CQB con nemici vicinissimi |
+| `2/5` | 3 | 15 | 55 | Comunicazione con i propri buddy senza intralciare il resto del gruppo, oppure con il proprio gruppo se c'è possibile presenza nemica nelle vicinanze |
 | `3/5` | 8 | 30 | 100 | Adatto al 90% delle situazioni sul campo, buona via di mezzo tra non intralciare/svelarsi e essere sentiti dal proprio gruppo |
 | `4/5` | 12 | 45 | 145 | Situazioni di combattimento in cui dobbiamo farci sentire da tutta una squadra, con buddy-team distribuiti a >15m di distanza |
 | `5/5` | 15 | 55 | 195 | Comunicazione chiara con un gruppo distaccato o altre squadre, specialmente in scenari senza radio personali |
@@ -45,15 +45,16 @@ La seguente tabella elenca i 5 volumi di voce disponibili, con le relative dista
 
 La propagazione delle onde radio di banda [VHF](https://it.wikipedia.org/wiki/Very_high_frequency)/[UHF](https://it.wikipedia.org/wiki/Ultra_high_frequency) viene simulata da ACRE2 con un elevato livello di realismo, secondo il modello reale comunemente noto come [multipath](https://it.wikipedia.org/wiki/Multipath_fading), che si comporta secondo i seguenti criteri:
 
-- Propagazione LOS con attenuazione su distanza.
+- Propagazione LOS con [attenuazione di spazio libero](https://it.wikipedia.org/wiki/Attenuazione_di_spazio_libero).
 - Propagazione mediante riflessioni di onde sul terreno circostante.
 - Riflessioni di onde dal terreno circostante interferiscono con l'onda LOS o altre riflessioni e possono degradare il segnale ricevuto.
 - Se non si è in LOS e non c'è terreno circostante su cui il segnale può riflettere per giungere al destinatario, non ci sarà collegamento anche se la distanza tra i due è di <100 metri.
 
+Visto che non esistono ancora radio subacquee (per i sub), ma nella realtà è più facile comunicare a gesti sott'acqua, il compromesso attuale attuato dall'ACRE2 è che la voce diretta viene bloccata, mentre le radio funzionano normalmente.
+
 ### Le radio personali
 
-Le radio di ACRE2 non utilizzano lo slot della radio nel proprio inventario come forse avete visto dalla TFAR. Invece devono essere messe in un qualsiasi contenitore, l'uniforme, il corpetto o lo zaino stesso.<br>
-Alcune radio "da zaino" possono essere portate *(sorpresa!)* solo in uno zaino.
+Le radio di ACRE2 non utilizzano lo slot della radio nel proprio inventario come forse avete visto dalla TFAR. Invece devono essere messe in un qualsiasi contenitore, l'uniforme, il corpetto o lo zaino stesso. Alcune radio "da zaino" possono essere portate *(sorpresa!)* solo in uno zaino.
 
 | Nome Radio | Descrizione | Potenza di Trasmissione | Portata urbana / ideale |
 | ---------- | ----------- | ----------------------- | ----------------------- |
@@ -105,7 +106,7 @@ Qui sotto sono elencati i vari oggetti di inventario che possiamo montare, media
 - ^^Antenne convenzionali:^^<br>
   Esse migliorano la portata della radio collegata aumentando la potenza di trasmissione, ma anche elevando l'antenna sopra il terreno bloccante. La propagazione rimane comunque LOS, però la potenza maggiore aumenta l'efficacia di riflessioni contro il terreno.
     - VHF30108 GS: l'antenna "Ground Spike" montabile, alta circa 2.4m, compatibile con `AN/PRC-148/152/117F/77` e `SEM 70`;
-    - VHF30108 GSM: antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
+    - VHF30108 GSM: oggetto antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
     - VHF30108 Mast: oggetto di "albero", montabile su un GS per estenderlo in GSM;
 - ^^Antenne SATCOM:^^<br>
   Questo tipo di antenna permette la comunicazione radio con protocolli di comunicazione particolari, utilizzando un satellite geosincrono come relay. La portata viene così estesa effettivamente su tutto il pianeta, l'unico requisito è che sia l'antenna trasmettente che quella ricevente devono avere una LOS libera verso il cielo.
