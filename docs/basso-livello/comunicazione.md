@@ -75,7 +75,7 @@ In ACRE2 tutte le radio personali sono equivalenti in termini di UI, non esiste 
 
 #### I tasti PTT
 
-Con "Push To Talk" si intende un tasto che premiamo per trasmettere con una qualsiasi radio. ACRE2 permette l'assegnazione di 3 tasti, identificati nel GUI sempre con il rispettivo numero:
+Con "Push To Talk" si intende un tasto che premiamo per trasmettere con una determinata radio. ACRE2 permette l'assegnazione di 3 tasti, identificati nel GUI sempre con il rispettivo numero:
 
 1. <kbd>CapsLock</kbd>
 2. <kbd>Ctrl</kbd> + <kbd>CapsLock</kbd>
@@ -100,7 +100,7 @@ Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radi
 
 #### Abbassare la cuffia
 
-Esistono situazioni, in particolare nella figura di caposquadra o di plotone, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
+Esistono situazioni, in particolare nel ruolo di caposquadra o superiori, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
 
 Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relativa autointerazione) possiamo abbassare/indossare la "cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
 
@@ -112,10 +112,10 @@ Velivoli e veicoli corrazzati montano quasi sempre un "interfono" che ci permett
 
 #### Radio "rack" veicolari
 
-Veicoli e velivoli hanno delle radio proprie con ampia potenza di trasmissione. Si differenziano principalmente in 2 tipologie:
+Veicoli e velivoli hanno dei "rack" radio propri con ampia potenza di trasmissione. Si differenziano principalmente in due tipologie:
 
 - ^^Rack con radio non rimovibili:^^<br>
-  Sono quelli più comunemente usati, praticamente sempre presenti su veicoli pesanti e velivoli. Possiamo "usarli" con l'apposita interazione (o con la manopola Work dell'intercom, sui veicoli corrazzati), così diventeranno parte della nostra radio personale 
+  Sono quelli più comunemente usati, praticamente sempre presenti su veicoli pesanti e velivoli. Possiamo "usarli" con l'apposita interazione (o con la manopola Work dell'intercom, sui veicoli corrazzati), così verranno aggiunti alla nostra lista di radio personali.
     - `AN/VRC-103`: monta una `AN/PRC-117F` con potenza aumentata da 20W a 50W;
     - `AN/VRC-64`: monta una `AN/PRC-77` con potenza aumentata da 4W a 50W;
     - `SEM 90`: monta una `SEM 70` con potenza selezionabile di 4W o 40W;
