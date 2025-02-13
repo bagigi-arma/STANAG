@@ -78,8 +78,8 @@ In ACRE2 tutte le radio personali sono equivalenti in termini di UI, non esiste 
 Con "Push To Talk" si intende un tasto che premiamo per trasmettere con una qualsiasi radio. ACRE2 permette l'assegnazione di 3 tasti, identificati nel GUI sempre con il rispettivo numero:
 
 1. <kbd>CapsLock</kbd>
-2. <kbd>Ctrl</kbd>+<kbd>CapsLock</kbd>
-3. <kbd>Alt</kbd>+<kbd>CapsLock</kbd>
+2. <kbd>Ctrl</kbd> + <kbd>CapsLock</kbd>
+3. <kbd>Alt</kbd> + <kbd>CapsLock</kbd>
 
 Quando equipaggiamo una radio, essa verrà assegnata al primo PTT libero. Se ne equipaggiamo più di 3, quelle in eccesso saranno comunque udibili, ma non ci potremo trasmettere senza assegnarle un PTT.
 
@@ -90,19 +90,19 @@ Questa funzione diventa utile nel caso in cui siamo parte di un elemento di coma
 
 Siccome possiamo equipaggiare molte radio, serve un modo per determinare su quale avranno effetto i nostri keybind di manipolazione. Qui subentra il concetto di radio "attiva" dell'ACRE2.
 
-La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con <kbd>Alt</kbd>+<kbd>⇧&nbsp;Shift</kbd>+<kbd>CapsLock</kbd>.
+La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con <kbd>Alt</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>CapsLock</kbd>.
 
 Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione:
 
-- <kbd>Ctrl</kbd>+<kbd>&uarr;</kbd>/<kbd>&darr;</kbd> per cambiare il canale della radio.
-- <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>CapsLock</kbd> per aprire il GUI della radio.
-- <kbd>Ctrl</kbd>+<kbd>⇧&nbsp;Shift</kbd>+<kbd>&larr;</kbd>/<kbd>&uarr;</kbd>/<kbd>&rarr;</kbd> per impostare l'orecchio da cui sentiamo la radio su sinistro/entrambi/destro.
+- <kbd>Ctrl</kbd> + <kbd>&uarr;</kbd> / <kbd>&darr;</kbd> per cambiare il canale della radio.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>CapsLock</kbd> per aprire il GUI della radio.
+- <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&larr;</kbd> / <kbd>&uarr;</kbd> / <kbd>&rarr;</kbd> per impostare l'orecchio da cui sentiamo la radio su sinistro/entrambi/destro.
 
 #### Abbassare la cuffia
 
 Esistono situazioni, in particolare nella figura di caposquadra o di plotone, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
 
-Con <kbd>Ctrl</kbd>+<kbd>⇧&nbsp;Shift</kbd>+<kbd>&darr;</kbd> (o la relativa autointerazione) possiamo alzare/abbassare la "cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
+Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relativa autointerazione) possiamo abbassare/indossare la "cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
 
 ### Interfono e radio veicolari
 
