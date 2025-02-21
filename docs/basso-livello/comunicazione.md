@@ -92,7 +92,7 @@ Siccome possiamo equipaggiare molte radio, serve un modo per determinare su qual
 
 La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con <kbd>Alt</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>CapsLock</kbd>.
 
-Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione:
+Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione o manipolazione del GUI:
 
 - <kbd>Ctrl</kbd> + <kbd>&uarr;</kbd> / <kbd>&darr;</kbd> per cambiare il canale della radio.
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>CapsLock</kbd> per aprire il GUI della radio.
@@ -108,7 +108,27 @@ Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relati
 
 #### L'Interfono/Intercom
 
-Velivoli e veicoli corrazzati montano quasi sempre un "interfono" che ci permette di comunicare in modo chiaro con altri membri dell'equipaggio e passeggeri imbarcati, senza essere ostacolati dal rumore generato dal veicolo e la distanza tra i nostri sedili.
+Velivoli e veicoli corrazzati montano quasi sempre un "interfono" che ci permette di comunicare in modo chiaro con altri membri dell'equipaggio e passeggeri imbarcati, senza essere ostacolati dal rumore generato dal veicolo o la distanza tra i nostri sedili.
+
+Su praticamente tutti i veicoli con interfono, esso si suddivide in uno o due canali:
+
+- ^^Crew/Equipaggio:^^<br>
+  Viene collegato in automatico quando si entra su posti di pilota, artigliere o comandante.<br>
+  I passeggeri possono collegarsi a questo canale solo in 1-2 contemporaneamente, al fine di non disturbare l'equipaggio (lasciatele quindi libere per i leader imbarcati). Inoltre il collegamento userà la modalità PTT, richiedendo l'assegnazione e utilizzo del rispettivo keybind per trasmettere sul canale.
+- ^^Pax/Passeggeri:^^<br>
+  Canale di libera comunicazione per tutto il personale imbarcato, sia per l'equipaggio che i passeggeri. Questo non significa però che conviene collegarsi tutti. Specialmente su velivoli con >12 posti conviene collegarsi solo da SL/TL e rispettivi vice, in modo da lasciare il canale libero per il coordinamento tra leader.
+
+L'interfaccia dell'intercom è apribile mediante interazioni ACE3 su veicolo>intercom>canale, oppure il keybind <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>Tab&nbsp;⇥</kbd>. Essa è modellata secondo il reale sistema ["Full Function Crew Station"](https://chelton.com/media/51ajstyf/lv2-brochure.pdf), permettendoci di impostare ogni canale intercom con una modalità adatta alle nostre esigenze.
+
+Per una spiegazione più approfondita dell'interfaccia e gli utilizzi delle 4 manopole, leggete la [guida ufficiale di ACRE2 sull'intercom](https://acre2.idi-systems.com/wiki/user/vehicle-intercom).
+
+#### Telefono fanteria
+
+Alcuni veicoli corrazzati permettono ad un fante sbarcato di collegarsi all'interfono dall'esterno, per comunicare con l'equipaggio senza richiedere l'utilizzo di radio o lo sporgimento del comandante dalla botola.
+
+Possiamo utilizzarlo (se disponibile) mediante l'opportuna interazione ACE3 al centro o sul retro del veicolo. Successivamente trasmetteremo di continuo sul canale intercom scelto, finché rimaniamo consci ed entro la distanza massima di ~3m dal veicolo.
+
+Sempre sul veicolo potremo trovare interazioni per riporre il telefono fanteria o cambiare il canale. Possiamo inoltre passare il telefono ad un altro fante vicino, mediante l'opportuna interazione sul suo bacino.
 
 #### Radio "rack" veicolari
 
