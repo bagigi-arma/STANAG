@@ -108,7 +108,25 @@ Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relati
 
 #### L'Interfono/Intercom
 
-Velivoli e veicoli corrazzati montano quasi sempre un "interfono" che ci permette di comunicare in modo chiaro con altri membri dell'equipaggio e passeggeri imbarcati, senza essere ostacolati dal rumore generato dal veicolo e la distanza tra i nostri sedili.
+Velivoli e veicoli corrazzati montano quasi sempre un "interfono" che ci permette di comunicare in modo chiaro con altri membri dell'equipaggio e passeggeri imbarcati, senza essere ostacolati dal rumore generato dal veicolo o la distanza tra i nostri sedili.
+
+Su praticamente tutti i veicoli con interfono, esso si suddivide in uno o due canali:
+
+- ^^Crew/Equipaggio:^^<br>
+  Viene collegato in automatico quando si entra su posti di pilota, artigliere o comandante.<br>
+  I passeggeri possono collegarsi a questo canale solo in modalità limitata. Sono ammesse solo 1-2 connessioni contemporanee, al fine di non disturbare l'equipaggio. Inoltre il collegamento userà la modalità PTT, richiedendo l'assegnazione e utilizzo del rispettivo keybind (o girare la manopola) per trasmettere sul canale.
+- ^^Pax/Passeggeri:^^<br>
+  Canale di libera comunicazione per tutto il personale imbarcato, sia per l'equipaggio che i passeggeri. Questo non significa però che conviene collegarsi tutti. Specialmente su velivoli con >12 posti conviene collegarsi solo da SL/TL e rispettivi vice, in modo da 
+
+Interfaccia
+
+Stazione "Master" - I ruoli di pilota e comandante hanno spesso accesso anche a funzioni come:
+  - broadcast
+  - accent
+
+#### Telefono fanteria
+
+Alcuni veicoli corrazzati permettono ad un fante sbarcato di collegarsi all'interfono dall'esterno, per comunicare con l'equipaggio senza richiedere l'utilizzo di radio o lo sporgimento del comandante dalla botola.
 
 #### Radio "rack" veicolari
 
