@@ -27,7 +27,7 @@ Un "mini-medico" a livello di gruppo/squadra, capace di stabilizzare autonomamen
 
 #### Il Medico
 
-Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
+Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari soccorritori ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
 
 ### L'ordine di cura
 
@@ -52,13 +52,18 @@ Per questo motivo è importante ripristinare un ritmo normale appena possibile, 
 Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
 Un soccorritore/medico potrà poi arrivare per accelerare il ripristino di un ritmo normale con un defibrillatore, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
 
+Esistono due tipi di defibrillatore:
+
+- `AED`
+- `AED-X`
+
 #### 3. Controlla le vie aeree
 
 Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aeree) (airway e breathing), per stabilizzare un paziente bisognerà anche controllare che le vie aeree sono libere (prive di ostruzioni o occlusioni) e che i polmoni e la gabbia toracica del paziente sono integri.
 
 Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero la [saturazione di ossigeno del sangue](https://it.wikipedia.org/wiki/Saturazione_arteriosa_dell%27ossigeno) del paziente, che idealmente è superiore al 95%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
 
-Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il `Pulsoximeter`/`Pulsossimetro` o il `Vitals Monitor` integrato nel AED-X.
+Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il `Pulsoximeter`/`Pulsossimetro` o il `Vitals Monitor` integrato nel `AED-X`.
 
 1. Le vie aeree possono essere:
 
