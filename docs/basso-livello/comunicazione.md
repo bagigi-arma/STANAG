@@ -161,7 +161,12 @@ Qui sotto sono elencati i vari oggetti di inventario che possiamo montare, media
 
 ### Radio "esterne"
 
-Come usare le radio di altri operatori.
+La ACRE2 introduce una meccanica che ci permette di usare una radio collocata su un altro giocatore, senza doverla prima spostare nel nostro inventario.
+
+Se una radio è stata condivisa dal proprietario mediante autointerazione ACE3 (oppure è morto, svenuto o ammanettato) potremo utilizzare un'interazione sul suo bacino per "prendere la cuffia/cornetta". Successivamente potremo usarla come se fosse una radio nel nostro inventario, finché rimaniamo entro 2 metri dal proprietario.
+
+Questa meccanica permette per esempio ad un caposquadra di comunicare con la radio del proprio radiofonista, senza doverlo usare come passaparola.<br>
+Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore o medico impegnato nelle cure può prendere la cuffia per mantenere le comunicazioni con l'esterno.
 
 ## La radiofonia
 
