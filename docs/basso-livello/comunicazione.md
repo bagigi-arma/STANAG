@@ -152,12 +152,12 @@ Qui sotto sono elencati i vari oggetti di inventario che possiamo montare, media
 
 - ^^Antenne convenzionali:^^<br>
   Esse migliorano la portata della radio collegata aumentando la potenza di trasmissione, ma anche elevando l'antenna sopra il terreno bloccante. La propagazione rimane comunque LOS, però la potenza maggiore aumenta l'efficacia di riflessioni contro il terreno.
-    - VHF30108 GS: l'antenna "Ground Spike" montabile, alta circa 2.4m, compatibile con `AN/PRC-148/152/117F/77` e `SEM 70`;
-    - VHF30108 GSM: oggetto antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
-    - VHF30108 Mast: oggetto di "albero", montabile su un GS per estenderlo in GSM;
+    - `VHF30108 GS`: l'antenna "Ground Spike" montabile, alta circa 2.4m, compatibile con `AN/PRC-148`, `-152`, `-117F`, `-77` e `SEM 70`;
+    - `VHF30108 Mast`: oggetto di "albero", montabile su un GS per estenderlo in GSM;
+    - `VHF30108 GSM`: oggetto antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
 - ^^Antenne SATCOM:^^<br>
   Questo tipo di antenna permette la comunicazione radio con protocolli di comunicazione particolari, utilizzando un satellite geosincrono come relay. La portata viene così estesa effettivamente su tutto il pianeta, l'unico requisito è che sia l'antenna trasmettente che quella ricevente devono avere una LOS libera verso il cielo.
-    - RF-3080: antenna SATCOM piazzabile, compatibile con `AN/PRC-152/117F`;
+    - `RF-3080`: antenna SATCOM piazzabile, compatibile solo con `AN/PRC-152` e `-117F`;
 
 ### Radio "esterne"
 
