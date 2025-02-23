@@ -5,7 +5,11 @@ title: Comunicazione
 
 # Comunicazione e Radiofonia
 
+Questa sezione copre la standardizzazione delle procedure di comunicazione usate dal Network Bagigi.
+
 ## La mod radio
+
+Entriamo prima in dettaglio sulla mod radio che utilizziamo, le sue particolarità e funzionalità a nostra disposizione.
 
 Il Network Bagigi si è standardizzato sulla mod [ACRE2 - Bagigi Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=3012268676) come mod radio per le operazioni Arma 3.<br>
 Essa ci permette di parlare con gli altri giocatori in missione mediante un plugin di [TeamSpeak3](https://teamspeak.com/en/downloads/#ts3client), che viene auto-installato durante l'avvio di Arma 3, se la mod è stata attivata.
@@ -170,17 +174,31 @@ Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore 
 
 ## La radiofonia
 
-Come comunicare via radio in modo chiaro ed efficente.
+Dettagliamo quindi la vera e propria "radiofonia", ovvero la struttura che diamo alle comunicazioni radio, al fine di conversare in maniera chiara ed efficente.
 
 ### Fraseologia fondamentale
 
 Esempi di comunicazioni corrette.
+
 - "Passo" e "Chiudo"/"Fine"
+
 Tabella con le brevity principali.
+
+#### Utilizzo dei nominativi
+
+#### Prova radio
+
+#### Parole terminali, "passo" vs "fine"
+
+#### Conferma vs negazione
 
 ### Procedure utili
 
-Esempi di procedure di comunicazione come "esecutivo all'ordine", "esecutivo immediato" o "assicuro".
+Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni.
+
+#### "Esecutivo all'ordine"
+
+#### "Assicuro"
 
 ### Una maglia radio
 
