@@ -178,17 +178,34 @@ Dettagliamo quindi la vera e propria "radiofonia", ovvero la struttura che diamo
 
 ### Fraseologia fondamentale
 
-Esempi di comunicazioni corrette.
 
-- "Passo" e "Chiudo"/"Fine"
-
-Tabella con le brevity principali.
 
 #### Utilizzo dei nominativi
 
+I nominativi o callsign sono nomi in codice, utilizzati per 
+
 #### Prova radio
 
+Per effettuare velocemente una prova di collegamento (o "prova radio"), basta richiederla come tale
+
+#### Brevity comuni
+
+Standby, Wilco, Roger, ecc.
+
 #### Parole terminali, "passo" vs "fine"
+
+Sono utili a terminare una comunicazione, esplicitando al destinatario se richiediamo o meno una conferma di ricezione.
+
+- Se richiediamo una conferma, terminiamo la comunicazione con =="passo"==.
+- Se **non** la richiediamo, terminiamo la comunicazione con =="fine"== (analogo di "chiudo").
+- Se non utilizziamo alcuna parola terminale, diamo effettivamente la scelta al destinatario se rispondere o meno. Comunque, nella maggioranza delle conversazioni, è da considerarsi implicita la necessità di confermare la ricezione.
+
+> [Spada] Gladio, qui Spada, avanzate su obbiettivo Yankee, ==passo==.
+
+> [Gladio] Spada, Gladio, ricevuto, ==fine==.
+
+??? failure "Errori comuni"
+    Combinazioni di entrambe le parole, come "passo e fine" o "passo e chiudo", sono categoricamente errate.<br>Creare una terza brevity dalla combinazione di due altre con senso opposto serve solo ad aumentare il potenziale di equivoci.
 
 #### Conferma vs negazione
 
