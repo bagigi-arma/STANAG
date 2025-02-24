@@ -31,7 +31,7 @@ La simulazione della voce ci permette di sentire gli altri giocatori **direziona
 
 Questo ultimo fattore si riferisce alla funzionalità di ACRE2 che ci permette di modificare il "volume" della nostra voce, dal bisbiglio al grido.
 
-Tenendo premuto <kbd>Tab&nbsp;⇥</kbd> e girando la rotellina del mouse possiamo selezionare velocemente l'impostazione desiderata o semplicemente controllare quella attuale.
+Tenendo premuto ++tab++ e girando la rotellina del mouse possiamo selezionare velocemente l'impostazione desiderata o semplicemente controllare quella attuale.
 
 !!! warning "Parlare a voce troppo alta rivela la nostra presenza anche ai Bot nemici"
 
@@ -81,9 +81,9 @@ In ACRE2 tutte le radio personali sono equivalenti in termini di UI, non esiste 
 
 Con "Push To Talk" si intende un tasto che premiamo per trasmettere con una determinata radio. ACRE2 permette l'assegnazione di 3 tasti, identificati nel GUI sempre con il rispettivo numero:
 
-1. <kbd>CapsLock</kbd>
-2. <kbd>Ctrl</kbd> + <kbd>CapsLock</kbd>
-3. <kbd>Alt</kbd> + <kbd>CapsLock</kbd>
+1. ++caps-lock++
+2. ++ctrl+caps-lock++
+3. ++alt+caps-lock++
 
 Quando equipaggiamo una radio, essa verrà assegnata al primo PTT libero. Se ne equipaggiamo più di 3, quelle in eccesso saranno comunque udibili, ma non ci potremo trasmettere senza assegnarle un PTT.
 
@@ -94,19 +94,19 @@ Questa funzione diventa utile nel caso in cui siamo parte di un elemento di coma
 
 Siccome possiamo equipaggiare molte radio, serve un modo per determinare su quale avranno effetto i nostri keybind di manipolazione. Qui subentra il concetto di radio "attiva" dell'ACRE2.
 
-La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con <kbd>Alt</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>CapsLock</kbd>.
+La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con ++alt+shift+caps-lock++.
 
 Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione o manipolazione del GUI:
 
-- <kbd>Ctrl</kbd> + <kbd>&uarr;</kbd> / <kbd>&darr;</kbd> per cambiare il canale della radio (non su radio da zaino).
-- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>CapsLock</kbd> per aprire il GUI della radio.
-- <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&larr;</kbd> / <kbd>&uarr;</kbd> / <kbd>&rarr;</kbd> per impostare l'orecchio da cui sentiamo la radio su sinistro/entrambi/destro.
+- ++ctrl+arrow-up++ / ++arrow-down++ per cambiare il canale della radio (non su radio da zaino).
+- ++ctrl+alt+caps-lock++ per aprire il GUI della radio.
+- ++ctrl+shift+arrow-left++ / ++arrow-up++ / ++arrow-right++ per impostare l'orecchio da cui sentiamo la radio su sinistro/entrambi/destro.
 
 #### Abbassare la cuffia
 
 Esistono situazioni, in particolare nel ruolo di caposquadra o superiori, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
 
-Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relativa autointerazione) possiamo "abbassare la cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
+Con ++ctrl+shift+arrow-down++ (o la relativa autointerazione) possiamo "abbassare la cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
 
 ### Interfono e radio veicolari
 
@@ -122,7 +122,7 @@ Su praticamente tutti i veicoli con interfono, esso si suddivide in uno o due ca
 - ^^Pax/Passeggeri:^^<br>
   Canale di libera comunicazione per tutto il personale imbarcato, sia per l'equipaggio che i passeggeri. Questo non significa però che conviene collegarsi tutti. Specialmente su velivoli con >12 posti conviene collegarsi solo da SL/TL e rispettivi vice, in modo da lasciare il canale libero per il coordinamento tra leader.
 
-L'interfaccia dell'intercom è apribile mediante interazioni ACE3 su veicolo>intercom>canale, oppure il keybind <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>Tab&nbsp;⇥</kbd>. Essa è modellata secondo il reale sistema ["Full Function Crew Station"](https://chelton.com/media/51ajstyf/lv2-brochure.pdf), permettendoci di impostare ogni canale intercom con una modalità adatta alle nostre esigenze.
+L'interfaccia dell'intercom è apribile mediante interazioni ACE3 su veicolo>intercom>canale, oppure il keybind ++ctrl+shift+tab++. Essa è modellata secondo il reale sistema ["Full Function Crew Station"](https://chelton.com/media/51ajstyf/lv2-brochure.pdf), permettendoci di impostare ogni canale intercom con una modalità adatta alle nostre esigenze.
 
 Per una spiegazione più approfondita dell'interfaccia e gli utilizzi delle 4 manopole, leggete la [guida ufficiale di ACRE2 sull'intercom](https://acre2.idi-systems.com/wiki/user/vehicle-intercom).
 
