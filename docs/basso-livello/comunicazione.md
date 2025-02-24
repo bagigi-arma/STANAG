@@ -88,7 +88,7 @@ Con "Push To Talk" si intende un tasto che premiamo per trasmettere con una dete
 Quando equipaggiamo una radio, essa verrà assegnata al primo PTT libero. Se ne equipaggiamo più di 3, quelle in eccesso saranno comunque udibili, ma non ci potremo trasmettere senza assegnarle un PTT.
 
 Possiamo in un qualsiasi momento modificare l'assegnazione dei PTT, mediante opportune auto-interazioni ACE3 sulla radio desiderata.<br>
-Questa funzione diventa utile nel caso in cui siamo parte di un elemento di comando più lontano dal combattimento, dove ci torna più comodo avere la nostra `AN/PRC-152/117F` più usata su PTT1, relegando la `AN/PRC-343` al PTT2-3.
+Questa funzione diventa utile nel caso in cui siamo parte di un elemento di comando più lontano dal combattimento, dove ci torna più comodo avere la nostra `AN/PRC-152/117F` più usata su PTT1, relegando la `AN/PRC-343` al PTT2 o 3.
 
 #### La radio "attiva"
 
@@ -98,7 +98,7 @@ La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. 
 
 Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione o manipolazione del GUI:
 
-- <kbd>Ctrl</kbd> + <kbd>&uarr;</kbd> / <kbd>&darr;</kbd> per cambiare il canale della radio.
+- <kbd>Ctrl</kbd> + <kbd>&uarr;</kbd> / <kbd>&darr;</kbd> per cambiare il canale della radio (non su radio da zaino).
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>CapsLock</kbd> per aprire il GUI della radio.
 - <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&larr;</kbd> / <kbd>&uarr;</kbd> / <kbd>&rarr;</kbd> per impostare l'orecchio da cui sentiamo la radio su sinistro/entrambi/destro.
 
@@ -106,7 +106,7 @@ Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radi
 
 Esistono situazioni, in particolare nel ruolo di caposquadra o superiori, in cui comunicazioni radio ostacolano una contemporanea conversazione a voce di maggiore importanza.
 
-Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relativa autointerazione) possiamo abbassare/indossare la "cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
+Con <kbd>Ctrl</kbd> + <kbd>⇧&nbsp;Shift</kbd> + <kbd>&darr;</kbd> (o la relativa autointerazione) possiamo "abbassare la cuffia". Il risultato è una immediata riduzione del volume di tutte le nostre radio, abbastanza da non ostacolare alcuna comunicazione a voce, senza però mutarle del tutto.
 
 ### Interfono e radio veicolari
 
