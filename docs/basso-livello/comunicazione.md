@@ -170,15 +170,19 @@ La ACRE2 introduce una meccanica che ci permette di usare una radio collocata su
 Se una radio è stata condivisa dal proprietario mediante autointerazione ACE3 (oppure è morto, svenuto o ammanettato) potremo utilizzare un'interazione sul suo bacino per "prendere la cuffia/cornetta". Successivamente potremo usarla come se fosse una radio nel nostro inventario, finché rimaniamo entro 2 metri dal proprietario.
 
 Questa meccanica permette per esempio ad un caposquadra di comunicare con la radio del proprio radiofonista, senza doverlo usare come passaparola.<br>
-Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore o medico impegnato nelle cure può prendere la cuffia per mantenere le comunicazioni con l'esterno.
+Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore o medico impegnato nelle cure può prendere la cuffia per mantenere le comunicazioni con l'esterno, in attesa del rinvenimento.
 
 ## La radiofonia
 
 Dettagliamo quindi la vera e propria "radiofonia", ovvero come strutturare le comunicazioni radio, al fine di conversare in maniera chiara ed efficente.
 
+### Una maglia radio
+
+Come assegnare i canali/frequenze delle radio a disposizione dell'unità, al fine di ottimizzare il coordinamento tra elementi di fanteria ed eventuali assetti.
+
 ### Fraseologia fondamentale
 
-Per 
+Le regole fondamentali su come vanno utilizzati nominativi e altre parole (brevity).
 
 #### Utilizzo dei nominativi
 
@@ -186,11 +190,18 @@ I nominativi o callsign sono nomi in codice, utilizzati per identificarci su un 
 
 Idealmente, i callsign utilizzati su uno stesso canale sono:
 
-- Univoci e foneticamente distinti, 
+- Univoci, non devono esistere doppie assegnazioni
+- Foneticamente distinti nella lingua parlata
+- Ambigui sulla gerarchia:<br>
+  Per rendere più difficile l'identificazione di elementi di comando da parte di nemici che hanno intercettato la nostra frequenza.
+
+#### Brevity comuni
+
+Standby, Wilco, Roger, ecc.
 
 #### Prova radio
 
-Per effettuare velocemente una prova di collegamento (o "prova radio"), basta richiederla come di seguito:
+Per verificare quanto bene un'altra unità ci riceve, prima di cominciare una comunicazione effettiva, possiamo effettuare velocemente una prova di collegamento (o "prova radio"). La qualità di ricezione va definita secondo uno dei seguenti criteri.
 
 | Qualità collegamento | Scala 5 | Alternativa |
 | --- | --- | --- |
@@ -200,9 +211,11 @@ Per effettuare velocemente una prova di collegamento (o "prova radio"), basta ri
 |  | "radio 4" |  |
 |  | "radio 5" | "forte e chiaro" |
 
-#### Brevity comuni
+Così potremo effettuare prove come segue:
 
-Standby, Wilco, Roger, ecc.
+> [Spada] Lancia, Spada, prova radio.
+
+> [Lancia] Spada, qui Lancia, radio 5, avanti.
 
 #### Parole terminali, "passo" vs "fine"
 
@@ -224,7 +237,9 @@ Sono utili a terminare una comunicazione, esplicitando al destinatario se richie
 ??? failure "Errori comuni"
     Parole come "affermativo" o "positivo" sono errate, siccome le loro ultime sillabe sono identiche a quelle di "negativo", introducendo il potenziale di equivoci.
 
-### Procedure utili
+#### Cambio di canale
+
+### Procedure avanzate
 
 Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
 
@@ -234,6 +249,3 @@ Ricordiamo che, come per le brevity, la loro forzatura in situazioni poco adatte
 
 #### "Assicuro"
 
-### Una maglia radio
-
-Come assegnare i canali/frequenze delle radio a disposizione dell'unità, al fine di ottimizzare il coordinamento tra elementi di fanteria ed eventuali assetti.
