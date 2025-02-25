@@ -174,19 +174,31 @@ Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore 
 
 ## La radiofonia
 
-Dettagliamo quindi la vera e propria "radiofonia", ovvero la struttura che diamo alle comunicazioni radio, al fine di conversare in maniera chiara ed efficente.
+Dettagliamo quindi la vera e propria "radiofonia", ovvero come strutturare le comunicazioni radio, al fine di conversare in maniera chiara ed efficente.
 
 ### Fraseologia fondamentale
 
-
+Per 
 
 #### Utilizzo dei nominativi
 
-I nominativi o callsign sono nomi in codice, utilizzati per 
+I nominativi o callsign sono nomi in codice, utilizzati per identificarci su un canale radio.
+
+Idealmente, i callsign utilizzati su uno stesso canale sono:
+
+- Univoci e foneticamente distinti, 
 
 #### Prova radio
 
-Per effettuare velocemente una prova di collegamento (o "prova radio"), basta richiederla come tale
+Per effettuare velocemente una prova di collegamento (o "prova radio"), basta richiederla come di seguito:
+
+| Qualità collegamento | Scala 5 | Alternativa |
+| --- | --- | --- |
+|  | "radio 1" |  |
+|  | "radio 2" |  |
+|  | "radio 3" |  |
+|  | "radio 4" |  |
+|  | "radio 5" | "forte e chiaro" |
 
 #### Brevity comuni
 
@@ -205,13 +217,18 @@ Sono utili a terminare una comunicazione, esplicitando al destinatario se richie
 > [Gladio] Spada, Gladio, ricevuto, ==fine==.
 
 ??? failure "Errori comuni"
-    Combinazioni di entrambe le parole, come "passo e fine" o "passo e chiudo", sono categoricamente errate.<br>Creare una terza brevity dalla combinazione di due altre con senso opposto serve solo ad aumentare il potenziale di equivoci.
+    Combinazioni di entrambe le parole, come "passo e chiudo" o "passo e fine", sono **categoricamente sbagliate** (oltre ad essere superflue).<br>Se ci pensiamo, combinare due brevity con sensi opposti, per creare una terza brevity con un significato ancora diverso, non ha senso e serve solo ad aumentare il potenziale di equivoci.
 
 #### Conferma vs negazione
 
+??? failure "Errori comuni"
+    Parole come "affermativo" o "positivo" sono errate, siccome le loro ultime sillabe sono identiche a quelle di "negativo", introducendo il potenziale di equivoci.
+
 ### Procedure utili
 
-Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni.
+Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
+
+Ricordiamo che, come per le brevity, la loro forzatura in situazioni poco adatte al loro utilizzo può creare più equivoci che chiarezza, quindi usatele in modo consono.
 
 #### "Esecutivo all'ordine"
 
