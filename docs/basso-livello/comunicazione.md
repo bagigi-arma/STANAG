@@ -192,8 +192,7 @@ Idealmente, i callsign utilizzati su uno stesso canale sono:
 
 - Univoci, non devono esistere doppie assegnazioni
 - Foneticamente distinti nella lingua parlata
-- Ambigui sulla gerarchia:<br>
-  Per rendere più difficile l'identificazione di elementi di comando da parte di nemici che hanno intercettato la nostra frequenza.
+- Ambigui sulla gerarchia, per rendere difficile l'identificazione dei nostri elementi di comando da parte di nemici che hanno intercettato la nostra frequenza.
 
 #### Brevity comuni
 
@@ -213,21 +212,25 @@ Per verificare quanto bene un'altra unità ci riceve, prima di cominciare una co
 
 Così potremo effettuare prove come segue:
 
-> [Spada] Lancia, Spada, prova radio.
+> [Wolf] Blaze, Wolf, prova radio.
 
-> [Lancia] Spada, qui Lancia, radio 5, avanti.
+> [Blaze] Wolf, qui Blaze, radio 5, avanti.
 
 #### Parole terminali, "passo" vs "fine"
 
-Sono utili a terminare una comunicazione, esplicitando al destinatario se richiediamo o meno una conferma di ricezione.
+Servono ad esplicitare al destinatario se richiediamo o meno una conferma di ricezione.
 
 - Se richiediamo una conferma, terminiamo la comunicazione con =="passo"==.
-- Se **non** la richiediamo, terminiamo la comunicazione con =="fine"== (analogo di "chiudo").
-- Se non utilizziamo alcuna parola terminale, diamo effettivamente la scelta al destinatario se rispondere o meno. Comunque, nella maggioranza delle conversazioni, è da considerarsi implicita la necessità di confermare la ricezione.
+- Se **non** la richiediamo, terminiamo la comunicazione con =="fine"== (il destinatario può comunque continuare a comunicare per correggere/aggiungere informazioni).
+- Se non utilizziamo alcuna parola terminale, diamo effettivamente la scelta al destinatario se rispondere o meno. Comunque, nella maggioranza delle conversazioni, è da considerarsi implicito il =="passo"==.
 
-> [Spada] Gladio, qui Spada, avanzate su obbiettivo Yankee, ==passo==.
+> [Wolf] Blaze, qui Wolf, avanzate su obbiettivo Yankee, ==passo==.
 
-> [Gladio] Spada, Gladio, ricevuto, ==fine==.
+> [Blaze] Wolf, qui Blaze, ricevuto, ==fine==.
+
+> [Wolf] Blaze, Wolf, forze meccanizzate in arrivo, mantenete postazioni difensive, ==passo==.
+
+> [Blaze] Wolf, Blaze, manteniamo, ==fine==.
 
 ??? failure "Errori comuni"
     Combinazioni di entrambe le parole, come "passo e chiudo" o "passo e fine", sono **categoricamente sbagliate** (oltre ad essere superflue).<br>Se ci pensiamo, combinare due brevity con sensi opposti, per creare una terza brevity con un significato ancora diverso, non ha senso e serve solo ad aumentare il potenziale di equivoci.
