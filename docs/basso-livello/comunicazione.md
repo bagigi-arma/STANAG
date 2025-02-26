@@ -261,7 +261,13 @@ Anche ai radiofonisti più esperti capita di sbagliare, ma quando succede non si
 
 > [Wolf] Blaze, Wolf, ricevuto, rimanete nascosti, stiamo coordinando CAS, fine.
 
-#### Separazione o "Break"
+#### Separazione
+
+Quando vogliamo , usiamo =="break"==.
+
+Quando vogliamo indirizzare parti della stessa trasmissione a callsign diversi, usiamo =="break break"== o =="separazione"== per separarle.
+
+> [Wolf] Blaze, qui Wolf, avanzate su obj Lima, ==break break==, Lion coprite i boschi a Ovest da probabile fiancheggiamento nemico, passo.
 
 #### Cambio di canale
 
@@ -269,9 +275,28 @@ Anche ai radiofonisti più esperti capita di sbagliare, ma quando succede non si
 
 Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
 
-Ricordiamo che, come per le brevity, la loro forzatura in situazioni poco adatte al loro utilizzo può creare più equivoci che chiarezza, quindi usatele in modo consono.
+Ricordiamo che, come per le brevity, la loro forzatura in situazioni poco adatte può creare ulteriori equivoci, quindi usatele in modo consono.
 
-#### "Esecutivo all'ordine"
+#### Esecutivo all'ordine
 
-#### "Assicuro"
+Utile per stabilire in anticipo degli ordini di manovra complessi, per poi ordinare la loro esecuzione con una comunicazione breve.
 
+> [Blaze Lead] Tutta la maglia, qui Blaze Lead, ==esecutivo all'ordine:== Blaze 1 sopprime il bunker nemico con priorità di ingaggio su MG statici, Blaze 2 distrugge i carri nemici con i loro lanciarazzi, passo.
+
+> (le squadre interpellate confermano gli ordini e si preparano all'esecuzione)
+
+> [Blaze Lead] Blaze, ==esecutivo! esecutivo! esecutivo!==
+
+#### Assicuro
+
+Per coordinare in anticipo delle manovre assieme ad altri elementi ci torna utile questa procedura, che possiamo utilizzare per richiedere in modo chiaro se l'interpellato sarà abile ad eseguirla.
+
+> [Blaze] Wolf, qui Blaze, ==assicurate== di essere abili all'avanzata su obj India tra 2 minuti.
+
+Conferma, siamo abili:
+
+> [Wolf] Blaze, Wolf, ==assicuro==.
+
+Negazione, non ci riteniamo abili per un qualsiasi motivo (es: feriti, munizioni, movimento rallentato a piedi):
+
+> [Wolf] Blaze, Wolf, ==negativo==, ci servono almeno 6 minuti per stabilizzare i nostri feriti gravi.
