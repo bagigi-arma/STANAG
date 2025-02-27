@@ -176,9 +176,20 @@ Inoltre, nel caso in cui il nostro caposquadra viene abbattuto, un soccorritore 
 
 Dettagliamo quindi la vera e propria "radiofonia", ovvero come strutturare le comunicazioni radio, al fine di conversare in maniera chiara ed efficente.
 
-### Una maglia radio
+### La maglia radio
 
-Come assegnare i canali/frequenze delle radio a disposizione dell'unità, al fine di ottimizzare il coordinamento tra elementi di fanteria ed eventuali assetti.
+È comunemente collegata al ORBAT presente nel briefing della missione. Così possiamo vedere velocemente su quali canali opereranno le varie unità presenti nello scenario.
+
+Prendiamo come esempio la seguente maglia radio, raffigurante una Task Force aviotrasportata su scala di plotone, con asset esterni (velivoli e unità SF) assegnati ad essa per la missione pianificata.
+
+![ORBAT-Avio-1](../assets/orbats/avio-01.png)
+
+Notiamo gli indicatori di banda accanto alle unità. In ambito moderno tendiamo a indicare con `UHF` le radio a corto raggio, come la `AN/PRC-343`, mentre `VHF` sta a indicare radio a medio-lungo raggio come `AN/PRC-148`, `-152` e `-117F`.
+
+Dopo la banda segue un numero di canale/frequenza, come `Ch 3` per i canali singoli di radio MR/LR, `Ch 2.3` per indicare il Blocco 2 e Canale 3 della `AN/PRC-343`, oppure una frequenza nel formato `VHF 33.50 MHz` per radio come la `AN/PRC-77`.
+
+Se l'indicatore di banda+canale è accanto all'unità stessa, come `UHF Ch 1.3` per il gruppo `Wolf 2`, esso va a indicare il canale ^^intra-unità^^, ergo quello utilizzato dai membri di `Wolf 2` per comunicare tra di loro.<br>
+Se invece l'indicatore si trova accanto a una figura di comando o assetto aereo, esso indica il canale ^^inter-unità^^ che viene usato da quella figura/assetto per comunicare con l'esterno. Nel caso della squadra `Blaze`, `VHF Ch 4` verrà utilizzato dallo Squad Leader in `Blaze Lead` e i Team Leader di `Blaze 1` e `Blaze 2` per comunicare tra di loro. Mentre `VHF Ch 2` è la frequenza aviazione, utilizzata per coordinamento tra il comando `Titan` e gli elicotteristi.
 
 ### Fraseologia fondamentale
 
