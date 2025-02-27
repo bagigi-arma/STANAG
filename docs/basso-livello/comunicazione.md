@@ -246,6 +246,24 @@ Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in sit
 
 !!! note "Nelle sezioni successive trattiamo brevity aggiuntive che richiedono descrizioni più approfondite."
 
+#### Prova radio
+
+Per verificare quanto bene un'altra unità ci riceve, possiamo effettuare velocemente una prova di collegamento (in inglese "Radio check").<br>
+La qualità di ricezione viene comunicata secondo la seguente scala.
+
+<!-- Secondo la fraseologia aeronautica ENAC https://www.enac.gov.it/repository/ContentManagement/information/P333420440/LG_2015_002_ATM_150928.pdf -->
+| Scala | Qualità di ricezione |
+| ----- | -------------------- |
+| "radio 1" | incomprensibile |
+| "radio 2" | comprensibile a tratti |
+| "radio 3" | comprensibile con difficoltà |
+| "radio 4" | comprensibile |
+| "radio 5" | perfettamente comprensibile |
+
+> [Wolf] Blaze, Wolf, ==prova radio==.
+
+> [Blaze] Wolf, qui Blaze, ==radio 5==, avanti.
+
 #### Standby
 
 In situazioni dove non possiamo rispondere immediatamente ad una richiesta, possiamo usare la brevity =="standby"== per comunicare al richiedente che lo abbiamo compreso, ma risponderemo solo nel prossimo futuro (onde evitare che lui la ripeta, pensando che non lo abbiamo sentito).
@@ -261,24 +279,6 @@ In situazioni dove non possiamo rispondere immediatamente ad una richiesta, poss
 ??? failure "Errori comuni"
     Lo "standby" NON va confermato con un ulteriore "ricevuto" (o simili), siccome rischierebbe di "calpestare" la risposta effettiva, che potrebbe arrivare secondi dopo.<br>
     Lo "standby" NON implica l'interruzione di un movimento, di conseguenza NON va usato per ordinare ad un'unità di fermarsi.
-
-#### Prova radio
-
-Per verificare quanto bene un'altra unità ci riceve, prima di cominciare una comunicazione effettiva, possiamo effettuare velocemente una prova di collegamento (o "prova radio"). La qualità di ricezione va definita secondo uno dei seguenti criteri.
-
-| Qualità collegamento | Scala 5 | Alternativa |
-| --- | --- | --- |
-|  | "radio 1" |  |
-|  | "radio 2" |  |
-|  | "radio 3" |  |
-|  | "radio 4" |  |
-|  | "radio 5" | "forte e chiaro" |
-
-Così potremo effettuare prove come segue:
-
-> [Wolf] Blaze, Wolf, prova radio.
-
-> [Blaze] Wolf, qui Blaze, radio 5, avanti.
 
 #### Parole terminali, "passo" vs "fine"
 
