@@ -202,15 +202,27 @@ Le regole e brevity fondamentali con cui comunicare, al fine di garantire un coo
 - Quando dobbiamo fare lo spelling di una parola usiamo sempre [l'alfabeto fonetico NATO](https://it.wikipedia.org/wiki/Alfabeto_fonetico_NATO#Le_lettere).
 - Si comunica quasi sempre in half-duplex, quindi con radio che non possono ricevere mentre trasmettono. Per questo bisogna stare attenti a non "calpestare" comunicazioni di altri, visto che terzi riceveranno solo interferenza quasi intelliggibile.
 
-#### Utilizzo dei nominativi
+#### Utilizzo di callsign/nominativi
 
-I nominativi o callsign sono nomi in codice, utilizzati per identificarci su un canale radio.
+I callsign sono nomi in codice, utilizzati per identificarci su un canale radio.
 
 Idealmente, i callsign utilizzati su uno stesso canale sono:
 
-- Univoci, non devono esistere doppie assegnazioni
-- Foneticamente distinti nella lingua parlata
-- Ambigui sulla gerarchia, per rendere difficile l'identificazione dei nostri elementi di comando da parte di nemici che hanno intercettato la nostra frequenza.
+- Univoci (non devono esistere doppie assegnazioni)
+- Facilmente distinguibili foneticamente nella lingua parlata
+- Ambigui sulla gerarchia (es: nessun c/s "Comando", per l'eventualità di intercettazione delle nostre comunicazioni da parte del nemico);
+
+Quando iniziamo una comunicazione dobbiamo nominare sempre ^^prima il callsign del destinatario^^, poi quello del mittente (il nostro). Per venire incontro alla tendenza del cervello umano di prestare maggiore attenzione alla prima parola di una frase, massimizzando così la probabilità di essere *sentiti* da un fante in battaglia.
+
+Per separare i callsign possiamo usare la parola =="qui"==, oppure una breve pausa, MAI altre parole come "da".
+
+Esempi di comunicazioni corrette (distinte tra di loro), sempre nel formato `[mittente] messaggio`:
+
+> [Wolf] Blaze, Wolf, richiediamo supporto medico in coordinate 026-158.
+
+!!! note "Se comunichiamo (per esempio) sul canale intra-squadra di Blaze, possiamo anche omettere la parte comune "Blaze" dei callsign, visto che non c'è ambiguità sul mittente o destinatario."
+
+> [Blaze Lead] ~~*Blaze*~~ 1, qui ~~*Blaze*~~ Lead, ricongiungersi per esfiltrazione, nella radura 200 metri a Ovest di voi.
 
 #### Brevity comuni
 
