@@ -193,7 +193,14 @@ Se invece l'indicatore si trova accanto a una figura di comando o assetto aereo,
 
 ### Fraseologia fondamentale
 
-Le regole fondamentali su come vanno utilizzati nominativi e altre parole (brevity).
+Le regole e brevity fondamentali con cui comunicare, al fine di garantire un coordinamento rapido e chiaro.
+
+#### Concetti di base
+
+- Pensiamo a ciò che vogliamo comunicare prima di trasmettere, in modo da evitare spiegoni lunghi che intasano il canale.
+- Specialmente quando trasmettiamo serie di numeri, parliamo lentamente per evitare confusione.
+- Quando dobbiamo fare lo spelling di una parola usiamo sempre [l'alfabeto fonetico NATO](https://it.wikipedia.org/wiki/Alfabeto_fonetico_NATO#Le_lettere).
+- Si comunica quasi sempre in half-duplex, quindi con radio che non possono ricevere mentre trasmettono. Per questo bisogna stare attenti a non "calpestare" comunicazioni di altri, visto che terzi riceveranno solo interferenza quasi intelliggibile.
 
 #### Utilizzo dei nominativi
 
