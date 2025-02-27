@@ -246,6 +246,22 @@ Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in sit
 
 !!! note "Nelle sezioni successive trattiamo brevity aggiuntive che richiedono descrizioni più approfondite."
 
+#### Standby
+
+In situazioni dove non possiamo rispondere immediatamente ad una richiesta, possiamo usare la brevity =="standby"== per comunicare al richiedente che lo abbiamo compreso, ma risponderemo solo nel prossimo futuro (onde evitare che lui la ripeta, pensando che non lo abbiamo sentito).
+
+> [Wolf] Blaze, qui Wolf, interrogativo, possiamo procedere con il movimento su obj *(obbiettivo)* Juliet?
+
+> [Blaze] Wolf, Blaze, ==standby==.
+
+> (poco tempo dopo)
+
+> [Blaze] Wolf, Blaze, procedere per obj Juliet.
+
+??? failure "Errori comuni"
+    Lo "standby" NON va confermato con un ulteriore "ricevuto" (o simili), siccome rischierebbe di "calpestare" la risposta effettiva, che potrebbe arrivare secondi dopo.<br>
+    Lo "standby" NON implica l'interruzione di un movimento, di conseguenza NON va usato per ordinare ad un'unità di fermarsi.
+
 #### Prova radio
 
 Per verificare quanto bene un'altra unità ci riceve, prima di cominciare una comunicazione effettiva, possiamo effettuare velocemente una prova di collegamento (o "prova radio"). La qualità di ricezione va definita secondo uno dei seguenti criteri.
