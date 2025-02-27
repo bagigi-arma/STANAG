@@ -329,11 +329,13 @@ Anche ai radiofonisti più esperti capita di sbagliare, ma quando succede non si
 
 #### Separazione
 
-Quando vogliamo , usiamo =="break"==.
+Quando vogliamo indicare una separazione tra porzioni difficilmente distinguibili del nostro messaggio, utilizziamo =="break"==.
 
-Quando vogliamo indirizzare parti della stessa trasmissione a callsign diversi, usiamo =="break break"== o =="separazione"== per separarle.
+> [Wolf 1] Wolf Lead, qui 1, posizione alleata 250-165 ==break==, posizione nemica 251-168, passo.
 
-> [Wolf] Blaze, qui Wolf, avanzate su obj Lima, ==break break==, Lion coprite i boschi a Ovest da probabile fiancheggiamento nemico, passo.
+Quando vogliamo indirizzare parti della stessa trasmissione ^^a callsign diversi^^, usiamo =="break break"== o =="separazione"== per separarle.
+
+> [Wolf] Blaze, qui Wolf, avanzate su obj Lima, ==break break==, Lion, Wolf coprite i boschi a Ovest da probabile fiancheggiamento nemico, passo.
 
 #### Cambio di canale
 
