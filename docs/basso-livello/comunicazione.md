@@ -323,7 +323,7 @@ Servono ad esplicitare al destinatario se richiediamo o meno una conferma di ric
 
 Anche ai radiofonisti più esperti capita di sbagliare, ma quando succede non si "impappinano". Invece correggono con chiarezza il proprio errore e procedono, senza interrompere il flusso della comunicazione.
 
-> [Blaze] Wolf, qui Blaze, carro nemico in avvicinamento da Nord-Est, al momento in coordinate 135-*212*... ==correggo==, 135-210, passo.
+> [Blaze] Wolf, qui Blaze, carro nemico in avvicinamento da Nord-Est, al momento in coordinate 135-*230*... ==correggo==, 135-210, passo.
 
 > [Wolf] Blaze, Wolf, ricevuto, rimanete nascosti, stiamo coordinando CAS, fine.
 
