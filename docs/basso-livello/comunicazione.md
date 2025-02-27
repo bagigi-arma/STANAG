@@ -301,7 +301,7 @@ Servono ad esplicitare al destinatario se richiediamo o meno una conferma di ric
 ??? failure "Errori comuni"
     Combinazioni di entrambe le parole, come "passo e chiudo" o "passo e fine", sono **categoricamente sbagliate** (oltre ad essere superflue).<br>Se ci pensiamo, combinare due brevity con sensi opposti, per creare una terza brevity con un significato ancora diverso, non ha senso e serve solo ad aumentare il potenziale di equivoci.
 
-#### Conferma vs negazione
+#### Conferma e negazione
 
 - Per confermare una domanda o readback usiamo =="confermo"/"affermo"==.
 - Come negazione invece usiamo =="negativo"==.
@@ -317,7 +317,7 @@ Servono ad esplicitare al destinatario se richiediamo o meno una conferma di ric
 > [Blaze] Wolf, Blaze, ==confermo==, fine.
 
 ??? failure "Errori comuni"
-    Parole come "affermativo" o "positivo" sono errate, siccome le loro ultime sillabe sono identiche a quelle di "negativo", introducendo il potenziale di equivoci.
+    Parole come "affermativo" o "positivo" **sono sbagliate**, siccome le loro ultime sillabe sono identiche a quelle di "negativo", introducendo il potenziale di equivoci.
 
 #### Correzione
 
