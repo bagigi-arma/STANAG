@@ -280,13 +280,15 @@ In situazioni dove non possiamo rispondere immediatamente ad una richiesta, poss
     Lo "standby" NON va confermato con un ulteriore "ricevuto" (o simili), siccome rischierebbe di "calpestare" la risposta effettiva, che potrebbe arrivare secondi dopo.<br>
     Lo "standby" NON implica l'interruzione di un movimento, di conseguenza NON va usato per ordinare ad un'unità di fermarsi.
 
-#### Parole terminali, "passo" vs "fine"
+#### Parole terminali
 
 Servono ad esplicitare al destinatario se richiediamo o meno una conferma di ricezione.
 
 - Se richiediamo una conferma, terminiamo la comunicazione con =="passo"==.
 - Se **non** la richiediamo, terminiamo la comunicazione con =="fine"== (il destinatario può comunque continuare a comunicare per correggere/aggiungere informazioni).
 - Se non utilizziamo alcuna parola terminale, diamo effettivamente la scelta al destinatario se rispondere o meno. Comunque, nella maggioranza delle conversazioni, è da considerarsi implicito il =="passo"==.
+
+!!! question "Probabilmente conoscete "chiudo" come analogo di "fine". Noi però ci atteniamo alla convenzione dell'Esercito Italiano, che vede come corretto solo il "fine"."
 
 > [Wolf] Blaze, qui Wolf, avanzate su obbiettivo Yankee, ==passo==.
 
