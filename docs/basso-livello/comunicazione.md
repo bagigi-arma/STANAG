@@ -226,7 +226,25 @@ Esempi di comunicazioni corrette (distinte tra di loro), sempre nel formato `[mi
 
 #### Brevity comuni
 
-Standby, Wilco, Roger, ecc.
+Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in situazioni consone^^.
+
+<!-- Alcune sono tratte dalla fraseologia aeronautica ENAC https://www.enac.gov.it/repository/ContentManagement/information/P333420440/LG_2015_002_ATM_150928.pdf -->
+| Brevity (IT/EN) | Significato |
+| --- | --- |
+| Approvato/Approved | Accordiamo il permesso per l'azione richiesta/proposta |
+| Attendere/Hold | Attendiamo un successivo ordine di manovra o ingaggio prima di muoverci o aprire il fuoco |
+| Confermate/Confirm | Richiesta di confermare la data intenzione |
+| Contattate/Contact | Contattate il dato callsign e canale per future richieste |
+| Continuate/Continue | Conferma di continuare l'attuale azione (manovra/assalto/ritirata) |
+| Disregard/Ignorate | Ignorare una precedente richiesta/ordine errata o superflua |
+| Impossibilitati/Unable | Non siamo in grado di soddisfare la precedente richiesta |
+| Monitorate/Monitor | Ascoltate il dato canale per ricevere future richieste/ordini |
+| Ricevuto/Roger | Abbiamo ricevuto e compreso la comunicazione precedente |
+| Richiediamo/Request | Richiesta di vario genere (supporti/rifornimenti) |
+| Ripetere/Say Again | Richiesta di ripetere una comunicazione precedente che è stata persa |
+| Wilco | "Will Comply", abbiamo compreso la comunicazione precedente e ci atterremo ad essa |
+
+!!! note "Nelle sezioni successive trattiamo brevity aggiuntive che richiedono descrizioni più approfondite."
 
 #### Prova radio
 
