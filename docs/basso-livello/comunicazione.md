@@ -1,11 +1,11 @@
 ---
 template: home.html
-title: Comunicazione
+title: Radiofonia
 ---
 
 # Comunicazione e Radiofonia
 
-Questa sezione copre la standardizzazione delle procedure di comunicazione usate dal Network Bagigi.
+Questa sezione copre la standardizzazione delle procedure di comunicazione radio usate dal Network Bagigi.
 
 ## La mod radio
 
