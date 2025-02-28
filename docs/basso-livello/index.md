@@ -14,6 +14,6 @@ Queste tornano particolarmente utili in situazioni dove più giocatori provenien
 <div class="grid cards" markdown>
 - :fontawesome-solid-hand-holding-medical: [__Sistema Medico__](medical.md)<br>
   Una guida completa sulle fondamenta della cura medica e le particolarità dei nostri settaggi, utile sia a fanti regolari che personale medico specialista.
-- :fontawesome-solid-walkie-talkie: [__Comunicazione e Radiofonia__](comunicazione.md)<br>
-  Una guida completa sulla mod radio ACRE2 e la Radiofonia, utile sia a fanti regolari che radiofonisti dedicati.
+- :fontawesome-solid-walkie-talkie: [__Radiofonia__](comunicazione.md)<br>
+  Una guida completa sulla mod radio ACRE2 e le nostre procedure di comunicazione, utile sia a fanti regolari che radiofonisti dedicati.
 </div>
