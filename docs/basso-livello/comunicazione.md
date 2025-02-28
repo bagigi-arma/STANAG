@@ -351,6 +351,12 @@ Sia l'uscita dal canale corrente che l'entrata su quello nuovo vanno comunicate 
 
 > [Blaze 2] Titan, qui Blaze 2, Blaze Lead è a terra, noi li stiamo soccorrendo mentre Blaze 1 ci difende, stimiamo 5 minuti prima di ulteriori manovre, passo.
 
+#### Esecutivo immediato
+
+Con l'aggiunta di questa brevity alla comunicazione possiamo esplicitare che l'esecuzione dell'ordine deve avvenire il prima possibile, prendendo priorità su tutto il resto.
+
+> [Blaze Lead] Blaze 1, qui Lead, ==esecutivo immediato!== Estendete verso Est per intercettare rinforzi nemici in arrivo!
+
 ### Procedure avanzate
 
 Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
