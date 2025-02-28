@@ -27,7 +27,7 @@ Un "mini-medico" a livello di gruppo/squadra, capace di stabilizzare autonomamen
 
 #### Il Medico
 
-Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari paramedici ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
+Il medico totalmente formato a livello di squadra/plotone, che può supervisionare vari soccorritori ai livelli sottostanti e supportarli con il suo equipaggiamento più specialistico. Inoltre potrà assumere la responsabilità in eventi di MCI e dirigere la triage di molteplici feriti, in attesa di un eventuale CASEVAC o MEDEVAC.
 
 ### L'ordine di cura
 
@@ -46,11 +46,26 @@ Come regola generale si può dire che i bendaggi elastici sono i più veloci a t
 
 Emorragie e ferite gravi, in particolare alla testa, possono spesso causare un arresto cardiaco del paziente. Questa condizione può causare la morte entro pochi minuti, a prescindere dal dissanguamento o altre problematiche più apparenti.
 
-Per questo motivo è importante ripristinare un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate.<br>
+Per questo motivo è importante ripristinare un ritmo normale appena possibile, prima di perdere tempo prezioso su azioni minori come la suturazione di ferite bendate o gestione delle vie aeree.<br>
 ^^Nel caso specifico in cui un paziente potrebbe già essere in arresto da qualche minuto e la perdita di sangue non è ancora gravissima, il ripristino del ritmo normale diventa prioritario rispetto a fermare prima tutte le emorragie.^^
 
-Tutti possono controllare il battito cardiaco mediante opportune interazioni su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
-Un soccorritore/medico potrà poi arrivare per accelerare il ripristino di un ritmo normale con un defibrillatore, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+Tutti possono controllare il battito cardiaco mediante opportune interazioni di diagnosi su arti (senza CAT), petto o testa. È dunque la responsabilità del primo soccorritore, a prescindere dal livello di formazione medica, di controllare che il paziente abbia battito. In caso di assenza bisogna immediatamente avvisare tale condizione al proprio gruppo e cominciare (se tatticamente possibile) la RCP.
+Un soccorritore/medico potrà poi arrivare per accelerare il ripristino di un ritmo normale con un defibrillatore e farmaci specifici, ma nella maggioranza dei casi dove il paziente riceve cure quasi subito anche la RCP da un fante normale può bastare.
+
+Esistono due tipi di defibrillatore:
+
+- `AED`/`DAE` un defibrillatore semi-automatico, portato principalmente da soccorritori ma maneggiabile da chiunque.<br>
+Dopo aver applicato le pad dobbiamo sempre analizzare il ritmo nel tab di diagnosi sul torace (nel mentre non possiamo effettuare CPR), se una scossa è consigliabile il defibrillatore si caricherà e attenderà la nostra conferma.
+- `AED-X`/`DAE-X` un defibrillatore manuale, portato da medici e maneggiabile solo da personale medico.<br>
+Esso contiene il sistema di analisi identico all'`AED`, ma in più dopo aver attaccato le pad possiamo aprire il suo "monitor" e visualizzare l'ECG del paziente. Così possiamo diagnosticare subito lo stato del ritmo cardiaco e caricarlo manualmente per effettuare la scossa (se necessaria).
+
+Il feedback vocale `"No Shock Advised"` dell'analisi **NON** va interpretato come "è tornato il ritmo normale", siccome il ritmo potrebbe essere degenerato in `PEA` o `Asystole` (non defibrillabili).<br>
+^^Controllate sempre il battito manualmente o da pulsossimetro per accertarvi che sia normale^^.
+
+Per una spiegazione comprensiva sui ritmi avanzati, come diagnosticarli e quali medicinali usare per facilitare il recupero del ritmo normale, consultate [l'opportuna sezione della documentazione KAM](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.bvxbceizzega).
+
+??? warning "Scossa collaterale"
+    Tutti i giocatori che hanno aperto il menù medico sul vostro paziente sono a rischio di danno quando effettuate una scossa. Avvisate prima a voce con "attenti alla scossa" e attendete che il personale vicino si liberi.
 
 #### 3. Controlla le vie aeree
 
@@ -58,7 +73,7 @@ Nel caso in cui [sono attivi i moduli KAM di vie aeree e respirazione](#vie-aere
 
 Entrambe le meccaniche hanno a che fare con il sistema KAM di `SpO2`, ovvero la [saturazione di ossigeno del sangue](https://it.wikipedia.org/wiki/Saturazione_arteriosa_dell%27ossigeno) del paziente, che idealmente è superiore al 95%. A seconda dei settaggi, valori sotto al 90% possono impossibilitare il rinvenimento (come un volume di sangue ridotto) e valori critici sotto al 60% causano la morte immediata. Un basso livello di SpO2 persistente può prolungare notevolmente i tempi di rinvenimento.
 
-Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il `Pulsoximeter`/`Pulsossimetro` o il `Vitals Monitor` integrato nel AED-X.
+Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cianosi` su arti e testa del paziente, oppure ricavato esattamente mediante l'utilizzo di strumenti come il `Pulsoximeter`/`Pulsossimetro` o il `Vitals Monitor` integrato nel `AED-X`/`DAE-X`.
 
 1. Le vie aeree possono essere:
 
@@ -70,8 +85,10 @@ Il valore di SpO2 può essere stimato, mediante l'indicatore di `Cyanosis`/`Cian
 2. I polmoni di un paziente (anche conscio) possono presentare lesioni più subdule, diagnosticabili mediante `Inspect Chest` o `Auscultando` il torace con uno stetoscopio, [secondo criteri specifici spiegati nella documentazione](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit?tab=t.0#heading=h.cgxm2eh7b3pw). Sono elencate in ordine decrescente di frequenza.
 
     - ^^Pneumothorax:^^ risolvibile mediante un `Chest Seal` che può applicare chiunque;
-    - ^^Tension Pneumothorax:^^ risolvibile da un `Chest Seal` + decompressione con `NDC Kit` o `AAT Kit` da parte di un soccorritore/medico.
+    - ^^Tension Pneumothorax:^^ risolvibile da un `Chest Seal` + decompressione con `NCD Kit` o `AAT Kit` da parte di un soccorritore/medico.
     - ^^Hemothorax:^^ risolvibile da un `Chest Seal` + `Drain Fluids`/`Drenare il liquido` mediante un `AAT Kit` da parte di un soccorritore/medico.
+
+!!! note "L'AAT Kit può curare sia TPTX che HTX avanzati, mentre l'NCD Kit solo il TPTX. Siccome il primo pesa molto di più del secondo, ci conviene usare l'AAT solo per l'HTX, trattando il TPTX sempre con l'interazione `Needle Decompression (NCD Kit)`"
 
 #### 4. Agevola il rinvenimento
 
@@ -117,7 +134,7 @@ Per quanto riguarda il fante non-specialista, il sistema base non aggiunge alcun
 
 Il personale medico invece può trarre beneficio dall'aggiunta di:
 
-- Defibrillatori (AED e AED-X), utili per ripristinare un ritmo cardiaco normale più velocemente della sola CPR;
+- Defibrillatori (`AED`/`DAE` e `AED-X`/`DAE-X`), utili per ripristinare un ritmo cardiaco normale più velocemente della sola CPR;
 - Medicinali avanzati, come antidolorifici più variati e coagulanti (`TXA` ed `EACA`);
 - Feature QOL come la suturazione di tutto il corpo mediante una sola interazione;
 
@@ -157,7 +174,7 @@ Abilitati tutti i tipi di condizioni toraciche con descrescente probabilità di 
 - `Pneumothorax` al 40%<br>
 Risolvibile da chiunque mediante un `Chest Seal`;
 - `Tension Pneumothorax` al 20%<br>
-Risolvibile da personale medico mediante un `Chest Seal` + decompressione con `NDC Kit`/`AAT Kit`;
+Risolvibile da personale medico mediante un `Chest Seal` + decompressione con `NCD Kit`/`AAT Kit`;
 - `Hemothorax` al 10%<br>
 Risolvibile da personale medico mediante un `Chest Seal` + `Drain Fluids`/`Drenare il liquido` con un `AAT Kit`;
 
