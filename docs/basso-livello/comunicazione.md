@@ -339,6 +339,18 @@ Quando vogliamo indirizzare parti della stessa trasmissione ^^a callsign diversi
 
 #### Cambio di canale
 
+In certe situazioni è necessario cambiare canale, specialmente nel ruolo di pilota o radiofonista, ma anche come TL in situazioni dove la catena di comando è stata troncata.
+
+Sia l'uscita dal canale corrente che l'entrata su quello nuovo vanno comunicate chiaramente.
+
+> (situazione con tutta la Blaze Lead abbattuta, il TL di Blaze 2 decide di contattare il comando sul canale inter-squadra per riportare la situazione)
+
+> [Blaze 2] Blaze 2 contatta canale 1 per coordinamento con Titan, fine.
+
+> (Blaze 2 passa dal canale 4 intra-Blaze al canale 1 intra-plotone, poi attende qualche secondo per non calpestare una comunicazione in atto)
+
+> [Blaze 2] Titan, qui Blaze 2, Blaze Lead è a terra, noi li stiamo soccorrendo mentre Blaze 1 ci difende, stimiamo 5 minuti prima di ulteriori manovre, passo.
+
 ### Procedure avanzate
 
 Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
