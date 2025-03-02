@@ -396,16 +396,18 @@ Viene chiamato con =="SPOTREP"== oppure =="SPOTREP aggiornato"== (se aggiorna un
 - ^^LINEA ALPHA:^^ nominativo dell'osservatore (da omettere se identico al c/s del mittente) o la sorgente delle informazioni, es: "informatore Santiago", "fonte civile".
 - ^^LINEA BRAVO:^^ Attività o situazione osservata
     - Quantità di personale o veicoli
-    - Attività osservata
     - Posizione in coordinate
+    - Attività osservata
     - Appartenenza ad un'unità, es: patch o marcature
     - Ora dell'osservazione
     - Equipaggiamenti associati con l'attività osservata, es: RPG o MANPAD
 - ^^LINEA CHARLIE:^^ Azioni intraprese e raccomandazioni da parte dell'osservatore
 - ^^LINEA DELTA:^^ Autentificazione (se richiesta) **WIP, eventualmente superfluo per Arma**
 
-> [Taco] Titan, qui Taco, ==SPOTREP==, due BTR con due squadre sbarcate, in movimento lento verso Sud-Ovest, griglia 030-165, milizia takistana, ore 9:42, fanti con RPG e PKM, in osservazione, consigliamo intervento CAS.
+> [Taco] Titan, qui Taco, ==SPOTREP==, due BTR con due squadre sbarcate, griglia 030-165, in movimento lento verso Sud-Ovest, milizia takistana, ore 9:42, fanti con RPG e PKM, in osservazione, consigliamo intervento CAS.
 
 > (aggiornamento 6 minuti dopo)
 
 > [Taco] Titan, qui Taco, ==SPOTREP aggiornato==, i due BTR hanno imbarcato le squadre e si stanno separando, il primo verso Sud, il secondo verso Ovest, griglia 025-160, probabile intenzione di assalto a L di alleati su obj Lima, passo.
+
+*Ci basiamo sul [formato SPOTREP usato dalla US Army](https://www.moore.army.mil/armor/ocoa/content/References%20and%20Guides/USAARMS%2017-98-3%20Scout%20Platoon%20SOP%202014.pdf) (pag. C-3).*
