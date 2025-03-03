@@ -1,3 +1,19 @@
 :root {
   --md-primary-fg-color: #be652f;
 }
+
+h1 {
+  border-bottom: 2px solid grey;
+}
+
+h2 {
+  border-bottom: 1px solid grey;
+}
+
+h3 {
+  border-bottom: 1px dotted grey;
+}
+
+.md-typeset h4 {
+  margin: 2em 0 0.5em 0;
+}
