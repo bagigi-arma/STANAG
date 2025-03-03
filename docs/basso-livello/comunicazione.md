@@ -272,7 +272,7 @@ In situazioni dove non possiamo rispondere immediatamente ad una richiesta, poss
 
 > [Blaze] Wolf, Blaze, ==standby==.
 
-> (poco tempo dopo)
+> *(poco tempo dopo)*
 
 > [Blaze] Wolf, Blaze, procedere per obj Juliet.
 
@@ -343,11 +343,11 @@ In certe situazioni è necessario cambiare canale, specialmente nel ruolo di pil
 
 Sia l'uscita dal canale corrente che l'entrata su quello nuovo vanno comunicate chiaramente.
 
-> (situazione con tutta la Blaze Lead abbattuta, il TL di Blaze 2 decide di contattare il comando sul canale inter-squadra per riportare la situazione)
+> *(situazione con tutta la Blaze Lead abbattuta, il TL di Blaze 2 decide di contattare il comando sul canale inter-squadra per riportare la situazione)*
 
 > [Blaze 2] Blaze 2 contatta canale 1 per coordinamento con Titan, fine.
 
-> (Blaze 2 passa dal canale 4 intra-Blaze al canale 1 intra-plotone, poi attende qualche secondo per non calpestare una comunicazione in atto)
+> *(Blaze 2 passa dal canale 4 intra-Blaze al canale 1 intra-plotone, poi attende qualche secondo per non calpestare una comunicazione in atto)*
 
 > [Blaze 2] Titan, qui Blaze 2, Blaze Lead è a terra, noi li stiamo soccorrendo mentre Blaze 1 ci difende, stimiamo 5 minuti prima di ulteriori manovre, passo.
 
@@ -383,7 +383,7 @@ Utile per stabilire in anticipo degli ordini di manovra complessi, per poi ordin
 
 > [Blaze Lead] Tutta la maglia, qui Blaze Lead, ==esecutivo all'ordine:== Blaze 1 sopprime il bunker nemico con priorità di ingaggio su MG statici, Blaze 2 distrugge i carri nemici con i loro lanciarazzi, passo.
 
-> (le squadre interpellate confermano gli ordini e si preparano all'esecuzione)
+> *(le squadre interpellate confermano gli ordini e si preparano all'esecuzione)*
 
 > [Blaze Lead] Blaze, ==esecutivo! esecutivo! esecutivo!==
 
@@ -446,7 +446,7 @@ Segue un esempio, con la riga corrispondente alla porzione di comunicazione marc
 
 > [Taco] Titan, qui *(1)* Taco, ==SPOTREP==, *(2a)* due BTR con due squadre sbarcate, *(2b)* griglia 030-165, *(2c)* in movimento lento verso Sud-Ovest, *(2d)* milizia takistana, *(2e)* ore 9:42, *(2f)* fanti con RPG e PKM, *(3)* in osservazione, consigliamo intervento CAS.
 
-> (aggiornamento 6 minuti dopo)
+> *(aggiornamento 6 minuti dopo)*
 
 > [Taco] Titan, qui *(1)* Taco, ==SPOTREP aggiornato==, *(2a)* due BTR con squadre imbarcate, *(2b)* griglia 025-160, *(2c)* si stanno separando verso Sud e verso Ovest, probabile intenzione di assalto a L di alleati su obj Lima, passo.
 
