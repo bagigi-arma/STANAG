@@ -393,21 +393,22 @@ Uno "Spot Report" è una procedura utilizzata per comunicare, in modo chiarament
 
 Viene chiamato con =="SPOTREP"== oppure =="SPOTREP aggiornato"== (se aggiorna uno precedente), seguito dal seguente formato:
 
-- ^^LINEA ALPHA:^^ nominativo dell'osservatore (da omettere se identico al c/s del mittente) o la sorgente delle informazioni, es: "informatore Santiago", "fonte civile".
-- ^^LINEA BRAVO:^^ Attività o situazione osservata
-    - Quantità di personale o veicoli
-    - Posizione in coordinate
-    - Attività osservata
-    - Appartenenza ad un'unità, es: patch o marcature
-    - Ora dell'osservazione
-    - Equipaggiamenti associati con l'attività osservata, es: RPG o MANPAD
-- ^^LINEA CHARLIE:^^ Azioni intraprese e raccomandazioni da parte dell'osservatore
-- ^^LINEA DELTA:^^ Autentificazione (se richiesta) **WIP, eventualmente superfluo per Arma**
+1. nominativo dell'osservatore (da omettere se identico al c/s del mittente) o la sorgente delle informazioni, es: "informatore Santiago", "fonte civile".
+2. Attività o situazione osservata
+    1. Quantità di personale o veicoli
+    2. Posizione in coordinate
+    3. Attività osservata
+    4. Fazione di appartenenza + unità (se riconoscibile, es: N° Battaglione)
+    5. Ora dell'osservazione
+    6. Equipaggiamenti associati con l'attività osservata, es: RPG o MANPAD
+3. Azioni intraprese e raccomandazioni da parte dell'osservatore
 
-> [Taco] Titan, qui Taco, ==SPOTREP==, due BTR con due squadre sbarcate, griglia 030-165, in movimento lento verso Sud-Ovest, milizia takistana, ore 9:42, fanti con RPG e PKM, in osservazione, consigliamo intervento CAS.
+Segue un esempio, con la riga corrispondente alla porzione di comunicazione marcata con "*(n° riga)*".
+
+> [Taco] Titan, qui *(1)* Taco, ==SPOTREP==, *(2a)* due BTR con due squadre sbarcate, *(2b)* griglia 030-165, *(2c)* in movimento lento verso Sud-Ovest, *(2d)* milizia takistana, *(2e)* ore 9:42, *(2f)* fanti con RPG e PKM, *(3)* in osservazione, consigliamo intervento CAS.
 
 > (aggiornamento 6 minuti dopo)
 
-> [Taco] Titan, qui Taco, ==SPOTREP aggiornato==, i due BTR hanno imbarcato le squadre e si stanno separando, il primo verso Sud, il secondo verso Ovest, griglia 025-160, probabile intenzione di assalto a L di alleati su obj Lima, passo.
+> [Taco] Titan, qui *(1)* Taco, ==SPOTREP aggiornato==, *(2a)* due BTR con squadre imbarcate, *(2b)* griglia 025-160, *(2c)* si stanno separando verso Sud e verso Ovest, probabile intenzione di assalto a L di alleati su obj Lima, passo.
 
 *Ci basiamo sul [formato SPOTREP usato dalla US Army](https://www.moore.army.mil/armor/ocoa/content/References%20and%20Guides/USAARMS%2017-98-3%20Scout%20Platoon%20SOP%202014.pdf) (pag. C-3).*
