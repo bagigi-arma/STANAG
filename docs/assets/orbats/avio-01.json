@@ -1,0 +1,254 @@
+{
+    "options": {
+        "additionalInformation": "VHF Ch 1 / Ch 2 / Ch 5",
+        "uniqueDesignation": "Titan",
+        "sidc": "130310001412010098000000000000",
+        "country_flag": "",
+        "range": ""
+    },
+    "commandLevels": "1",
+    "subOrganizations": [
+        {
+            "options": {
+                "uniqueDesignation": "Wolf",
+                "sidc": "30031000121211007800",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": [
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.2",
+                        "uniqueDesignation": "Wolf Lead",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 1 / Ch 3",
+                                "uniqueDesignation": "Squad Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "SL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        },
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 6",
+                                "uniqueDesignation": "JTAC",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "JTAC",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.1",
+                        "uniqueDesignation": "Wolf 1",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 3",
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.3",
+                        "uniqueDesignation": "Wolf 2",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 3",
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "options": {
+                "uniqueDesignation": "Blaze",
+                "sidc": "30031000121211007800",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": [
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.5",
+                        "uniqueDesignation": "Blaze Lead",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 1 / Ch 4",
+                                "uniqueDesignation": "Squad Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "SL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        },
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 7",
+                                "uniqueDesignation": "JTAC",
+                                "engagementType": "",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "JTAC",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.4",
+                        "uniqueDesignation": "Blaze 1",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 4",
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "additionalInformation": "UHF Ch 1.6",
+                        "uniqueDesignation": "Blaze 2",
+                        "sidc": "30031000111211007800",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 4",
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "30032700001100000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "options": {
+                "additionalInformation": "UHF Ch 2.1",
+                "uniqueDesignation": "Taco",
+                "engagementType": "",
+                "sidc": "130310001212180003001000000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": [
+                {
+                    "options": {
+                        "additionalInformation": "VHF Ch 5",
+                        "uniqueDesignation": "Squad Leader",
+                        "sidc": "130327000000000000000000000000",
+                        "country_flag": "",
+                        "specialheadquarter": "SL",
+                        "range": ""
+                    },
+                    "subOrganizations": []
+                },
+                {
+                    "options": {
+                        "additionalInformation": "VHF Ch 8",
+                        "uniqueDesignation": "JTAC",
+                        "sidc": "130327000000000000000000000000",
+                        "country_flag": "",
+                        "specialheadquarter": "JTAC",
+                        "range": ""
+                    },
+                    "subOrganizations": []
+                }
+            ]
+        },
+        {
+            "options": {
+                "additionalInformation": "VHF Ch 2",
+                "uniqueDesignation": "Falcon",
+                "engagementType": "",
+                "sidc": "30031000111206000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": []
+        },
+        {
+            "options": {
+                "additionalInformation": "VHF Ch 2",
+                "uniqueDesignation": "Eagle",
+                "engagementType": "",
+                "sidc": "30031000111206000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": []
+        },
+        {
+            "options": {
+                "additionalInformation": "VHF Ch 2",
+                "uniqueDesignation": "Viper",
+                "engagementType": "",
+                "sidc": "130310001112060000000000000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": []
+        }
+    ]
+}
