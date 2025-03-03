@@ -359,7 +359,7 @@ Con l'aggiunta di questa brevity alla comunicazione possiamo esplicitare che l'e
 
 ### Procedure avanzate
 
-Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili in **situazioni specifiche**.
+Al fine di comunicare in brevi parole delle intenzioni complesse, esse vanno standardizzate sotto forma di procedure comuni. Qui vedremo alcune di queste procedure, applicabili a situazioni specifiche.
 
 Ricordiamo che, come per le brevity, la loro forzatura in situazioni poco adatte può creare ulteriori equivoci, quindi usatele in modo consono.
 
