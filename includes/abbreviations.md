@@ -1,4 +1,5 @@
 *[SOP]: Standard Operating Procedures
+*[SA]: Situational Awareness, la consapevolezza che abbiamo della situazione in cui ci troviamo.<br>Viene degradata per esempio quando siamo sotto fuoco, in particolare se soppressi, visto che ci costringe a rimanere coperti, limitando la nostra visuale sullo svolgimento dell'ingaggio.
 *[LOS]: Line of Sight, una linea di vista libera tra un osservatore e un bersaglio, utilizzabile anche in riferimento a collegamenti tra radio o la visuale di sensori radar.
 *[MRAP]: Mine Resistant Ambush Protected Vehicle, una classe di veicolo blindato in grado di proteggere il proprio equipaggio da armi da fuoco (fino a calibri di 7.62mm o perfino 12.7mm) e detonazioni prossime di IED.
 *[CAS]: Close Air Support

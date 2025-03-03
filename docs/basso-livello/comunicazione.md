@@ -387,6 +387,45 @@ Utile per stabilire in anticipo degli ordini di manovra complessi, per poi ordin
 
 > [Blaze Lead] Blaze, ==esecutivo! esecutivo! esecutivo!==
 
+#### SITREP
+
+Un "Situation Report" è una procedura radio utile per comunicare in brevi termini lo stato attuale di un'unità alleata.
+
+Viene richiesto con =="SITREP"==, la risposta è da strutturare nel modo seguente:
+
+1. Posizione su griglia, oppure relativa a un punto di riferimento ben chiaro
+2. Se siamo in contatto con truppe nemiche che limitano la nostra manovra (riga omissibile la situazione è tranquilla)
+3. Disposizione dell'unità, es: "mobili"/"imbarcati" vs "coperti"/"trincerati", oppure "soppressi" (SA degradata)
+4. Stato feriti (se non è verde va aggiunto il tempo stimato per tornarci, es: "2 minuti")
+    - ^^"Verde"^^: tutti gli operatori consci e abili al movimento (piccole ferite non suturate sono trascurabili).
+    - ^^"Giallo"^^: meno del 30% degli operatori a terra, se necessario è possibile trasportarli e continuare le cure altrove, con abbastanza personale libero per coprire la propria manovra.
+    - ^^"Rosso"^^: presenza di feriti gravi che necessitano cure immediate e non possono essere spostati senza rischiare la loro morte.
+5. Stato munizioni ^^delle armi primarie^^ (se siamo una squadra d'arma, anche dei nostri lanciatori/statiche)
+    - ^^"Verde"^^: tra tutti gli operatori mediamente >50% dei caricatori portati inizialmente.
+    - ^^"Giallo"^^: mediamente <50% dei caricatori rimanenti, oppure è probabile che non basteranno fino a fine missione.
+    - ^^"Rosso"^^: meno di 2 caricatori su ogni operatore, necessario rifornimento o rinforzo da parte di unità vicine.
+6. Stato equipaggiamenti (risorse mediche, granate, esplosivi, lanciatori, ma anche operatori con ruolo specialistico morti/disconnessi)
+    - ^^"Verde"^^: nessuna scarsità di equip che potrebbe impattare il completamento dei task assegnati.
+    - ^^"Giallo"^^: prima di terminare la missione potrebbero finire equip importanti, consigliabile un rifornimento.
+    - ^^"Rosso"^^: equip esauriti o insufficienti per completare i prossimi task.
+7. Remarks aggiuntivi, per esempio un'esplicita richiesta di rifornimento immediato, oppure l'avviso sui task completabili prima di finire in rosso su un dato punto.
+
+!!! info "È consentito omettere stati verdi o abbreviare le righe 4-5-6 con =="tutto verde"==."
+
+Seguono degli esempi, con la riga corrispondente alla porzione di comunicazione marcata con "*(n° riga)*".
+
+> [Titan] Wolf, qui Titan, ==SITREP==.
+
+> [Wolf] Titan, Wolf, *(1)* 200m Nord-Est di obj November, *(2)* soppressi da fanteria nemica a Nord, *(3)* in copertura, *(4)* feriti gialli, un minuto, *(5)* munizioni verde, *(6)* equip giallo, *(7)* richiediamo rifornimenti per risorse mediche, passo.
+
+> [Titan] Wolf, Titan, ricevuto, rinforzi motorizzati in arrivo dal vostro Sud, 2 minuti, fine.
+
+> ...
+
+> [Titan] Blaze *(squadra motorizzata)*, Titan, ==SITREP==.
+
+> [Blaze] Titan, qui Blaze, *(1)* 100m da WP 3 lungo rotta stabilita, *(2 omessa)* *(3)* fermi in attesa di sminamento, *(4-5-6)* tutto verde, *(7 omessa)* fine.
+
 #### SPOTREP
 
 Uno "Spot Report" è una procedura utilizzata per comunicare, in modo chiaramente strutturato, l'avvistamento di una formazione nemica o situazione inerente allo svolgimento della missione.
