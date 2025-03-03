@@ -71,7 +71,7 @@ Le radio di ACRE2 non utilizzano lo slot della radio nel proprio inventario come
 | [AN/PRC-77](https://acre2.idi-systems.com/wiki/radios/an-prc-77) | Una radio da zaino degli anni '60, usata in epoca Vietnam. Viene impostata con varie frequenze, compatibili solo con altre PRC-77.<br>Utilizzata principalmente a livello di plotone/compagnia. | 4 W | 2 / 4 km |
 | [SEM 52 SL](https://acre2.idi-systems.com/wiki/radios/sem-52-sl) | Una radio dell'esercito tedesco, compatibile solo con altre SEM 52SL/70.<br>Utilizzata a livello di squadra. | 1 W | 1 / 3 km |
 | [SEM 70](https://acre2.idi-systems.com/wiki/radios/sem-70) | Una radio da zaino dell'esercito tedesco, compatibile solo con altre SEM 52SL/70.<br>Ulizzata a livello di plotone. | 4 W | 2 / 4 km |
-| [Baofeng BF-888S](https://acre2.idi-systems.com/wiki/radios/bf-888s) | Una radio civile a medio raggio, con canali compatibili solo con altre Baofeng.<br>Utile a forze paramilitari o eserciti meno equipaggiati. | 5 W | 3 / 5 km |
+| [Beofeng BF-888S](https://acre2.idi-systems.com/wiki/radios/bf-888s) | Una radio civile a medio raggio, con canali compatibili solo con altre Beofeng.<br>Utile a forze paramilitari o eserciti meno equipaggiati. | 5 W | 3 / 5 km |
 
 ### Keybind e concetti utili
 
@@ -150,17 +150,17 @@ Veicoli e velivoli hanno dei "rack" radio propri con ampia potenza di trasmissio
 
 ### Antenne piazzabili
 
-Antenne montabili che possono essere piazzate al suolo e collegate ad una nostra radio per aumentare la sua potenza di trasmissione, e di conseguenza la portata del segnale.
+Sono antenne montabili che possono essere piazzate al suolo e collegate ad una nostra radio per aumentare la sua potenza di trasmissione, e di conseguenza la portata del segnale.
 
 Qui sotto sono elencati i vari oggetti di inventario che possiamo montare, mediante auto-interazioni ACE3, in due tipologie di antenne:
 
 - ^^Antenne convenzionali:^^<br>
   Esse migliorano la portata della radio collegata aumentando la potenza di trasmissione, ma anche elevando l'antenna sopra il terreno bloccante. La propagazione rimane comunque LOS, però la potenza maggiore aumenta l'efficacia di riflessioni contro il terreno.
     - `VHF30108 GS`: l'antenna "Ground Spike" montabile, alta circa 2.4m, compatibile con `AN/PRC-148`, `-152`, `-117F`, `-77` e `SEM 70`;
-    - `VHF30108 Mast`: oggetto di "albero", montabile su un GS per estenderlo in GSM;
+    - `VHF30108 Mast`: oggetto di "albero", montabile sotto un GS per estenderlo in GSM;
     - `VHF30108 GSM`: oggetto antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
 - ^^Antenne SATCOM:^^<br>
-  Questo tipo di antenna permette la comunicazione radio con protocolli di comunicazione particolari, utilizzando un satellite geosincrono come relay. La portata viene così estesa effettivamente su tutto il pianeta, l'unico requisito è che sia l'antenna trasmettente che quella ricevente devono avere una LOS libera verso il cielo.
+  Questo tipo di antenna permette la comunicazione radio con protocolli particolari, utilizzando un satellite geosincrono come relay. La portata viene così estesa effettivamente su tutto il pianeta, l'unico requisito è che sia l'antenna trasmettente che quella ricevente devono avere una LOS libera verso il cielo.
     - `RF-3080`: antenna SATCOM piazzabile, compatibile solo con `AN/PRC-152` e `-117F`;
 
 ### Radio "esterne"
