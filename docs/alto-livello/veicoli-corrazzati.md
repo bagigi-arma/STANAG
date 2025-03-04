@@ -31,9 +31,25 @@ I cosiddetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono defi
 
 ### Ruoli e responsabilità
 
-### Comandi basilari
+### Comandi comuni
 
-### Comandi avanzati
+#### Orientamento
+
+### Manovre basilari
+
+#### Movimento
+
+#### Sterzate
+
+### Manovre avanzate
+
+#### Hull/Turret Down
+
+#### Jockey
+
+### Come gestire gli ingaggi
+
+### Imbarco e sbarco di fanti
 
 ## La squadra meccanizzata
 
@@ -42,3 +58,5 @@ I cosiddetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono defi
 ### Mutuo supporto
 
 ### Manovre avanzate
+
+## Il plotone di carri
