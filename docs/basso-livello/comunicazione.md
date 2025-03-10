@@ -232,6 +232,7 @@ Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in sit
 | Brevity (IT/EN) | Significato |
 | --- | --- |
 | Approvato/Approved | Accordiamo il permesso per l'azione richiesta/proposta |
+| Avanti/Go Ahead | Procedere con la comunicazione |
 | Attendere/Hold | Attendiamo un successivo ordine di manovra o ingaggio prima di muoverci o aprire il fuoco |
 | Confermate/Confirm | Richiesta di confermare la data intenzione |
 | Contattate/Contact | Contattate il dato callsign e canale per future richieste |
