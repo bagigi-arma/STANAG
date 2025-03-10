@@ -236,7 +236,7 @@ Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in sit
 | Confermate/Confirm | Richiesta di confermare la data intenzione |
 | Contattate/Contact | Contattate il dato callsign e canale per future richieste |
 | Continuate/Continue | Conferma di continuare l'attuale azione (manovra/assalto/ritirata) |
-| Disregard/Ignorate | Ignorare una precedente richiesta/ordine errata o superflua |
+| Ignorate/Disregard | Ignorare una precedente richiesta/ordine errata o superflua |
 | Impossibilitati/Unable | Non siamo in grado di soddisfare la precedente richiesta |
 | Monitorate/Monitor | Ascoltate il dato canale per ricevere future richieste/ordini |
 | Ricevuto/Roger | Abbiamo ricevuto e compreso la comunicazione precedente |
