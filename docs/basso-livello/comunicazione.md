@@ -5,14 +5,16 @@ title: Radiofonia
 
 # Comunicazione e Radiofonia
 
-Questa sezione copre la standardizzazione delle procedure di comunicazione radio usate dal Network Bagigi.
+Questa pagina copre la standardizzazione delle procedure di comunicazione radio usate dal Network Bagigi.
+
+La prima sezione [sulla mod radio](#la-mod-radio) comprende una guida completa sull'utilizzo della nostra mod radio, mentre [la seconda sezione sulla radiofonia](#la-radiofonia) copre tutte le procedure di comunicazione utili.
 
 ## La mod radio
 
 Entriamo prima in dettaglio sulla mod radio che utilizziamo, le sue particolarità e funzionalità a nostra disposizione.
 
 Il Network Bagigi si è standardizzato sulla mod [ACRE2 - Bagigi Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=3012268676) come mod radio per le operazioni Arma 3.<br>
-Essa ci permette di parlare con gli altri giocatori in missione mediante un plugin di [TeamSpeak3](https://teamspeak.com/en/downloads/#ts3client), che viene auto-installato durante l'avvio di Arma 3, se la mod è stata attivata.
+Essa ci permette di parlare con gli altri giocatori in missione mediante un plugin di [TeamSpeak3](https://teamspeak.com/en/downloads/#ts3client), che viene auto-installato durante l'avvio di Arma 3, **se TS3 è chiuso**.
 
 Le informazioni in questa guida fanno riferimento alla [wiki di ACRE2](https://acre2.idi-systems.com/wiki/user/overview). La lettura è consigliata in particolare per argomenti non trattati su questa pagina, come [i GUI delle radio](https://acre2.idi-systems.com/wiki/radios/overview).
 
@@ -39,11 +41,11 @@ La seguente tabella elenca i 5 volumi di voce disponibili, con le relative dista
 
 | Volume della voce | Alto (m)| Basso (m) | Quasi impercettibile (m) | Quando usarlo? |
 | -------- | -------- | -------- | -------- | -------- |
-| `1/5` | 1 | 2 | 13 | Comunicazione a singoli durante briefing o CQB con nemici vicinissimi |
-| `2/5` | 3 | 15 | 55 | Comunicazione con i propri buddy senza intralciare il resto del gruppo, oppure con il proprio gruppo se c'è possibile presenza nemica nelle vicinanze |
-| `3/5` | 8 | 30 | 100 | Adatto al 90% delle situazioni sul campo, buona via di mezzo tra non intralciare/svelarsi e essere sentiti dal proprio gruppo |
-| `4/5` | 12 | 45 | 145 | Situazioni di combattimento in cui dobbiamo farci sentire da tutta una squadra, con buddy-team distribuiti a >15m di distanza |
-| `5/5` | 15 | 55 | 195 | Comunicazione chiara con un gruppo distaccato o altre squadre, specialmente in scenari senza radio personali |
+| `1/5` | 1 | 2 | 13 | Comunicazione a singoli durante briefing o CQB con nemici vicinissimi. |
+| `2/5` | 3 | 15 | 55 | Comunicazione con i propri buddy senza intralciare il resto del gruppo, oppure con il proprio gruppo se c'è possibile presenza nemica nelle vicinanze. |
+| `3/5` | 8 | 30 | 100 | Adatto al 90% delle situazioni sul campo, buona via di mezzo tra non intralciare/svelarsi e essere sentiti dal proprio gruppo. |
+| `4/5` | 12 | 45 | 145 | Situazioni di combattimento in cui dobbiamo farci sentire da tutta una squadra, con buddy-team distribuiti a >15m di distanza. |
+| `5/5` | 15 | 55 | 195 | Comunicazione chiara con un gruppo distaccato o altre squadre, specialmente in scenari senza radio personali.<br>^^Da usare solo per brevi comunicazioni importanti, tornando il prima possibile a volumi ridotti^^. |
 
 !!! note "Mentre trasmettiamo in radio, il volume parlato (indipendente da quello trasmesso) viene ridotto di un singolo livello."
 
@@ -67,8 +69,8 @@ Le radio di ACRE2 non utilizzano lo slot della radio nel proprio inventario come
 | [AN/PRC-343](https://acre2.idi-systems.com/wiki/radios/an-prc-343) | Una piccola radio tascabile di portata molto limitata, i suoi blocchi/canali sono compatibili solo con altre PRC-343.<br>In dotazione a tutti i fanti in scenari moderni per comunicazioni a livello di gruppo/squadra. | 100 mW | 400 / 850 m |
 | [AN/PRC-148](https://acre2.idi-systems.com/wiki/radios/an-prc-148) | Una radio a medio raggio, usa gli stessi canali delle PRC-152/117F.<br>Viene usata dai TL/SL per comunicazioni a livello di squadra/plotone. | 5 W | 4 / 6 km |
 | [AN/PRC-152&#40;c&#41;](https://acre2.idi-systems.com/wiki/radios/an-prc-152) | Una radio a medio raggio, usa gli stessi canali delle PRC-148/117F.<br>Viene usata dai TL/SL per comunicazioni a livello di squadra/plotone. | 5 W | 4 / 6 km |
-| [AN/PRC-117F](https://acre2.idi-systems.com/wiki/radios/an-prc-117f) | Una radio a lungo raggio, trasportabile solo negli zaini, usa gli stessi canali delle PRC-148/152.<br>Viene usata dai SL / PL e JTAC per comunicazioni a lungo raggio, a livello di plotone/compagnia | 20 W | 10 / 20 km |
-| [AN/PRC-77](https://acre2.idi-systems.com/wiki/radios/an-prc-77) | Una radio da zaino degli anni '60, usata in epoca Vietnam. Viene impostata con varie frequenze, compatibili solo con altre PRC-77.<br>Utilizzata principalmente a livello di plotone/compagnia. | 4 W | 2 / 4 km |
+| [AN/PRC-117F](https://acre2.idi-systems.com/wiki/radios/an-prc-117f) | Una radio a lungo raggio, trasportabile solo negli zaini, usa gli stessi canali delle PRC-148/152.<br>Viene usata dai SL/PL o JTAC per comunicazioni a lungo raggio, a livello di plotone/compagnia | 20 W | 10 / 20 km |
+| [AN/PRC-77](https://acre2.idi-systems.com/wiki/radios/an-prc-77) | Una radio da zaino degli anni '60, usata in epoca Vietnam. Viene impostata con frequenze anziché canali, compatibili solo con altre PRC-77.<br>Utilizzata principalmente a livello di plotone/compagnia. | 4 W | 2 / 4 km |
 | [SEM 52 SL](https://acre2.idi-systems.com/wiki/radios/sem-52-sl) | Una radio dell'esercito tedesco, compatibile solo con altre SEM 52SL/70.<br>Utilizzata a livello di squadra. | 1 W | 1 / 3 km |
 | [SEM 70](https://acre2.idi-systems.com/wiki/radios/sem-70) | Una radio da zaino dell'esercito tedesco, compatibile solo con altre SEM 52SL/70.<br>Ulizzata a livello di plotone. | 4 W | 2 / 4 km |
 | [Beofeng BF-888S](https://acre2.idi-systems.com/wiki/radios/bf-888s) | Una radio civile a medio raggio, con canali compatibili solo con altre Beofeng.<br>Utile a forze paramilitari o eserciti meno equipaggiati. | 5 W | 3 / 5 km |
@@ -96,7 +98,7 @@ Siccome possiamo equipaggiare molte radio, serve un modo per determinare su qual
 
 La nostra radio "attiva" è **sempre** l'ultima radio su cui abbiamo trasmesso. Possiamo però anche determinarla manualmente (fino alla prossima trasmissione), sia mediante l'opportuna autointerazione, che ciclandola tra le radio che abbiamo appresso con ++alt+shift+caps-lock++.
 
-Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere alla relativa autointerazione o manipolazione del GUI:
+Così potremo usare i seguenti comandi per manipolare velocemente l'attuale radio "attiva", senza dover ricorrere all'analoga autointerazione o manipolazione del GUI:
 
 - ++ctrl+arrow-up++ / ++arrow-down++ per cambiare il canale della radio (non su radio da zaino).
 - ++ctrl+alt+caps-lock++ per aprire il GUI della radio.
@@ -118,9 +120,9 @@ Su praticamente tutti i veicoli con interfono, esso si suddivide in uno o due ca
 
 - ^^Crew/Equipaggio:^^<br>
   Viene collegato in automatico quando si entra su posti di pilota, artigliere o comandante.<br>
-  I passeggeri possono collegarsi a questo canale solo in 1-2 contemporaneamente, al fine di non disturbare l'equipaggio (lasciatele quindi libere per i leader imbarcati). Inoltre il collegamento userà la modalità PTT, richiedendo l'assegnazione e utilizzo del rispettivo keybind per trasmettere sul canale.
+  I passeggeri possono collegarsi a questo canale solo in 1-2 contemporaneamente, al fine di non disturbare l'equipaggio (lasciate quindi quei posti liberi per i leader imbarcati). Inoltre il collegamento userà la modalità PTT, richiedendo l'assegnazione e utilizzo del rispettivo keybind per trasmettere sul canale.
 - ^^Pax/Passeggeri:^^<br>
-  Canale di libera comunicazione per tutto il personale imbarcato, sia per l'equipaggio che i passeggeri. Questo non significa però che conviene collegarsi tutti. Specialmente su velivoli con >12 posti conviene collegarsi solo da SL/TL e rispettivi vice, in modo da lasciare il canale libero per il coordinamento tra leader.
+  Canale di libera comunicazione per tutto il personale imbarcato, sia per l'equipaggio che i passeggeri. Questo non significa però che conviene collegarsi tutti. Specialmente su velivoli con >12 posti conviene collegarsi solo da SL/TL e rispettivi vice (idealmente impostandolo in modalità PTT), in modo da lasciare il canale libero per il coordinamento tra i leader imbarcati.
 
 L'interfaccia dell'intercom è apribile mediante interazioni ACE3 su veicolo>intercom>canale, oppure il keybind ++ctrl+shift+tab++. Essa è modellata secondo il reale sistema ["Full Function Crew Station"](https://chelton.com/media/51ajstyf/lv2-brochure.pdf), permettendoci di impostare ogni canale intercom con una modalità adatta alle nostre esigenze.
 
@@ -155,7 +157,7 @@ Sono antenne montabili che possono essere piazzate al suolo e collegate ad una n
 Qui sotto sono elencati i vari oggetti di inventario che possiamo montare, mediante auto-interazioni ACE3, in due tipologie di antenne:
 
 - ^^Antenne convenzionali:^^<br>
-  Esse migliorano la portata della radio collegata aumentando la potenza di trasmissione, ma anche elevando l'antenna sopra il terreno bloccante. La propagazione rimane comunque LOS, però la potenza maggiore aumenta l'efficacia di riflessioni contro il terreno.
+  Esse migliorano la portata della radio collegata aumentando la potenza di trasmissione, ma anche elevando l'antenna sopra eventuale terreno bloccante. La propagazione rimane comunque LOS, però la potenza maggiore aumenta l'efficacia di riflessioni contro il terreno.
     - `VHF30108 GS`: l'antenna "Ground Spike" montabile, alta circa 2.4m, compatibile con `AN/PRC-148`, `-152`, `-117F`, `-77` e `SEM 70`;
     - `VHF30108 Mast`: oggetto di "albero", montabile sotto un GS per estenderlo in GSM;
     - `VHF30108 GSM`: oggetto antenna + albero per 6.4m di altezza, smontabile in GS per separare l'oggetto Mast;
@@ -186,7 +188,7 @@ Prendiamo come esempio la seguente maglia radio, raffigurante una Task Force avi
 
 Notiamo gli indicatori di banda accanto alle unità. In ambito moderno tendiamo a indicare con `UHF` le radio a corto raggio, come la `AN/PRC-343`, mentre `VHF` sta a indicare radio a medio-lungo raggio come `AN/PRC-148`, `-152` e `-117F`.
 
-Dopo la banda segue un numero di canale/frequenza, come `Ch 3` per i canali singoli di radio MR/LR, `Ch 2.3` per indicare il Blocco 2 e Canale 3 della `AN/PRC-343`, oppure una frequenza nel formato `VHF 33.50 MHz` per radio come la `AN/PRC-77`.
+Dopo la banda segue un numero di canale/frequenza, come `Ch 3` per i canali singoli di radio MR/LR, `Ch 2.3` per indicare il Blocco 2 e Canale 3 della `AN/PRC-343`, oppure una frequenza nel formato `33.50 MHz` per radio come la `AN/PRC-77`.
 
 Se l'indicatore di banda+canale è accanto all'unità stessa, come `UHF Ch 1.3` per il gruppo `Wolf 2`, esso va a indicare il canale ^^intra-unità^^, ergo quello utilizzato dai membri di `Wolf 2` per comunicare tra di loro.<br>
 Se invece l'indicatore si trova accanto a una figura di comando o assetto aereo, esso indica il canale ^^inter-unità^^ che viene usato da quella figura/assetto per comunicare con l'esterno. Nel caso della squadra `Blaze`, `VHF Ch 4` verrà utilizzato dallo Squad Leader in `Blaze Lead` e i Team Leader di `Blaze 1` e `Blaze 2` per comunicare tra di loro. Mentre `VHF Ch 2` è la frequenza aviazione, utilizzata per coordinamento tra il comando `Titan` e gli elicotteristi.
@@ -239,6 +241,7 @@ Le "brevity" sono parole *brevi* utili ad *abbreviare* le comunicazioni ^^in sit
 | Continuate/Continue | Conferma di continuare l'attuale azione (manovra/assalto/ritirata) |
 | Ignorate/Disregard | Ignorare una precedente richiesta/ordine errata o superflua |
 | Impossibilitati/Unable | Non siamo in grado di soddisfare la precedente richiesta |
+| Interrogativo/Interrogative | Esplicitiamo che la comunicazione attuale è una domanda |
 | Monitorate/Monitor | Ascoltate il dato canale per ricevere future richieste/ordini |
 | Ricevuto/Roger | Abbiamo ricevuto e compreso la comunicazione precedente |
 | Richiediamo/Request | Richiesta di vario genere (supporti/rifornimenti) |
@@ -263,7 +266,9 @@ La qualità di ricezione viene comunicata secondo la seguente scala.
 
 > [Wolf] Blaze, Wolf, ==prova radio==.
 
-> [Blaze] Wolf, qui Blaze, ==radio 5==, avanti.
+> [Blaze] Wolf, qui Blaze, ==radio 5==.
+
+> [Wolf] Blaze, Wolf, ==radio 4==.
 
 #### Standby
 
@@ -395,7 +400,7 @@ Un "Situation Report" è una procedura radio utile per comunicare in brevi termi
 Viene richiesto con =="SITREP"==, la risposta è da strutturare nel modo seguente:
 
 1. Posizione su griglia, oppure relativa a un punto di riferimento ben chiaro
-2. Se siamo in contatto con truppe nemiche che limitano la nostra manovra (riga omissibile la situazione è tranquilla)
+2. Se siamo in contatto con truppe nemiche che limitano la nostra manovra (riga omissibile se la situazione è tranquilla)
 3. Disposizione dell'unità, es: "mobili"/"imbarcati" vs "coperti"/"trincerati", oppure "soppressi" (SA degradata)
 4. Stato feriti (se non è verde va aggiunto il tempo stimato per tornarci, es: "2 minuti")
     - ^^"Verde"^^: tutti gli operatori consci e abili al movimento (piccole ferite non suturate sono trascurabili).
@@ -408,12 +413,12 @@ Viene richiesto con =="SITREP"==, la risposta è da strutturare nel modo seguent
 6. Stato equipaggiamenti (risorse mediche, granate, esplosivi, lanciatori, ma anche operatori con ruolo specialistico morti/disconnessi)
     - ^^"Verde"^^: nessuna scarsità di equip che potrebbe impattare il completamento dei task assegnati.
     - ^^"Giallo"^^: prima di terminare la missione potrebbero finire equip importanti, consigliabile un rifornimento.
-    - ^^"Rosso"^^: equip esauriti o insufficienti per completare i prossimi task.
+    - ^^"Rosso"^^: equip esauriti o insufficienti per completare il prossimo task.
 7. Remarks aggiuntivi, per esempio un'esplicita richiesta di rifornimento immediato, oppure l'avviso sui task completabili prima di finire in rosso su un dato punto.
 
 !!! info "È consentito omettere stati verdi o abbreviare le righe 4-5-6 con =="tutto verde"==."
 
-Seguono degli esempi, con la riga corrispondente alla porzione di comunicazione marcata con "*(n° riga)*".
+Seguono degli esempi, con la riga corrispondente alla porzione di comunicazione indicata da "*(n° riga)*".
 
 > [Titan] Wolf, qui Titan, ==SITREP==.
 
@@ -429,7 +434,7 @@ Seguono degli esempi, con la riga corrispondente alla porzione di comunicazione 
 
 #### SPOTREP
 
-Uno "Spot Report" è una procedura utilizzata per comunicare, in modo chiaramente strutturato, l'avvistamento di una formazione nemica o situazione inerente allo svolgimento della missione.
+Uno "Spot Report" è una procedura utilizzata per comunicare, in modo chiaramente strutturato, l'avvistamento di una formazione nemica o situazione pertinente allo svolgimento della missione.
 
 Viene chiamato con =="SPOTREP"== oppure =="SPOTREP aggiornato"== (se aggiorna uno precedente), seguito dal seguente formato:
 
@@ -449,6 +454,4 @@ Segue un esempio, con la riga corrispondente alla porzione di comunicazione marc
 
 > *(aggiornamento 6 minuti dopo)*
 
-> [Taco] Titan, qui *(1)* Taco, ==SPOTREP aggiornato==, *(2a)* due BTR con squadre imbarcate, *(2b)* griglia 025-160, *(2c)* si stanno separando verso Sud e verso Ovest, probabile intenzione di assalto a L di alleati su obj Lima, passo.
-
-*Ci basiamo sul [formato SPOTREP usato dalla US Army](https://www.moore.army.mil/armor/ocoa/content/References%20and%20Guides/USAARMS%2017-98-3%20Scout%20Platoon%20SOP%202014.pdf) (pag. C-3).*
+> [Taco] Titan, qui *(1)* Taco, ==SPOTREP aggiornato==, *(2a)* due BTR con squadre imbarcate, *(2b)* griglia 025-160, *(2c)* si stanno separando verso Sud e verso Ovest, probabile intenzione di assalto a L su FOB Dakota, passo.
