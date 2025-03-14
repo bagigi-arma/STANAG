@@ -7,7 +7,8 @@ title: Radiofonia
 
 Questa pagina copre la standardizzazione delle procedure di comunicazione radio usate dal Network Bagigi.
 
-La prima sezione [sulla mod radio](#la-mod-radio) comprende una guida completa sull'utilizzo della nostra mod radio, mentre [la seconda sezione sulla radiofonia](#la-radiofonia) copre tutte le procedure di comunicazione utili.
+- La prima sezione [sulla mod radio](#la-mod-radio) comprende una guida completa sull'utilizzo della nostra mod radio.
+- La seconda sezione [sulla radiofonia](#la-radiofonia) copre tutte le procedure di comunicazione utili.
 
 ## La mod radio
 
