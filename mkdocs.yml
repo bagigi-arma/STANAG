@@ -194,5 +194,6 @@ nav:
     - basso-livello/index.md
     - Sistema Medico: basso-livello/medical.md
     - Radiofonia: basso-livello/comunicazione.md
+    - CQB: basso-livello/cqb.md
   - Alto livello:
     - alto-livello/index.md
