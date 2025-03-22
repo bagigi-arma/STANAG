@@ -9,7 +9,7 @@ I veicoli corrazzati sono un grande moltiplicatore di forza per la fanteria che 
 
 ## Le categorie di veicoli
 
-I cosiddetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono definire in 4 principali categorie:
+I cosidetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono definire in 4 principali categorie:
 
 - **APC (Veicolo Trasporto Truppe):**<br>
   Un veicolo corrazzato capace di trasportare fanteria sul campo di battaglia, proteggendola da fuoco di fucili d'assalto (eventualmente anche .50) e frammenti di granate.<br>
@@ -29,7 +29,21 @@ I cosiddetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono defi
 
 ## Coordinamento dell'equipaggio
 
+A differenza di altri veicoli pesanti e ingombranti come gli elicotteri, il pilota del carro riceve ordini di manovra dal capocarro, che gode di una SA molto maggiore della sua. Per manovrare quindi il mezzo in modo efficace e sicuro, devono vigere delle procedure di comunicazione ben chiare tra tutti i membri dell'equipaggio.
+
 ### Ruoli e responsabilità
+
+L'equipaggio consiste di 3 figure principali: capocarro, artigliere e pilota. Sono elencati di seguito con il loro nominativo di chiamata.
+
+- ^^Commander:^^<br>
+  Il capocarro, responsabile di dare ordini di ingaggio e manovra ai suoi sottoposti, senza perdere di vista la situazione tattica in cui si trova e mantenendo sempre le comunicazioni con l'esterno.
+- ^^Gunner:^^<br>
+  L'artigliere del veicolo, secondo al comando dell'equipaggio. È responsabile dell'armamento primario, comprendente spesso la torretta con cannone e/o lanciatore.<br>
+  Su veicoli con solo 2 posti di equipaggio (es: [Wiesel](https://it.wikipedia.org/wiki/Wiesel_(combattimento_fanteria))), l'artigliere dovrà fungere anche da capocarro.
+- ^^Driver:^^<br>
+  Il pilota del veicolo, responsabile di manovrarlo seguendo gli ordini e l'intenzione del capocarro. Nel caso di riparazioni sul campo, lui è il primo in linea a sbarcare per effettuarle.
+
+!!! note "Su alcuni veicoli esiste anche il ruolo di "loader", ma non viene mai assegnato, essendo superfluo e noioso da ricoprire nel simulatore."
 
 ### Comandi comuni
 
