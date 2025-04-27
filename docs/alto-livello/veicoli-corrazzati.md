@@ -13,19 +13,19 @@ I cosidetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono defin
 
 - **APC (Veicolo Trasporto Truppe):**<br>
   Un veicolo corrazzato capace di trasportare fanteria sul campo di battaglia, proteggendola da fuoco di fucili d'assalto (eventualmente anche .50) e frammenti di granate.<br>
-  Comunemente armato con mitragliatrici di calibro medio (7.62mm) o pesante (.50), oppure lanciagranate automatici (GMG 40mm).<br>
-  Esempi: M113, Stryker, AAV, BTR-40/60/70.
+  Comunemente armato con mitragliatrici di calibro medio (7.62mm) o pesante (HMG .50), oppure lanciagranate automatici (GMG 40mm).<br>
+  Esempi: [M113](https://it.wikipedia.org/wiki/M113), [Stryker](https://it.wikipedia.org/wiki/Stryker), [AAV-7](https://it.wikipedia.org/wiki/AAV7), [BTR-40](https://it.wikipedia.org/wiki/BTR-40)/[60](https://it.wikipedia.org/wiki/BTR-60)/[70](https://it.wikipedia.org/wiki/BTR-70).
 - **IFV (Veicolo da Combattimento Corrazzato):**<br>
   L'evoluzione dell'APC. Oltre a proteggere i passeggeri passivamente con la corrazza, il suo armamento maggiore gli permette di rimanere sul campo per supportare la fanteria sbarcata contro varie minacce.<br>
   Comunemente armato con un cannone automatico da >20mm con munizioni AP e HE, molto letale contro fanteria nemica e veicoli leggeri a distanze elevate. Alcuni montano anche ATGM letali per MBT.<br>
-  Esempi: M2 Bradley, LAV-25, Freccia, Dardo, BMP, BTR-80A.
+  Esempi: [M2 Bradley](https://it.wikipedia.org/wiki/M2/M3_Bradley), [LAV-25](https://it.wikipedia.org/wiki/LAV-25), [Freccia](https://it.wikipedia.org/wiki/Freccia_(combattimento_fanteria)), [Dardo](https://it.wikipedia.org/wiki/Dardo_(combattimento_fanteria)), [BMP](https://it.wikipedia.org/wiki/BMP-1), [BTR-80A](https://it.wikipedia.org/wiki/BTR-80#Varianti).
 - **MBT (Carro da Combattimento):**<br>
   Un carro da battaglia, monta una corrazza spessa e cannone di grosso calibro (>90mm), capace di demolire con colpi HE veicoli leggeri a distanze elevate e distruggere bersagli corrazzati con munizioni AP.<br>
-  Esempi: M1 Abrams, C1 Ariete, Leopard, T-60/70/80.
+  Esempi: [M1 Abrams](https://it.wikipedia.org/wiki/M1_Abrams), [Ariete](https://it.wikipedia.org/wiki/Ariete_(carro_armato)), [Leopard 2](https://it.wikipedia.org/wiki/Leopard_2), [T-62](https://it.wikipedia.org/wiki/T-62)/[72](https://it.wikipedia.org/wiki/T-72)/[80](  https://it.wikipedia.org/wiki/T-80).
 - **TD (Cacciacarri):**<br>
   Meno corrazzato di un carro da battaglia, ma in compenso più mobile, per aggirare il nemico con facilità.<br>
   Armato per demolire MBT, con un cannone di alto calibro (>90mm) e munizioni AP. Alcune varianti sono basate su piccoli APC come il M113 e montano ATGM.<br>
-  Esempi: M901 ITV, Stryker MGS, B1 Centauro.
+  Esempi: [M901 ITV](https://en.wikipedia.org/wiki/M901_ITV), [Stryker MGS](https://en.wikipedia.org/wiki/M1128_mobile_gun_system), [B1 Centauro](https://it.wikipedia.org/wiki/Centauro_(autoblindo)).
 
 ## Coordinamento dell'equipaggio
 
