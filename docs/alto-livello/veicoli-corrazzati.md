@@ -23,7 +23,7 @@ I cosidetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono defin
   Un carro da battaglia, monta una corrazza spessa e cannone di grosso calibro (>90mm), capace di demolire con colpi HE veicoli leggeri a distanze elevate e distruggere bersagli corrazzati con munizioni AP.<br>
   Esempi: [M1 Abrams](https://it.wikipedia.org/wiki/M1_Abrams), [Ariete](https://it.wikipedia.org/wiki/Ariete_(carro_armato)), [Leopard 2](https://it.wikipedia.org/wiki/Leopard_2), [T-62](https://it.wikipedia.org/wiki/T-62)/[72](https://it.wikipedia.org/wiki/T-72)/[80](  https://it.wikipedia.org/wiki/T-80).
 - **TD (Cacciacarri):**<br>
-  Meno corrazzato di un carro da battaglia, ma in compenso più mobile, per aggirare il nemico con facilità.<br>
+  Meno corrazzato di un carro da battaglia, ma in compenso più mobile, per aggirare formazioni nemiche e colpirle nei fianchi.<br>
   Armato per demolire MBT, con un cannone di alto calibro (>90mm) e munizioni AP. Alcune varianti sono basate su piccoli APC come il M113 e montano ATGM.<br>
   Esempi: [M901 ITV](https://en.wikipedia.org/wiki/M901_ITV), [Stryker MGS](https://en.wikipedia.org/wiki/M1128_mobile_gun_system), [B1 Centauro](https://it.wikipedia.org/wiki/Centauro_(autoblindo)).
 
