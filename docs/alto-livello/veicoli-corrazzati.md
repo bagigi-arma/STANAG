@@ -45,11 +45,15 @@ L'equipaggio consiste di 3 figure principali: capocarro, artigliere e pilota. So
 
 !!! note "Su alcuni veicoli esiste anche il ruolo di "loader", ma non viene mai assegnato, essendo superfluo e noioso da ricoprire nel simulatore."
 
-### Comandi comuni
+### Manovre basilari
 
 #### Orientamento
 
-### Manovre basilari
+Con =="orienta prua/direzione"== comandiamo l'orientamento dello scafo o della torretta (a seconda del membro interpellato) nella data direzione.
+
+*Immagine con esempi*
+
+!!! note "Il comando dato al Driver NON implica l'annullamento di un movimento attuale in avanti o indietro."
 
 #### Movimento
 
