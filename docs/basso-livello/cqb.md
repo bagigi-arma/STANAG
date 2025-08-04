@@ -82,8 +82,36 @@ Ad esempio: "Contatto, destra!" anziché "ommioddio! C'è un tizio a destra!"
 
 I concetti di comunicazione del CQB hanno, ovviamente, molto in comune con lo standard militare, tranne per qualche termine che vedremo più avanti, come "stack" o "clear". Al seguente link potete imparare come sfruttare [la voce diretta](#la-voce-diretta) in ambienti ristretti. 
 
+## SOP del CQB
+Ora che conosciamo i principi fondamentali di questa disciplina, vediamo come metterli in pratica. 
+In questo capitolo vedremo, passo dopo passo, la progressione corretta per effettuare la messa in sicurezza degli ambienti. 
 
+#### 1 - Stack
+Ogni ingresso in un ambiente sconosciuto deve essere preceduto dalla formazione di una stack (colonna) appena all’esterno dell’accesso. Questo consente agli operatori di posizionarsi ordinatamente, coordinare i ruoli e prepararsi all’ingresso.
 
+Esistono due principali configurazioni di stack, da scegliere in base alla situazione tattica:  
 
+##### Single stack
+La squadra si posiziona in una colonna unica, a destra o a sinistra dell’ingresso. Il TL (Team Leader) comunica la direzione con il comando: “Stack a destra” oppure “Stack a sinistra”. 
+
+Vantaggi: 
+
+- Permette alla squadra di restare compatta, facilitando un’eventuale ritirata in caso di contatto all’ingresso. 
+
+- Riduce il rischio di crossfire (fuoco incrociato) o incidenti di fuoco amico se un nemico esce improvvisamente.  
+
+##### Split stack 
+La squadra si divide in due colonne, una su ciascun lato dell’ingresso. Il TL ordina: “Split Stack”. 
+
+Vantaggi: 
+
+- Migliore copertura dei settori visivi e aumento della Situational Awareness (SA) 
+
+!!! warning "Nota bene: Le due configurazioni hanno vantaggi opposti: una Split Stack offre più SA ma complica la ritirata; la Single Stack semplifica la gestione del contatto ravvicinato, ma espone a più angoli ciechi."
+
+| Tipo di Stack | Vantaggi | Svantaggi
+| -------- | -------- | -------- |
+| Single Stack | Compattezza, facilità di ritirata, evita il fuoco incrociato | Copertura settori ridotta |
+| Split Stack | Maggiore copertura, visione su più angoli | Ritirata più difficile, rischio di crossfire |
 
 
