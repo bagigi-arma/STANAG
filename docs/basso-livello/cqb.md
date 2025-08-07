@@ -107,11 +107,98 @@ Vantaggi:
 
 - Migliore copertura dei settori visivi e aumento della Situational Awareness (SA) 
 
-!!! warning "Nota bene: Le due configurazioni hanno vantaggi opposti: una Split Stack offre più SA ma complica la ritirata; la Single Stack semplifica la gestione del contatto ravvicinato, ma espone a più angoli ciechi."
+!!! note "Nota bene: Le due configurazioni hanno vantaggi opposti: una Split Stack offre più SA ma complica la ritirata; la Single Stack semplifica la gestione del contatto ravvicinato, ma espone a più angoli ciechi."
 
 | Tipo di Stack | Vantaggi | Svantaggi
 | -------- | -------- | -------- |
 | Single Stack | Compattezza, facilità di ritirata, evita il fuoco incrociato | Copertura settori ridotta |
 | Split Stack | Maggiore copertura, visione su più angoli | Ritirata più difficile, rischio di crossfire |
 
+
+#### 2 - Ingresso
+A seconda del contesto operativo, possiamo utilizzare diverse tecniche di ingresso, ognuna con i propri vantaggi e svantaggi. 
+
+##### Deliberate Entry - Ingresso pianificato
+L’ingresso pianificato viene impiegato in situazioni in cui il nemico non è ancora a conoscenza della nostra presenza, oppure quando non abbiamo particolari vincoli di tempo – ad esempio, se sappiamo con certezza che non sono presenti civili o ostaggi all’interno dell’edificio.
+
+Questo tipo di approccio consente di organizzare l’irruzione in modo ordinato e sicuro, riducendo i rischi per il team, a scapito però della rapidità di esecuzione.
+
+###### Threshold evaluation - Valutazione della soglia
+
+La deliberate entry inizia solitamente con quella che, in gergo tecnico, viene chiamata valutazione della soglia (threshold evaluation).
+La soglia è qualsiasi punto di accesso a un nuovo ambiente: una porta, una finestra, un’apertura nel muro, ecc.
+
+Questa valutazione viene effettuata dall’operatore più vicino alla soglia, generalmente il primo uomo ("Pointman", maggiori dettagli in [Formazioni e Ruoli](#Formazioni-e-Ruoli)).
+Il pointman osserva l’ingresso dall’esterno e comunica al resto del team qualsiasi informazione utile – ad esempio “porta bloccata”, oppure, se riesce a sbirciare all’interno, segnala eventuali contatti nemici. 
+
+###### Slice the pie - Pulizia angolare progressiva
+
+Una volta conclusa la fase di osservazione, si procede con la tecnica comunemente chiamata “slice the pie” – sì, letteralmente “affettare la torta”…
+
+Il nome nasce dal fatto che l’ambiente sconosciuto (Dead Space) viene immaginato come una torta da suddividere in fette, da osservare e controllare una alla volta in modo graduale.
+
+Il primo uomo, restando sempre fuori dalla soglia, esegue una scansione progressiva dell’interno, spostandosi lateralmente (Pieing). In questo modo riduce la propria esposizione e, se necessario, neutralizza eventuali minacce prima dell’ingresso vero e proprio.
+
+###### Ingresso e gestione degli Hard Corners
+
+Terminata la fase di valutazione e pulizia angolare, si passa all’ingresso.
+
+Questa è la fase più delicata, poiché comporta l’esposizione diretta degli operatori all’interno di un ambiente potenzialmente ostile.
+
+Gli operatori entrano in sequenza, seguendo l’ordine stabilito nello stack, e ogni membro del team ha un settore di responsabilità ben definito (vedi [Suddivisione dei Settori](#Suddivisione-dei-Settori)).
+
+Appena varcata la soglia, la priorità è mettere sotto controllo gli "Hard Corners", ovvero gli angoli ciechi immediatamente a destra e a sinistra dell’ingresso. 
+
+Questi angoli sono particolarmente pericolosi, in quanto non visibili dall’esterno durante il pieing e rappresentano i punti ideali per un’imboscata da parte del nemico.
+
+Al contrario, gli angoli visibili dall'esterno, sono definiti "Easy Corners" perché ritenuti più innocui e gestibili dall'esterno in copertura. 
+
+!!! note "Entrare troppo lentamente o in modo indeciso espone il team al fuoco nemico dagli Hard Corners. Tuttavia, la velocità deve essere sempre subordinata al controllo e alla comunicazione tra i membri del team."
+
+###### Point of Domination (PoD) - Punti di dominio 
+
+I punti di dominio sono posizioni di vantaggio tattico all’interno degli ambienti. Solitamente coincidono con gli angoli, in quanto offrono una buona visuale sui settori da coprire e una certa protezione fisica, ma possono anche trovarsi dietro coperture mobili o arredi (come armadi, divani, tavoli rovesciati), purché offrano un posizionamento sicuro e funzionale agli obiettivi del team.
+
+Una volta entrati, ogni operatore deve rapidamente raggiungere il proprio PoD, consentendo di liberare la soglia per i compagni che seguono, evitare ingorghi e assicurare una copertura continua e coordinata. 
+
+!!! warning "È importante che almeno uno tra il primo o il secondo uomo avanzi fino a un PoD in profondità, invece di fermarsi subito dopo la soglia. Questo crea distanza tra gli operatori, migliora la copertura reciproca e riduce il rischio di fuoco incrociato."
+
+Approfondisci la tua conoscenza dei Corners e dei PoD qui: [Geometria degli ambienti](#Geometria-degli-ambienti)
+
+##### Dynamic Entry - Ingresso dinamico
+
+La dynamic entry, o ingresso dinamico, è una tecnica che privilegia la velocità e l'effetto sorpresa rispetto alla pianificazione e all'osservazione preliminare.
+Viene utilizzata in scenari in cui è fondamentale intervenire rapidamente, come nel caso di presenza di ostaggi, minacce imminenti, o nemico già consapevole della nostra presenza.
+
+In questo tipo di ingresso, il team entra nella stanza in modo immediato e aggressivo, senza fermarsi alla soglia per effettuare valutazioni approfondite.
+L’obiettivo è travolgere il nemico con l’effetto sorpresa, sfruttare il fattore tempo e imporre il controllo dell’ambiente prima che la minaccia possa reagire.
+
+Ogni operatore deve conoscere con precisione il proprio ruolo nello stack, entrare senza esitazione, e raggiungere il proprio PoD (Point of Domination) in modo fluido e coordinato. 
+
+Non essendoci fase di Threshold Evaluation e Pieing, è fondamentale che:
+
+- Il movimento sia sincronizzato
+
+- Ogni operatore si fidi completamente del proprio team
+
+- I settori vengano acquisiti e puliti in pochi secondi
+
+!!! warning "La velocità espone a maggiori rischi, soprattutto da parte di nemici nascosti negli hard corners o in punti ciechi non visibili dall’esterno. Per questo motivo, la dynamic entry va usata solo quando necessaria, e mai in modo impulsivo." 
+
+!!! note "Le modalità di Ingresso e gestione Corners e PoD sono le medesime della Deliberate Entry" 
+
+Segue tabella di confronto tra Deliberate e Dynamic Entry: 
+
+| Caratteristica         | Deliberate Entry      | Dynamic Entry               |
+| -------------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| **Obiettivo primario**     | Minimizzare il rischio tramite osservazione      | Massimizzare l’effetto sorpresa e la velocità       |
+| **Uso della soglia**       | Threshold evaluation e Pieing prima dell’ingresso         | Nessuna valutazione, ingresso immediato             |
+| **Velocità di esecuzione** | Lenta e controllata                              | Rapida e aggressiva                                 |
+| **Contesto ideale**        | Nemico ignaro, tempo a disposizione              | Ostaggi, nemico allertato, minacce immediate        |
+| **Vantaggi**               | Maggiore sicurezza, pianificazione               | Sorpresa, controllo rapido dell’ambiente            |
+| **Svantaggi**              | Più lenta, possibile perdita di effetto sorpresa | Rischio elevato da hard corners e angoli ciechi     |
+| **Comunicazione**          | Comunicazione costante e pianificata             | Comunicazione minima, affidamento sul training      |
+| **Requisiti**              | Coordinazione, tempo, silenzio                   | Sincronizzazione perfetta, aggressività controllata |
+
+!!! note "Nessuna delle due tecniche è “migliore” in senso assoluto: vanno applicate in base alla situazione tattica, al tipo di minaccia e agli obiettivi della missione."
 
