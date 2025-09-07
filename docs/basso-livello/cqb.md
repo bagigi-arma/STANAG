@@ -90,7 +90,7 @@ Serve comunicare in modo rapido, chiaro, e codificato.
 
 Ad esempio: "Contatto, destra!" anziché "ommioddio! C'è un tizio a destra!"
 
-I concetti di comunicazione del CQB hanno, ovviamente, molto in comune con lo standard militare, tranne per qualche termine che vedremo più avanti, come "stack" o "clear". Al seguente link potete imparare come sfruttare [la voce diretta](#la-voce-diretta) in ambienti ristretti.
+I concetti di comunicazione del CQB hanno, ovviamente, molto in comune con lo standard militare, tranne per qualche termine che vedremo più avanti, come "stack" o "clear". Al seguente link potete imparare come sfruttare [la voce diretta](../comunicazione/#la-voce-diretta) in ambienti ristretti.
 
 ## SOP del CQB
 
