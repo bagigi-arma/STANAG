@@ -15,9 +15,8 @@ Ho impostato questa guida in modo che sia scalabile su qualsiasi shooter milsim/
 
 ### Premessa
 
-"Nessun piano di battaglia sopravvive al contatto con il nemico"
-
-cit. Helmuth Karl Bernhard von Moltke, Generale prussiano e poi tedesco.
+> "Nessun piano di battaglia sopravvive al contatto con il nemico"<br>
+> - cit. Helmuth Karl Bernhard von Moltke, Generale prussiano e poi tedesco.
 
 Il CQB è un'attività imprevedibile e, anche con il migliore dei piani, può essere compromessa dagli eventi imprevisti e dalle reazioni del nemico.
 
