@@ -3,6 +3,13 @@ template: home.html
 title: CQB
 ---
 
+<!--
+Link di riferimento definiti ma senza target:
+- #Formazioni-e-Ruoli
+- #Suddivisione-dei-Settori
+- #Geometria-degli-ambienti
+-->
+
 # CQB (Close Quarters Battle)
 
 Questa pagina copre la standardizzazione delle procedure di CQB usate dal Network Bagigi.
