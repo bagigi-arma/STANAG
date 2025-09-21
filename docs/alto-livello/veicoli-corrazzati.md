@@ -49,15 +49,37 @@ L'equipaggio consiste di 3 figure principali: capocarro, artigliere e pilota. So
 
 #### Orientamento
 
-Con =="orienta prua/direzione"== comandiamo l'orientamento dello scafo o della torretta (a seconda del membro interpellato) nella data direzione.
+Con =="^^Driver/Gunner,^^ orienta prua/direzione"== comandiamo l'orientamento dello scafo o della torretta (a seconda del membro interpellato) nella data direzione. Possiamo comunicare la direzione desiderata come prua magnetica, oppure relativa allo scafo del veicolo.
 
-*Immagine con esempi*
+<!-- Immagine con esempi -->
 
 !!! note "Il comando dato al Driver NON implica l'annullamento di un movimento attuale in avanti o indietro."
 
 #### Movimento
 
+Con semplici ordini di verso e velocità, es: =="^^Driver,^^ avanti a passo d'uomo"== (per tenere passo con i fanti sbarcati) o =="^^Driver^^, indietro veloce!"==, viene comandato un dato movimento. Esso è da continuare a tempo indeterminato finché annullato da un ordine successivo, come =="^^Driver^^, stop"==.
+
+In alternativa, ordini di movimento possono anche essere limitati nel tempo da una certa condizione, come per esempio:
+
+> ^^Driver^^, avanti lento ==finché siamo in cima al crinale==.
+
+> ^^Driver^^, avanti ==fino al prossimo incrocio, fermati 10m prima==.
+
+> ^^Driver^^, indietro veloce ==fino alla strada==.
+
 #### Sterzate
+
+Durante una manovra è spesso necessario dare brevi ordini di sterzata al driver, che risulterebbero troppo complessi se comunicati come quelli di orientamento. Qui alcuni esempi:
+
+> ^^Driver^^, ==destra pieno!== (corrisponde a 90°)
+
+> ^^Driver^^, ==sinistra mezzo!== (corrisponde a 45°)
+
+> ^^Driver^^, ==destra quarto!== (corrisponde a ~23°)
+
+<!-- immagine di spiegazione -->
+
+!!! note "Muovendo indietro con un mezzo ruotato, bisogna quindi sterzare con il tasto opposto, al fine di orientare lo scafo sempre nella direzione comandata"
 
 ### Manovre avanzate
 
