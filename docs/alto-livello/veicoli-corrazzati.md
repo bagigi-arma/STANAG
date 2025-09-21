@@ -36,10 +36,10 @@ A differenza di altri veicoli pesanti e ingombranti come gli elicotteri, il pilo
 L'equipaggio consiste di 3 figure principali: capocarro, artigliere e pilota. Sono elencati di seguito con il loro nominativo di chiamata.
 
 - ^^Commander:^^<br>
-  Il capocarro, responsabile di dare ordini di ingaggio e manovra ai suoi sottoposti, senza perdere di vista la situazione tattica in cui si trova e mantenendo sempre le comunicazioni con l'esterno.
+  Il capocarro, responsabile di dare ordini di ingaggio e manovra ai suoi sottoposti, senza perdere di vista la situazione tattica in cui si trova e mantenendo sempre le comunicazioni con l'esterno.<br>
+  Su veicoli con solo 2 posti di equipaggio (es: [Wiesel](https://it.wikipedia.org/wiki/Wiesel_(combattimento_fanteria))), il capocarro funge anche da artigliere.
 - ^^Gunner:^^<br>
-  L'artigliere del veicolo, secondo al comando dell'equipaggio. È responsabile dell'armamento primario, comprendente spesso la torretta con cannone e/o lanciatore.<br>
-  Su veicoli con solo 2 posti di equipaggio (es: [Wiesel](https://it.wikipedia.org/wiki/Wiesel_(combattimento_fanteria))), l'artigliere dovrà fungere anche da capocarro.
+  L'artigliere del veicolo, secondo al comando dell'equipaggio. È responsabile dell'armamento primario, comprendente spesso la torretta con cannone e/o lanciatore.
 - ^^Driver:^^<br>
   Il pilota del veicolo, responsabile di manovrarlo seguendo gli ordini e l'intenzione del capocarro. Nel caso di riparazioni sul campo, lui è il primo in linea a sbarcare per effettuarle.
 
