@@ -85,7 +85,43 @@ Durante una manovra è spesso necessario dare brevi ordini di sterzata al driver
 
 #### Hull/Turret Down
 
+Quando vicini ad un crinale (o ostacolo artificiale simile) che ci offre copertura, possiamo posizionare il nostro veicolo in uno di molteplici modi ben definiti:
+
+- ^^Hull-Down:^^<br>
+  Espone al nemico solo la nostra torretta principale, permettendoci di osservarlo e ingaggiarlo liberamente, coprendo allo stesso tempo il nostro scafo, che è generalmente meno corrazzato della torretta e contiene componenti vitali come motore e carburante. Inoltre in alcuni IFV o MBT moderni, dove la torretta è totalmente remota, ci permette di proteggere più facilmente l'intero equipaggio.
+- ^^Turret-Down:^^<br>
+  Espone al nemico il meno possibile del nostro profilo, soltanto il periscopio/torretta del capocarro (oppure lui stesso fuori dalla botola).<br>
+  Questo ci permette di osservarlo liberamente, mantenendo la massima abilità di manovra per avanzare velocemente in ^^Hull-Down^^ e ingaggiare, oppure indietreggiare in ^^Hide Position^^ per riposizionarci (es: [Jockey](#jockey)) o ritirarci.
+- ^^Hide Position:^^<br>
+  Manteniamo il veicolo totalmente nascosto da eventuali osservatori oltre il crinale, idalmente spegnendo anche il motore per impedire l'avvistamento del nostro fumo di scarico.<br>
+  Da questa posizione il capocarro o personale aggiuntivo (che non sia pilota o artigliere, fondamentali per manovra e ingaggio immediati) può sbarcare e posizionarsi furtivamente sul crinale per scrutare il terreno con il proprio binocolo e pianificare le prossime manovre e/o ingaggi, rimanendo visibile al nemico solo quanto un normale fante ricognitore.
+
+![Diagramma Hull/Turret-Down](../assets/diagrams/tank_hull_turret_down.png)
+
+- Per entrare in ^^Hull-Down^^:
+    - Il capocarro ordina =="^^Driver^^, hull-down, avanti N metri"==.
+    - Il pilota inizia il movimento comandato, rallentando in prossimità del crinale per ricevere indicazioni precise sul posizionamento.
+    - Siccome è la visuale dell'artigliere che conta per la posizione, è colui che procede a dare gli ordini sul posizionamento, per esempio con: =="^^Driver^^, avanti lento, 3 metri ... 2, 1, stop!"==.
+- Per entrare in ^^Turret-Down^^ il procedimento è identico al Hull-Down, ma siccome conta la visuale del capocarro è lui a dare indicazioni precise sul posizionamento.
+- Per tornare in ^^Hide Position^^ basta che il capocarro dia l'ordine =="^^Driver^^, indietro 10m"==, seguito da eventuali comandi ulteriori finché il veicolo si trova nella posizione desiderata, sempre secondo la visuale del capocarro.
+
+<!-- Immagine frontale in-game delle varie posizioni del diagramma -->
+
 #### Jockey
+
+Quando siamo in posizione di fuoco, orientati perpendicolarmente rispetto ad un crinale, il capocarro può usare la seguente brevity per ordinare al volo lo spostamento laterale in una nuova posizione lungo il crinale.
+
+> ^^Driver^^, ==jockey a destra/sinistra, N metri!==
+
+Di conseguenza, il pilota deve:
+
+1. Manovrare indietro in **Hide Position**, in modo da nascondere la manovra di riposizionamento agli occhi del nemico.
+2. Orientarsi in parallelo lungo il crinale usato come copertura, nella direzione comandata.
+3. Muovere alla massima velocità utile lungo il crinale, per la distanza comandata.
+4. Orientare il veicolo di nuovo verso il crinale, idealmente nella direzione occupata prima di iniziare il riposizionamento, ma può anche variare leggermente verso direzione più sensata per la nuova posizione.
+5. Avanzare nuovamente in **Hull-Down**, seguendo [l'opportuna procedura di comandi](#hullturret-down-e-hide-position) (l'ordine iniziale da parte del capocarro è implicito).
+
+<!-- immagini, GIF o Video esempio -->
 
 ### Come gestire gli ingaggi
 
