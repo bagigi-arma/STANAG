@@ -36,14 +36,20 @@ A differenza di altri veicoli pesanti e ingombranti come gli elicotteri, il pilo
 L'equipaggio consiste di 3 figure principali: capocarro, artigliere e pilota. Sono elencati di seguito con il loro nominativo di chiamata.
 
 - ^^Commander:^^<br>
-  Il capocarro, responsabile di dare ordini di ingaggio e manovra ai suoi sottoposti, senza perdere di vista la situazione tattica in cui si trova e mantenendo sempre le comunicazioni con l'esterno.<br>
+  Il capocarro, responsabile di dare ordini di ingaggio e manovra ai suoi sottoposti, senza perdere di vista la situazione tattica in cui si trova e mantenendo sempre le comunicazioni con l'esterno. È spesso munito di un MG medio/pesante, sotto forma di torretta remota o manuale, montata in cima alla torretta principale.<br>
   Su veicoli con solo 2 posti di equipaggio (es: [Wiesel](https://it.wikipedia.org/wiki/Wiesel_(combattimento_fanteria))), il capocarro funge anche da artigliere.
 - ^^Gunner:^^<br>
   L'artigliere del veicolo, secondo al comando dell'equipaggio. È responsabile dell'armamento primario, comprendente spesso la torretta con cannone e/o lanciatore.
 - ^^Driver:^^<br>
   Il pilota del veicolo, responsabile di manovrarlo seguendo gli ordini e l'intenzione del capocarro. Nel caso di riparazioni sul campo, lui è il primo in linea a sbarcare per effettuarle.
 
-!!! note "Su alcuni veicoli esiste anche il ruolo di "loader", ma non viene mai assegnato, essendo superfluo e noioso da ricoprire nel simulatore."
+Esistono ulteriori figure minori dell'equipaggio, in ruoli che non vengono però sempre assegnati su Arma, siccome possono risultare superflui e/o noiosi da ricoprire.
+
+- ^^Loader:^^<br>
+  Responsabile di [caricare il cannone principale](https://youtu.be/sC2ePKRvo9k), azione necessaria nella realtà ma quasi sempre superflua su ArmA 3, siccome la maggioranza dei carri implementano auto-loader.<br>
+  Ha responsabilità secondarie di supportare la riparazione del veicolo e operare l'eventuale MG montato sulla torretta, davanti alla sua botola.
+- ^^Hull:^^<br>
+  Va a interpellare il cosiddetto "Hull Gunner", collocato accanto al pilota nello scafo e munito di un MG che copre l'arco frontale del proprio veicolo. Presente principalmente su carri dell'epoca WW2, dove era anche responsabile di gestire la radio del veicolo, siccome il capocarro non poteva fisicamente accederci.
 
 ### Manovre basilari
 
