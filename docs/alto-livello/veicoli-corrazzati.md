@@ -1,29 +1,29 @@
 ---
 template: home.html
-title: Veicoli Corrazzati
+title: Veicoli Corazzati
 ---
 
-# Veicoli Corrazzati
+# Veicoli Corazzati
 
-I veicoli corrazzati sono un grande moltiplicatore di forza per la fanteria che supportano. Impiegarli in modo efficace, mitigando i loro punti deboli, richiede però delle buone facoltà in materia, sia da parte dell'equipaggio che i capi di squadre meccanizzate.
+I veicoli corazzati sono un grande moltiplicatore di forza per la fanteria che supportano. Impiegarli in modo efficace, mitigando i loro punti deboli, richiede però delle buone facoltà in materia, sia da parte dell'equipaggio che i capi di squadre meccanizzate.
 
 ## Le categorie di veicoli
 
-I cosidetti "veicoli corrazzati" o "Armoured Fighting Vehicles" si possono definire in 4 principali categorie:
+I cosidetti "veicoli corazzati" o "Armoured Fighting Vehicles" si possono definire in 4 principali categorie:
 
 - **APC (Veicolo Trasporto Truppe):**<br>
-  Un veicolo corrazzato capace di trasportare fanteria sul campo di battaglia, proteggendola da fuoco di fucili d'assalto (eventualmente anche .50) e frammenti di granate.<br>
+  Un veicolo corazzato capace di trasportare fanteria sul campo di battaglia, proteggendola da fuoco di fucili d'assalto (eventualmente anche .50) e frammenti di granate.<br>
   Comunemente armato con mitragliatrici di calibro medio (7.62mm) o pesante (HMG .50), oppure lanciagranate automatici (GMG 40mm).<br>
   Esempi: [M113](https://it.wikipedia.org/wiki/M113), [Stryker](https://it.wikipedia.org/wiki/Stryker), [AAV-7](https://it.wikipedia.org/wiki/AAV7), [BTR-40](https://it.wikipedia.org/wiki/BTR-40)/[60](https://it.wikipedia.org/wiki/BTR-60)/[70](https://it.wikipedia.org/wiki/BTR-70).
-- **IFV (Veicolo da Combattimento Corrazzato):**<br>
-  L'evoluzione dell'APC. Oltre a proteggere i passeggeri passivamente con la corrazza, il suo armamento maggiore gli permette di rimanere sul campo per supportare la fanteria sbarcata contro varie minacce.<br>
+- **IFV (Veicolo da Combattimento Corazzato):**<br>
+  L'evoluzione dell'APC. Oltre a proteggere i passeggeri passivamente con la corazza, il suo armamento maggiore gli permette di rimanere sul campo per supportare la fanteria sbarcata contro varie minacce.<br>
   Comunemente armato con un cannone automatico da >20mm con munizioni AP e HE, molto letale contro fanteria nemica e veicoli leggeri a distanze elevate. Alcuni montano anche ATGM letali per MBT.<br>
   Esempi: [M2 Bradley](https://it.wikipedia.org/wiki/M2/M3_Bradley), [LAV-25](https://it.wikipedia.org/wiki/LAV-25), [Freccia](https://it.wikipedia.org/wiki/Freccia_(combattimento_fanteria)), [Dardo](https://it.wikipedia.org/wiki/Dardo_(combattimento_fanteria)), [BMP](https://it.wikipedia.org/wiki/BMP-1), [BTR-80A](https://it.wikipedia.org/wiki/BTR-80#Varianti).
 - **MBT (Carro da Combattimento):**<br>
-  Un carro da battaglia, monta una corrazza spessa e cannone di grosso calibro (>90mm), capace di demolire con colpi HE veicoli leggeri a distanze elevate e distruggere bersagli corrazzati con munizioni AP.<br>
+  Un carro da battaglia, monta una corazza spessa e cannone di grosso calibro (>90mm), capace di demolire con colpi HE veicoli leggeri a distanze elevate e distruggere bersagli corazzati con munizioni AP.<br>
   Esempi: [M1 Abrams](https://it.wikipedia.org/wiki/M1_Abrams), [Ariete](https://it.wikipedia.org/wiki/Ariete_(carro_armato)), [Leopard 2](https://it.wikipedia.org/wiki/Leopard_2), [T-62](https://it.wikipedia.org/wiki/T-62)/[72](https://it.wikipedia.org/wiki/T-72)/[80](  https://it.wikipedia.org/wiki/T-80).
 - **TD (Cacciacarri):**<br>
-  Meno corrazzato di un carro da battaglia, ma in compenso più mobile, per aggirare formazioni nemiche e colpirle nei fianchi.<br>
+  Meno corazzato di un carro da battaglia, ma in compenso più mobile, per aggirare formazioni nemiche e colpirle nei fianchi.<br>
   Armato per demolire MBT, con un cannone di alto calibro (>90mm) e munizioni AP. Alcune varianti sono basate su piccoli APC come il M113 e montano ATGM.<br>
   Esempi: [M901 ITV](https://en.wikipedia.org/wiki/M901_ITV), [Stryker MGS](https://en.wikipedia.org/wiki/M1128_mobile_gun_system), [B1 Centauro](https://it.wikipedia.org/wiki/Centauro_(autoblindo)).
 
@@ -94,7 +94,7 @@ Durante una manovra è spesso necessario dare brevi ordini di sterzata al driver
 Quando vicini ad un crinale (o ostacolo artificiale simile) che ci offre copertura, possiamo posizionare il nostro veicolo in uno di molteplici modi ben definiti:
 
 - ^^Hull-Down:^^<br>
-  Espone al nemico solo la nostra torretta principale, permettendoci di osservarlo e ingaggiarlo liberamente, coprendo allo stesso tempo il nostro scafo, che è generalmente meno corrazzato della torretta e contiene componenti vitali come motore e carburante. Inoltre in alcuni IFV o MBT moderni, dove la torretta è totalmente remota, ci permette di proteggere più facilmente l'intero equipaggio.
+  Espone al nemico solo la nostra torretta principale, permettendoci di osservarlo e ingaggiarlo liberamente, coprendo allo stesso tempo il nostro scafo, che è generalmente meno corazzato della torretta e contiene componenti vitali come motore e carburante. Inoltre in alcuni IFV o MBT moderni, dove la torretta è totalmente remota, ci permette di proteggere più facilmente l'intero equipaggio.
 - ^^Turret-Down:^^<br>
   Espone al nemico il meno possibile del nostro profilo, soltanto il periscopio/torretta del capocarro (oppure lui stesso fuori dalla botola).<br>
   Questo ci permette di osservarlo liberamente, mantenendo la massima abilità di manovra per avanzare velocemente in ^^Hull-Down^^ e ingaggiare, oppure indietreggiare in ^^Hide Position^^ per riposizionarci (es: [Jockey](#jockey)) o ritirarci.
@@ -162,11 +162,11 @@ Riferito al ^^Gunner^^, comunichiamo =="COAX"== per ordinare un ingaggio con il 
 
 | Nominativo | Descrizione, Vantaggi e Svantaggi | Scelta migliore contro |
 | ----- | ----- | ----- |
-| =="SABOT"== | Nominativo colloquiale per proiettili [APFSDS](https://it.wikipedia.org/wiki/Penetratore_a_energia_cinetica) ([video](https://youtu.be/JlKZr2lgTac)) o APDS, utilizzati da MBT, TD e IFV moderni per ingaggiare bersagli corrazzati. Traiettoria balistica molto dritta grazie all'enorme velocità di >1500 m/s. Ottima penetrazione e frammentazione interna ([spalling](https://en.wikipedia.org/wiki/Spall)) contro corrazzati medio/pesanti, ma nessuna frammentazione di prossimità. | Veicoli corrazzati, Veicoli distanti mobili, Elicotteri |
-| =="AP"== | Nominativo per proiettili penetranti di epoche più vecchie, antecedenti allo sviluppo di APFSDS e HEAT. La forma più tozza e carica ridotta porta logicamente a prestazioni peggiori dei proiettili moderni. | Veicoli corrazzati |
-| =="HEAT"== | Proiettili a [carica cava](https://it.wikipedia.org/wiki/Carica_cava) ([video](https://youtu.be/Uhz3w8-PSl8?t=36)). Efficaci contro corrazze pesanti, ma grazie alla carica esplosiva generano anche frammentazione di prossimità, utili per ingaggiare veicoli corrazzati scortati da fanti smontati. | Veicoli corrazzati, Veicoli leggeri |
+| =="SABOT"== | Nominativo colloquiale per proiettili [APFSDS](https://it.wikipedia.org/wiki/Penetratore_a_energia_cinetica) ([video](https://youtu.be/JlKZr2lgTac)) o APDS, utilizzati da MBT, TD e IFV moderni per ingaggiare bersagli corazzati. Traiettoria balistica molto dritta grazie all'enorme velocità di >1500 m/s. Ottima penetrazione e frammentazione interna ([spalling](https://en.wikipedia.org/wiki/Spall)) contro corazzati medio/pesanti, ma nessuna frammentazione di prossimità. | Veicoli corazzati, Veicoli distanti mobili, Elicotteri |
+| =="AP"== | Nominativo per proiettili penetranti di epoche più vecchie, antecedenti allo sviluppo di APFSDS e HEAT. La forma più tozza e carica ridotta porta logicamente a prestazioni peggiori dei proiettili moderni. | Veicoli corazzati |
+| =="HEAT"== | Proiettili a [carica cava](https://it.wikipedia.org/wiki/Carica_cava) ([video](https://youtu.be/Uhz3w8-PSl8?t=36)). Efficaci contro corazze pesanti, ma grazie alla carica esplosiva generano anche frammentazione di prossimità, utili per ingaggiare veicoli corazzati scortati da fanti smontati. | Veicoli corazzati, Veicoli leggeri |
 | =="HE"== | Proiettili a carica esplosiva e frammentante, destinati a infliggere gravi danni su veicoli leggeri e fanteria, in un ampio raggio dal punto d'impatto. | Veicoli leggeri, Fanteria |
-| =="MISSILE"== | ATGM di vario tipo di guida e quasi sempre con testata HEAT. Montati spesso da IFV moderni (es: Bradley e BMP) per ingaggiare veicoli corrazzati pesanti a distanza elevata, dove i loro colpi HEAT/APDS di calibro ridotto non basterebbero. Essendo subsonici però sono molto più lenti nell'ingaggio di un cannone, non conviene quindi ingaggiare se un nemico così armato ci ha già identificati. | Veicoli corrazzati, Veicoli distanti mobili |
+| =="MISSILE"== | ATGM di vario tipo di guida e quasi sempre con testata HEAT. Montati spesso da IFV moderni (es: Bradley e BMP) per ingaggiare veicoli corazzati pesanti a distanza elevata, dove i loro colpi HEAT/APDS di calibro ridotto non basterebbero. Essendo subsonici però sono molto più lenti nell'ingaggio di un cannone, non conviene quindi ingaggiare se un nemico così armato ci ha già identificati. | Veicoli corazzati, Veicoli distanti mobili |
 | =="BEEHIVE"== | [Proiettili a pallettoni](https://www.gd-ots.com/munitions/large-caliber-ammunition/120mm-m1028/), molto specifici e raramente usati. Principalmente utili contro formazioni compatte di fanteria entro 500m, anche se il HE tende ad essere migliore in praticamente tutte le situazioni. | Fanteria |
 
 Riferito al ^^Loader^^ o ^^Hull^^, usiamo =="MG"== per comandare un ingaggio con il loro MG, che sia interno allo scafo o esterno (montato sulla torretta).
@@ -289,7 +289,7 @@ Esempio, siamo in posizione di osservazione con il nostro carro in epoca WW2, il
 
 ## La squadra meccanizzata
 
-Una squadra meccanizzata è composta da un'unità di fanteria che manovra assieme ad un veicolo corrazzato del tipo APC o IFV, usufruendo della sua velocità e corrazza per manovrare velocemente in modo sicuro e del suo armamento pesante come supporto di fuoco, ma proteggendolo a sua volta da minacce molto elusive come fanteria AT (specialmente in zone urbane e boschive).
+Una squadra meccanizzata è composta da un'unità di fanteria che manovra assieme ad un veicolo corazzato del tipo APC o IFV, usufruendo della sua velocità e corazza per manovrare velocemente in modo sicuro e del suo armamento pesante come supporto di fuoco, ma proteggendolo a sua volta da minacce molto elusive come fanteria AT (specialmente in zone urbane e boschive).
 
 Interpretare una squadra meccanizzata su ArmA e impiegarla in modo efficace è molto soddisfacente, ma per poterlo fare dobbiamo avere una buona idea su come strutturarla, per poter coordinare al meglio i due elementi che la compongono.
 
