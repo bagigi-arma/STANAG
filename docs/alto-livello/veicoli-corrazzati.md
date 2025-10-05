@@ -124,8 +124,8 @@ Di conseguenza, il pilota deve:
 1. Manovrare indietro in **Hide Position**, in modo da nascondere la manovra di riposizionamento agli occhi del nemico.
 2. Orientarsi in parallelo lungo il crinale usato come copertura, nella direzione comandata.
 3. Muovere alla massima velocità utile lungo il crinale, per la distanza comandata.
-4. Orientare il veicolo di nuovo verso il crinale, idealmente nella direzione occupata prima di iniziare il riposizionamento, ma può anche variare leggermente verso direzione più sensata per la nuova posizione.
-5. Avanzare nuovamente in **Hull-Down**, seguendo [l'opportuna procedura di comandi](#hullturret-down-e-hide-position) (l'ordine iniziale da parte del capocarro è implicito).
+4. Orientare il veicolo di nuovo verso il crinale, idealmente nella direzione occupata prima di iniziare il riposizionamento, ma può ovviamente variare per orientarsi nel modo più adatto alla nuova posizione.
+5. Avanzare nuovamente in **Hull-Down**, seguendo [l'opportuna procedura di comandi](#hullturret-down) (l'ordine iniziale da parte del capocarro è implicito).
 
 <!-- immagini, GIF o Video esempio -->
 
