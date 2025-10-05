@@ -289,7 +289,33 @@ Esempio, siamo in posizione di osservazione con il nostro carro in epoca WW2, il
 
 ## La squadra meccanizzata
 
+Una squadra meccanizzata è composta da un'unità di fanteria che manovra assieme ad un veicolo corrazzato del tipo APC o IFV, usufruendo della sua velocità e corrazza per manovrare velocemente in modo sicuro e del suo armamento pesante come supporto di fuoco, ma proteggendolo a sua volta da minacce molto elusive come fanteria AT (specialmente in zone urbane e boschive).
+
+Interpretare una squadra meccanizzata su ArmA e impiegarla in modo efficace è molto soddisfacente, ma per poterlo fare dobbiamo avere una buona idea su come strutturarla, per poter coordinare al meglio i due elementi che la compongono.
+
 ### Struttura
+
+Nel tempo abbiamo sperimentato varie configurazioni per la squadra meccanizzata, concludendo che quella più adatta al simulatore è la seguente.
+
+La squadra viene suddivisa in 3 elementi principali:
+
+- ^^SL - Squad Leader:^^<br>
+  Denominato `Lead` nelle comunicazioni radio.<br>
+  Responsabile di gestire il movimento tattico della squadra, oltre alle comunicazioni con altre squadre e il comando del plotone. Lui comanda come il veicolo e la fanteria devono manovrare insieme, ma delega la loro microgestione rispettivamente al VC e TL.
+- ^^TL - Team Leader:^^<br>
+  Denominato `1` o `Fanti` nelle comunicazioni radio.<br>
+  Responsabile di gestire la maggioranza dei fanti, organizzandoli in buddy-team e comandando i loro movimenti per proteggere il veicolo nel miglior modo possibile, sempre secondo l'intenzione del SL.
+- ^^VC - Vehicle Commander:^^<br>
+  Denominato `2` o `Veicolo` nelle comunicazioni radio.<br>
+  Analogo del capocarro, responsabile di gestire l'equipaggio del veicolo per manovrarlo secondo l'intenzione del SL.
+
+L'ORBAT di un plotone meccanizzato viene espresso nel seguente modo:
+
+La maglia radio (vedi: [come leggerla](../basso-livello/comunicazione.md#la-maglia-radio)) nel caso della squadra `Wolf-1` è configurata per l'utilizzo di radio moderne, [`AN/PRC-343`](../basso-livello/comunicazione.md#le-radio-personali) e [`AN/PRC-152`](../basso-livello/comunicazione.md#le-radio-personali).
+
+Invece `Wolf-2` vede una configurazione per radio vecchie come la [`AN/PRC-77`](../basso-livello/comunicazione.md#le-radio-personali) da zaino, portata in quel caso dal SL per comunicare con il VC e dal RTO (Radiofonista, buddy del SL) per comunicare con il comando di plotone, mentre il TL riceve i suoi ordini a voce dal SL.
+
+![ORBAT-Squadra-Meccanizzata](../assets/orbats/mech-squad-01.png)
 
 ### Mutuo supporto
 
