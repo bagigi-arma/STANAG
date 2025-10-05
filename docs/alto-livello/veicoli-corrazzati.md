@@ -111,7 +111,7 @@ Quando vicini ad un crinale (o ostacolo artificiale simile) che ci offre copertu
 - Per entrare in ^^Turret-Down^^ il procedimento è identico al Hull-Down, ma siccome conta la visuale del capocarro è lui a dare indicazioni precise sul posizionamento.
 - Per tornare in ^^Hide Position^^ basta che il capocarro dia l'ordine =="^^Driver^^, indietro 10m"==, seguito da eventuali comandi ulteriori finché il veicolo si trova nella posizione desiderata, sempre secondo la visuale del capocarro.
 
-<!-- Immagine frontale in-game delle varie posizioni del diagramma -->
+![Hull/Turret-Down nel Simulatore](../assets/arma_screenshots/hull-turret-down.jpg)
 
 #### Jockey
 
