@@ -2,6 +2,7 @@
 force ace_medical_ai_enabledFor = 2;
 force ace_medical_ai_requireItems = 0;
 force ace_medical_AIDamageThreshold = 0.6;
+force ace_medical_alternateArmorPenetration = true;
 force ace_medical_bleedingCoefficient = 0.4;
 force ace_medical_blood_bloodLifetime = 900;
 force ace_medical_blood_enabledFor = 2;
@@ -9,7 +10,6 @@ force ace_medical_blood_maxBloodObjects = 500;
 force ace_medical_deathChance = 1;
 force ace_medical_dropWeaponUnconsciousChance = 0;
 force ace_medical_enableVehicleCrashes = true;
-force ace_medical_engine_damagePassThroughEffect = 1;
 force ace_medical_fatalDamageSource = 2;
 force ace_medical_fractureChance = 0.4;
 force ace_medical_fractures = 2;
@@ -91,6 +91,10 @@ force ace_medical_treatment_treatmentTimeGrave = 20;
 force ace_medical_treatment_treatmentTimeIV = 5;
 force ace_medical_treatment_treatmentTimeSplint = 7;
 force ace_medical_treatment_treatmentTimeTourniquet = 2;
+force ace_medical_treatment_treatmentTimeTrainedAutoinjector = 5;
+force ace_medical_treatment_treatmentTimeTrainedIV = 12;
+force ace_medical_treatment_treatmentTimeTrainedSplint = 7;
+force ace_medical_treatment_treatmentTimeTrainedTourniquet = 7;
 force ace_medical_treatment_woundReopenChance = 0.25;
 force ace_medical_treatment_woundStitchTime = 3;
 
@@ -201,6 +205,7 @@ force kat_circulation_AdvRhythm_Hardcore_Enable = false;
 force kat_circulation_AdvRhythm_hardcoreDeteriorationChance = 10;
 force kat_circulation_AdvRhythm_HTHold = false;
 force kat_circulation_AdvRhythm_PEAChance = 30;
+force kat_circulation_AdvRhythm_PEAEnabled = true;
 force kat_circulation_AdvRhythm_VTChance = 70;
 force kat_circulation_AED_duringCpr = true;
 force kat_circulation_AED_MaxChance = 80;
@@ -288,6 +293,16 @@ force kat_misc_tourniquetEffects_Enable = true;
 force kat_misc_tourniquetEffects_NegativeMultiplier = 1;
 force kat_misc_tourniquetEffects_PositiveMultiplier = 1;
 force kat_misc_treatmentTimeDetachTourniquet = 2;
+
+// KAT - ADV Medical: Ophthalmology
+force kat_ophthalmology_enable = false;
+force kat_ophthalmology_eyeshield_medic_required = 0;
+force kat_ophthalmology_eyeshield_treatment_time = 2;
+force kat_ophthalmology_eyewash_medic_required = 0;
+force kat_ophthalmology_eyewash_treatment_time = 2;
+force kat_ophthalmology_probability_dust = 5;
+force kat_ophthalmology_probability_dust_heavy = 1;
+force kat_ophthalmology_probability_treatment_dust = 20;
 
 // KAT - ADV Medical: Pharmacy
 force kat_pharma_allowStackScript_EACA = false;
@@ -419,7 +434,7 @@ force kat_surgery_ultrasoundTime = 8;
 force kat_vitals_basicDiagnosticTime = 15;
 force kat_vitals_enableBasicDiagnostic = false;
 force kat_vitals_enableFluidShift = true;
-force kat_vitals_enableSimpleMedical = true;
+force kat_vitals_enableSimpleMedical = false;
 
 // KAT - ADV Medical: Watch
 force kat_watch_altitudeUnit = 0;

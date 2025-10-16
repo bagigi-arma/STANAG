@@ -211,14 +211,14 @@ Il sistema renale e di pH sanguineo è disattivato, così come la PaCO2 e il nuo
 ### Download dei settaggi CBA
 
 <div class="grid cards" markdown>
-- :material-chevron-triple-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
-  Preset medico base, completo di tutti i settaggi.
-</div>
-<div class="grid cards" markdown>
-- :material-chevron-double-up: [__Override Base :material-arrow-right: Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO_OVERRIDE.sqf)<br>
-  Preset con i soli settaggi necessari per abilitare moduli avanzati sovrascrivendoli dalla missione, quando il server è impostato con il preset base.
-</div>
-<div class="grid cards" markdown>
 - :material-chevron-triple-up: [__Sistema Avanzato__](../assets/cba_setting_presets/MEDICAL_AVANZATO.sqf)<br>
   Preset medico avanzato, completo di tutti i settaggi.
+</div>
+<div class="grid cards" markdown>
+- :material-chevron-double-down: [__Override Avanzato :material-arrow-right: Base__](../assets/cba_setting_presets/MEDICAL_BASE_OVERRIDE.sqf)<br>
+  Preset con i soli settaggi necessari per disabilitare moduli avanzati sovrascrivendoli dalla missione, quando il server è impostato con il preset avanzato.
+</div>
+<div class="grid cards" markdown>
+- :material-chevron-triple-down: [__Sistema Base__](../assets/cba_setting_presets/MEDICAL_BASE.sqf)<br>
+  Preset medico base, completo di tutti i settaggi.
 </div>
