@@ -325,9 +325,3 @@ La maglia radio (vedi: [come leggerla](../basso-livello/comunicazione.md#la-magl
 Invece `Wolf-2` vede una configurazione per radio vecchie come la [`AN/PRC-77`](../basso-livello/comunicazione.md#le-radio-personali) da zaino, portata in quel caso dal SL per comunicare con il VC e dal RTO (Radiofonista, buddy del SL) per comunicare con il comando di plotone, mentre il TL riceve i suoi ordini a voce dal SL.
 
 ![ORBAT-Squadra-Meccanizzata](../assets/orbats/mech-squad-01.png)
-
-### Mutuo supporto
-
-### Manovre avanzate
-
-## Il plotone di carri
