@@ -21,11 +21,20 @@ I cosidetti "veicoli corazzati" o "Armoured Fighting Vehicles" si possono defini
   Esempi: [M2 Bradley](https://it.wikipedia.org/wiki/M2/M3_Bradley), [LAV-25](https://it.wikipedia.org/wiki/LAV-25), [Freccia](https://it.wikipedia.org/wiki/Freccia_(combattimento_fanteria)), [Dardo](https://it.wikipedia.org/wiki/Dardo_(combattimento_fanteria)), [BMP](https://it.wikipedia.org/wiki/BMP-1), [BTR-80A](https://it.wikipedia.org/wiki/BTR-80#Varianti).
 - **MBT (Carro da Combattimento):**<br>
   Un carro da battaglia, monta una corazza spessa e cannone di grosso calibro (>90mm), capace di demolire con colpi HE veicoli leggeri a distanze elevate e distruggere bersagli corazzati con munizioni AP.<br>
-  Esempi: [M1 Abrams](https://it.wikipedia.org/wiki/M1_Abrams), [Ariete](https://it.wikipedia.org/wiki/Ariete_(carro_armato)), [Leopard 2](https://it.wikipedia.org/wiki/Leopard_2), [T-62](https://it.wikipedia.org/wiki/T-62)/[72](https://it.wikipedia.org/wiki/T-72)/[80](  https://it.wikipedia.org/wiki/T-80).
+  Esempi: [M1 Abrams](https://it.wikipedia.org/wiki/M1_Abrams), [Ariete](https://it.wikipedia.org/wiki/Ariete_(carro_armato)), [Leopard 2](https://it.wikipedia.org/wiki/Leopard_2), [T-62](https://it.wikipedia.org/wiki/T-62)/[72](https://it.wikipedia.org/wiki/T-72)/[80](https://it.wikipedia.org/wiki/T-80).
 - **TD (Cacciacarri):**<br>
   Meno corazzato di un carro da battaglia, ma in compenso più mobile, per aggirare formazioni nemiche e colpirle nei fianchi.<br>
   Armato per demolire MBT, con un cannone di alto calibro (>90mm) e munizioni AP. Alcune varianti sono basate su piccoli APC come il M113 e montano ATGM.<br>
   Esempi: [M901 ITV](https://en.wikipedia.org/wiki/M901_ITV), [Stryker MGS](https://en.wikipedia.org/wiki/M1128_mobile_gun_system), [B1 Centauro](https://it.wikipedia.org/wiki/Centauro_(autoblindo)).
+
+Esistono inoltre altre due categorie di veicoli più o meno corrazzati, che sono comunque molto simili ai precedenti in termini di gestione dell'equipaggio.
+
+- **SPG (Self-Propelled Gun):**<br>
+  Un obice di artiglieria semovente. Il suo scopo è rimanere dietro le linee alleate per prestare supporto di fuoco **indiretto**, sparando proiettili esplosivi/fumogeni/illuminanti per decine di chilometri. In caso di scontri ravvicinati può effettuare fuoco **diretto**, come un carro armato, anche se le prestazioni balistiche del cannone e il sistema di controllo del tiro (se presente) risultano in ingaggi più lenti.<br>
+  Esempi: [M109 Paladin](https://en.wikipedia.org/wiki/M109_howitzer), [2S3 Akatsiya](https://en.wikipedia.org/wiki/2S3_Akatsiya).
+- **SPAA (Self-Propelled Anti-Air):**<br>
+  Una contraerea semovente, intesa per ingaggiare velivoli con cannoni e/o missili. I loro cannoni di alto calibro con testata esplosiva sono molto letali anche contro bersagli terrestri non corazzati, come fanteria e veicoli leggeri.<br>
+  Esempi: [Stryker M-SHORAD](https://en.wikipedia.org/wiki/Stryker#M-SHORAD), [Flakpanzer Gepard](https://en.wikipedia.org/wiki/Flakpanzer_Gepard), [ZSU-23-4 Shilka](https://en.wikipedia.org/wiki/ZSU-23-4).
 
 ## Coordinamento dell'equipaggio
 
