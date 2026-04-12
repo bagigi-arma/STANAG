@@ -64,7 +64,7 @@ Esistono ulteriori figure minori dell'equipaggio, in ruoli che non vengono però
 
 #### Orientamento
 
-Con =="^^Driver/Gunner,^^ orienta prua/direzione"== comandiamo l'orientamento dello scafo o della torretta (a seconda del membro interpellato) nella data direzione. Possiamo comunicare la direzione desiderata come prua magnetica, oppure relativa allo scafo del veicolo.
+Con =="^^Driver/Gunner,^^ orienta prua/direzione"== comandiamo l'orientamento dello scafo o della torretta (a seconda del membro interpellato) nella data direzione. Possiamo comunicare la direzione desiderata come **prua magnetica** (=="215"==/=="due-uno-cinque"==), oppure **direzione** relativa allo scafo del veicolo (=="ore 10"==).
 
 <!-- Immagine con esempi -->
 
@@ -154,7 +154,7 @@ Basandoci su [un manuale US Army reale per carristi](https://apps.dtic.mil/sti/t
 | Continua ingaggio | Capocarro | Autorizzazione all'artigliere di continuare a fare fuoco sul bersaglio attuale, oppure iniziare un nuovo ingaggio sul prossimo bersaglio prioritario. |
 | Libero ingaggio | Capocarro | Autorizzazione all'artigliere di scrutare la zona assegnatagli e ingaggiare in autonomia bersagli di opportunità (avvisando comunque quando li avvista e prima di fare fuoco). |
 | Cessa il fuoco | Capocarro | Ordine al membro interpellato (se non specificato vale per tutti) di cessare un qualsiasi ingaggio. Nel caso di un ATGM filoguidato già in volo, l'artigliere è tenuto a mancare di proposito il bersaglio. |
-| Correggi Alto/Basso/Destra/Sinistra | Capocarro | Indicazione di correggere il fuoco nella data direzione. |
+| Correggi Alto/Basso/Destra/Sinistra | Capocarro | Indicazione di correggere il fuoco **nella data direzione**. |
 | Carica SABOT/HEAT/HE | Capocarro | Ordine di caricare il dato munizionamento. |
 
 #### 1 - Allerta
@@ -188,7 +188,7 @@ Riferito al ^^Loader^^ o ^^Hull^^, usiamo =="MG"== per comandare un ingaggio con
 Una breve descrizione del bersaglio, per permettere al membro dell'equipaggio interpellato di identificarlo il prima possibile. Può consistere nella categoria e/o la classe di veicolo.
 
 - ^^Esempi di categorie:^^<br>
-  =="Tank"==, =="APC"==, =="IFV"==, =="Anti-Aerea/Contraerea"==, =="Heli"==, =="Fanti"==, =="Statica"==, =="Camion"==, =="Tecnica"== (implicita armata), =="Macchina"== (implicita disarmata).
+  =="Tank"==, =="APC"==, =="IFV"==, =="Anti-Aerea/Contraerea"==, =="Heli"==, =="Fanti"==, =="Statica"==, =="Camion"==, =="Tecnica"== (veicolo armato), =="Macchina"== (veicolo disarmato).
 - ^^Esempi di classi:^^<br>
   =="T-70"==, =="BTR"==, =="BMP"==, =="MT-LB"==, =="ZSU/Shilka"==, =="Mi-8/Hip"==, =="Mi-24/Hind"==, =="DShK"== (pronunciato =="Dishka"== con fonetica inglese), =="Pickup HMG"==, =="UAZ SPG9"==.
 
