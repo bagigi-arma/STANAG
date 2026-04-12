@@ -167,7 +167,7 @@ Nella maggioranza dei casi esso sarà il ==^^Gunner^^==, ma potrebbe anche esser
 
 Successivamente comunichiamo con quale arma/munizione dovrà essere effettuato l'ingaggio.
 
-Riferito al ^^Gunner^^, comunichiamo =="COAX"== per ordinare un ingaggio con il suo MG coassiale, oppure il tipo di munizione del cannone principale. Di seguito un elenco dei vari colpi disponibili:
+Riferito al ^^Gunner^^, comunichiamo =="MG"== per ordinare un ingaggio con il suo MG coassiale, oppure il tipo di munizione del cannone principale. Di seguito un elenco dei vari colpi disponibili:
 
 | Nominativo | Descrizione, Vantaggi e Svantaggi | Scelta migliore contro |
 | ----- | ----- | ----- |
@@ -188,9 +188,9 @@ Riferito al ^^Loader^^ o ^^Hull^^, usiamo =="MG"== per comandare un ingaggio con
 Una breve descrizione del bersaglio, per permettere al membro dell'equipaggio interpellato di identificarlo il prima possibile. Può consistere nella categoria e/o la classe di veicolo.
 
 - ^^Esempi di categorie:^^<br>
-  =="Tank"==, =="APC"==, =="IFV"==, =="Heli"==, =="Fanti"==, =="Statica"==, =="Camion"==, =="Tecnica"== (implicita armata), =="Macchina"== (implicita disarmata).
+  =="Tank"==, =="APC"==, =="IFV"==, =="Anti-Aerea/Contraerea"==, =="Heli"==, =="Fanti"==, =="Statica"==, =="Camion"==, =="Tecnica"== (implicita armata), =="Macchina"== (implicita disarmata).
 - ^^Esempi di classi:^^<br>
-  =="T-70"==, =="BTR"==, =="BMP"==, =="MT-LB"==, =="Mi-8/Hip"==, =="Mi-24/Hind"==, =="DShK"== (pronunciato =="Dishka"== con fonetica inglese), =="Pickup HMG"==, =="UAZ SPG9"==.
+  =="T-70"==, =="BTR"==, =="BMP"==, =="MT-LB"==, =="ZSU/Shilka"==, =="Mi-8/Hip"==, =="Mi-24/Hind"==, =="DShK"== (pronunciato =="Dishka"== con fonetica inglese), =="Pickup HMG"==, =="UAZ SPG9"==.
 
 #### 4 - Direzione Bersaglio
 
