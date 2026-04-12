@@ -1,0 +1,148 @@
+{
+    "options": {
+        "uniqueDesignation": "Wolf",
+        "sidc": "130310001412100000000000000000",
+        "country_flag": "",
+        "range": ""
+    },
+    "commandLevels": "1",
+    "subOrganizations": [
+        {
+            "options": {
+                "uniqueDesignation": "Wolf 1",
+                "sidc": "130310001212110200000000000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": [
+                {
+                    "options": {
+                        "additionalInformation": "UHF 1.1",
+                        "uniqueDesignation": "Wolf 1-1",
+                        "sidc": "130310001112110000000000000000",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 3 / Ch 1",
+                                "uniqueDesignation": "Squad Leader",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "SL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        },
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 3",
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "additionalInformation": "UHF 1.2",
+                        "uniqueDesignation": "Wolf 1-2",
+                        "sidc": "130310001112050000000000000000",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF Ch 3",
+                                "uniqueDesignation": "Vehicle Commander",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "VC",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "options": {
+                "uniqueDesignation": "Wolf 2",
+                "sidc": "130310001212110200000000000000",
+                "country_flag": "",
+                "range": ""
+            },
+            "subOrganizations": [
+                {
+                    "options": {
+                        "uniqueDesignation": "Wolf 2-1",
+                        "sidc": "130310001112110000000000000000",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF 34.00 MHz",
+                                "uniqueDesignation": "Squad Leader",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "SL",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        },
+                        {
+                            "options": {
+                                "additionalInformation": "VHF 30.00 MHz",
+                                "uniqueDesignation": "Radioman",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "RTO",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        },
+                        {
+                            "options": {
+                                "uniqueDesignation": "Team Leader",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "TL",
+                                "range": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "options": {
+                        "uniqueDesignation": "Wolf 2-2",
+                        "sidc": "130310001112050000000000000000",
+                        "country_flag": "",
+                        "range": ""
+                    },
+                    "subOrganizations": [
+                        {
+                            "options": {
+                                "additionalInformation": "VHF 34.00 MHz",
+                                "uniqueDesignation": "Vehicle Commander",
+                                "sidc": "130327000000000000000000000000",
+                                "country_flag": "",
+                                "specialheadquarter": "VC",
+                                "range": ""
+                            },
+                            "subOrganizations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
