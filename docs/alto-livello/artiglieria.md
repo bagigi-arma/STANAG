@@ -145,3 +145,10 @@ Un osservatore (callsign "WOLF") identifica una posizione nemica e vuole chieder
 > [FO] Dora, Wolf, bersaglio neutralizzato, passo. 
 
 > [FDC] Wolf, Dora, ricevuto, richiesta di supporto completata, fine.
+
+## Template PDF della Call for Fire
+
+<div class="grid cards" markdown>
+- :material-clipboard-text: [__PDF Call for Fire__](../assets/procedure_templates/CALL_FOR_FIRE.pdf)<br>
+  Template PDF stampabile per la procedura Call for Fire.
+</div>
