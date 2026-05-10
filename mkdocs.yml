@@ -1,4 +1,4 @@
-# Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+# Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -31,7 +31,7 @@ repo_name: bagigi-arma/STANAG
 repo_url: https://github.com/bagigi-arma/STANAG
 
 # Copyright
-copyright: Copyright &copy; 2024-2025 Comunità Bagigi
+copyright: Copyright &copy; 2024-2026 Comunità Bagigi
 
 # Configuration
 theme:
@@ -197,3 +197,4 @@ nav:
   - Alto livello:
     - alto-livello/index.md
     - Fuoco di Artiglieria: alto-livello/artiglieria.md
+    - Veicoli Corrazzati: alto-livello/veicoli-corrazzati.md
