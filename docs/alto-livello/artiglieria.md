@@ -7,6 +7,23 @@ title: Artiglieria
 
 In questo documento vengono riassunte le procedure per chiamare, con precisione e sicurezza, una missione di fuoco d'artiglieria (quindi non eseguita da ala rotante né ala statica, ma obici, e mortai).
 
+## Le categorie di supporti
+
+- **Mortaio:**<br>
+  Un pezzo di artiglieria leggero, trasportabile da un gruppo di fanti in maniera furtiva. Viene generalmente impiegato dalle prossimità del fronte, supportando forze alleate con colpi esplosivi/fumogeni/illuminanti che possono giungere sul bersaglio entro un minuto, fino ad una distanza massima di circa 4 km per mortai da 82mm, o fino a 10 km per mortai da 120mm.<br>
+  Esempi: [M252](https://en.wikipedia.org/wiki/M252_mortar), [2B14 Podnos](https://en.wikipedia.org/wiki/2B14_Podnos).
+- **Obice:**<br>
+  Un pezzo di artiglieria più pesante, che può essere statico (rimorchiabile da camion) o semovente su telaio cingolato. Il suo scopo è rimanere ben dietro le linee alleate per prestare supporto di fuoco **indiretto**, sparando proiettili esplosivi/fumogeni/illuminanti di 155mm per decine di chilometri. In caso di scontri ravvicinati può effettuare fuoco **diretto**, come un carro armato, anche se le prestazioni balistiche del cannone e il sistema di controllo del tiro meno adatto risultano in ingaggi più lenti.<br>
+  Esempi: [M109 Paladin](https://en.wikipedia.org/wiki/M109_howitzer), [2S3 Akatsiya](https://en.wikipedia.org/wiki/2S3_Akatsiya).
+- **Lanciarazzi Multiplo:**<br>
+  Un pezzo di artiglieria capace di sparare razzi, che gli permettono mandare più massa esplosiva sul bersaglio rispetto agli obici su distanze paragonabili. Anche esso rimane dietro il fronte, per sparare anche su obiettivi strategici nella profondità del territorio nemico, a decine ([o centinaia](https://en.wikipedia.org/wiki/Precision_Strike_Missile)) di km.<br>
+  Esempi: [M142 HIMARS](https://en.wikipedia.org/wiki/M142_HIMARS), [BM-21 Grad](https://en.wikipedia.org/wiki/BM-21_Grad).
+- **Cannone navale:**<br>
+  Un cannone di alto calibro montato su navi, nel caso di fregate/cacciatorpedinieri moderni generalmente usa un calibro di 76-127mm. Può essere usato dalla marina per prestare supporto di fuoco sulla terraferma.
+- **Missili da crociera:**<br>
+  Sono missili guidati, generalmente lanciati da navi da guerra, che volano a bassa quota e alte velocità. Permettono attacchi di precisione con grandi carichi esplosivi nel profondo territorio nemico, su bersagli strategici di altissimo valore. Le loro dimensioni li rendono vulnerabili all'acquisizione e abbattimento da parte di contraeree nemiche, se si ritrovano esposti ad esse sopra terreno pianeggiante.<br>
+  Esempi: [BGM-109 Tomahawk](https://it.wikipedia.org/wiki/BGM-109_Tomahawk), [3M-14 Kalibr](https://en.wikipedia.org/wiki/Kalibr_(missile_family)).
+
 ## La richiesta (Call for Fire)
 
 La richiesta per supporto di artiglieria (in inglese "Call for fire") viene tramessa dall'osservatore (colui che richiede supporto) all'elemento che coordina il fuoco di artiglieria.
