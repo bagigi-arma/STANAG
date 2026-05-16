@@ -43,9 +43,9 @@ La chiamata è composta da 6 elementi, trattati nel dettaglio di seguito:
 
 Ogni qual volta che il **FO** comunica, il **FDC** risponde con un readback per verificare che le informazioni comprese siano corrette.
 
-Quando vengono sparati i colpi richiesti, il **FDC** comunica al **FO** tale situazione con ^^"SHOT"^^, seguito dal tempo di volata dei colpi. <!-- verificare se vogliamo aggiungere tale brevity o lasciarla implicita e meno precisa con la conferma dell'ordine di fuoco -->
+Quando vengono sparati i colpi richiesti, il **FDC** può comunicare al **FO** che i colpi sono partiti con la brevity ^^"SHOT"^^, e può aggiungere come informazione il tempo di volata dei colpi. <!-- verificare se vogliamo aggiungere tale brevity o lasciarla implicita e meno precisa con la conferma dell'ordine di fuoco -->
 
-Quando mancano circa 10 secondi all'impatto del primo colpo, il **FDC** avvisa il **FO** con ^^"SPLASH"^^, in modo che quest'ultimo possa avvisare (se non lo ha già fatto) gli alleati vicini di rimanere in copertura, di fronte al rischio di frammentazione.
+E' invece obbligatorio, quando mancano circa 10 secondi all'impatto del primo colpo, che il **FDC** avvisi dell'arrivo imminente del proittile il **FO** con la brevity ^^"SPLASH"^^, in modo che quest'ultimo possa avvisare (se non lo ha già fatto) gli alleati vicini di rimanere in copertura, di fronte al rischio di frammentazione.
 
 Dopo aver valutato l'effetto della salva, il **FO** comunica i danni inflitti al **FDC**, chiedendo correzioni o confermando la neutralizzazione del bersaglio.
 
