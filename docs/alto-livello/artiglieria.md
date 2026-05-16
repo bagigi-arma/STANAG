@@ -119,7 +119,7 @@ Le brevity sono seguite dalla quantità in metri. Ad esempio, se un colpo cadess
 
 ### Esempio di una Call for Fire
 
-Un osservatore (callsign "WOLF") identifica una posizione nemica e vuole chiedere ai mortai (callsign "DORA") supporto di artiglieria.
+Un osservatore (callsign **"WOLF"**) identifica una posizione nemica e vuole chiedere ai mortai (callsign **"DORA"**) supporto di artiglieria.
 
 > [FO] Dora, qui Wolf, adjust fire, 6 digit grid, passo.
 
@@ -129,13 +129,13 @@ Un osservatore (callsign "WOLF") identifica una posizione nemica e vuole chieder
 
 > [FDC] Griglia 1-0-2 -- 0-3-6, elevazione 5-0-0 metri s.l.m., fine.
 
-> [FO] Squadra di fanti, 10 unità in campo aperto, 2x proiettili HE, danger close, al mio comando, passo.
+> [FO] Squadra di fanti, 10 unità in campo aperto, 2 proiettili HE, danger close, al mio comando, passo.
 
-> [FDC] Squadra di fanti, 10 unità in campo aperto, 3x proiettili HE, danger close, fuoco quando pronti, fine.
+> [FDC] Squadra di fanti, 10 unità in campo aperto, 3 proiettili HE, danger close, fuoco quando pronti, fine.
 
-> [FO] Dora qui Wolf, readback non corretto: 2x proiettili HE, al mio comando, passo. 
+> [FO] Dora qui Wolf, readback non corretto: 2 proiettili HE, al mio comando, passo. 
 
-> [FDC] Wolf qui Dora, correggo: 2x proiettili HE, al mio comando, fine. 
+> [FDC] Wolf qui Dora, correggo: 2 proiettili HE, al mio comando, fine. 
 
 > *(poco tempo dopo, preparando il colpo di artiglieria con i vari calcoli del cannoniere)*
 
