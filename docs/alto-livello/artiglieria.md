@@ -26,14 +26,13 @@ In questo documento vengono riassunte le procedure per chiamare, con precisione 
 
 ## La richiesta (Call for Fire)
 
-La richiesta per supporto di artiglieria (in inglese "Call for fire") viene tramessa dall'osservatore (colui che richiede supporto) all'elemento che coordina il fuoco di artiglieria.
+La richiesta per supporto di artiglieria (in inglese **"Call for fire"**) viene comunicata dall'osservatore (**"Forward Observer"**) all'elemento che coordina il fuoco di artiglieria (**"Fire Direction Center"**).
 
-Generalmente, l'osservatore può essere un operatore designato specificatamente in missione per ricoprire questo ruolo (si parla in questo caso di "Forward Observer"), ma può accadere anche che sia una figura di comando (Team Leader, Squad Leader), oppure un RTO.<br>
-Qualora, per qualsiasi motivo (come la distanza) l'osservatore non riuscisse a comunicare con chi coordina il fuoco di artiglieria, se ne occuperà il suo superiore o altra figura designata al momento.
+Il **FO** può essere un operatore designato specificatamente in missione per ricoprire questo ruolo, ma generalmente verrà eseguito in caso di necessità dalla figura di comando (PL, SL, TL), radiofonista (RTO) o JTAC presente, a condizione che sia pratico nella procedura **Call For Fire**.
 
-L'elemento che effettua il fuoco di artiglieria è il FDC (Fire Direction Center), che solitamente coincide in missione con il leader a capo di uno o più mortai/obici/lanciarazzi.
+Il **FDC** solitamente coincide in missione con il Team Leader a capo di uno o più mortai/obici/lanciarazzi.
 
-La chiamata è composta da 6 elementi:
+La chiamata è composta da 6 elementi, trattati nel dettaglio di seguito:
 
 1. Identificazione dell'osservatore
 2. WARNO (Warning Order), che riassume il tipo di ingaggio che stiamo richiedendo
@@ -42,18 +41,21 @@ La chiamata è composta da 6 elementi:
 5. Metodo d'ingaggio
 6. Controllo/Remarks
 
-<!-- precedente elenco e successivo blocco di testo da ripensare, sembrano un po' ridondanti visto che nella prossima sezione vengono spiegati nel dettaglio -->
-Similmente a quanto accade fra JTAC e Pilota per le richieste CAS, così FO ed FDC si coordinano per elaborare la richiesta e supportare le unità con fuoco di artiglieria.<br>
-Ogni qual volta che il FO comunica, il FDC risponde con un readback per verificare che le informazioni comprese siano corrette.
-Una volta sparati i colpi, il FDC comunica al FO il momento dell'impatto dei colpi con **"SPLASH"**. Il FO comunica poi i danni della salva di artiglieria al FDC, chiedendo correzioni o confermando la neutralizzazione del bersaglio.
+Ogni qual volta che il **FO** comunica, il **FDC** risponde con un readback per verificare che le informazioni comprese siano corrette.
 
-## Elementi della Call for Fire nel dettaglio
+Quando vengono sparati i colpi richiesti, il **FDC** comunica al **FO** tale situazione con ^^"SHOT"^^, seguito dal tempo di volata dei colpi. <!-- verificare se vogliamo aggiungere tale brevity o lasciarla implicita e meno precisa con la conferma dell'ordine di fuoco -->
 
-### 1 - Identificazione dell'osservatore
+Quando mancano circa 10 secondi all'impatto del primo colpo, il **FDC** avvisa il **FO** con ^^"SPLASH"^^, in modo che quest'ultimo possa avvisare (se non lo ha già fatto) gli alleati vicini di rimanere in copertura, di fronte al rischio di frammentazione.
+
+Dopo aver valutato l'effetto della salva, il **FO** comunica i danni inflitti al **FDC**, chiedendo correzioni o confermando la neutralizzazione del bersaglio.
+
+### Elementi della Call for Fire
+
+#### 1 - Identificazione dell'osservatore
 
 Il FO chiama il FDC e si identifica con il suo callsign (o altro metodo di identificazione in missione), prima di procedere con la richiesta.
 
-### 2 - WARNO
+#### 2 - WARNO
 
 Il WARNO può essere di due tipi:
 
@@ -63,7 +65,7 @@ Il WARNO può essere di due tipi:
 !!! note
     Nella dottrina militare USA esistono anche le altri tipo di WARNO come SUPPRESSION, IMMEDIATE SUPPRESSION, IMMEDIATE SMOKE, che nelle nostre partite di Arma rimangono però di limitato utilizzo. Per approfondire potete leggere questo [manuale USA](https://www.marines.mil/Portals/1/Publications/FM%206-30.pdf).
 
-### 3 - Posizione del bersaglio
+#### 3 - Posizione del bersaglio
 
 La posizione del bersaglio può essere comunicata in modi diversi dal FO al FDC.
 
@@ -72,7 +74,7 @@ Come convenzione preferiamo sempre utilizzare le coordinate della griglia in map
 !!! note
     Nella dottrina militare USA si utilizzano anche altri modi per comunicare la posizione dei bersagli, come il POLAR o SHIFT FROM A KNOWN POINT, che nelle nostre partite di Arma rimangono però di limitato utilizzo. Per approfondire potete leggere questo [manuale USA](https://www.marines.mil/Portals/1/Publications/FM%206-30.pdf).
 
-### 4 - Descrizione del bersaglio
+#### 4 - Descrizione del bersaglio
 
 La descrizione del bersaglio include cosa è il bersaglio, cosa sta facendo, se dispone di coperture, di quante unità è composto e ulteriori informazioni, se necessarie.
 
@@ -80,7 +82,7 @@ Per esempio:
 
 > squadra di fanteria, 9 unità, stazionarie, checkpoint su strada.
 
-### 5 - Metodo d'ingaggio
+#### 5 - Metodo d'ingaggio
 
 Nel metodo di ingaggio, l'osservatore specifica al FDC come vorrebbe ingaggiare il bersaglio:
 
@@ -89,7 +91,7 @@ Nel metodo di ingaggio, l'osservatore specifica al FDC come vorrebbe ingaggiare 
 - ^^indicazione "DANGER CLOSE":^^ indica che vi sono unità alleate nel raggio di 600 metri dal bersaglio;
 - ^^TIPO E NUMERO MUNIZIONI^^, ad esempio l'osservatore specifica tipo di munizione (es. richiede HE oppure colpi fumogeni) e numero. In caso di mancata indicazione, il FDC decide in autonomia.
 
-### 6 - Controllo/Remarks ed altre brevity per indicazioni sul fuoco di artiglieria
+#### 6 - Controllo/Remarks ed altre brevity per indicazioni sul fuoco di artiglieria
 
 Nel controllo/remarks l'osservatore specifica informazioni aggiuntive al FDC per completare la richiesta di fuoco, come:
 
@@ -104,7 +106,7 @@ Nel controllo/remarks l'osservatore specifica informazioni aggiuntive al FDC per
 
 Tutte le brevity possono essere tradotte in italiano.
 
-### 7 - Aggiustamenti del tiro
+#### 7 - Aggiustamenti del tiro
 
 Qualora servisse correggere il fuoco di artiglieria, le parole da utilizzare sono:
 
@@ -115,7 +117,7 @@ Qualora servisse correggere il fuoco di artiglieria, le parole da utilizzare son
 Le brevity sono seguite dalla quantità in metri. Ad esempio, se un colpo cadesse 200 metri lungo e 100 metri a destra del
 bersaglio, la correzione da richiedere al FDC sarebbe "DROP 200, LEFT 100". 
 
-## Esempio di una Call for Fire
+### Esempio di una Call for Fire
 
 Un osservatore (callsign "WOLF") identifica una posizione nemica e vuole chiedere ai mortai (callsign "DORA") supporto di artiglieria.
 
@@ -163,7 +165,7 @@ Un osservatore (callsign "WOLF") identifica una posizione nemica e vuole chieder
 
 > [FDC] Wolf, Dora, ricevuto, richiesta di supporto completata, fine.
 
-## Template PDF della Call for Fire
+### Template PDF della Call for Fire
 
 <div class="grid cards" markdown>
 - :material-clipboard-text: [__PDF Call for Fire__](../assets/procedure_templates/CALL_FOR_FIRE.pdf)<br>
