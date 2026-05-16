@@ -62,7 +62,7 @@ Il WARNO può essere di due tipi:
 - ^^ADJUST FIRE^^ quando l'osservatore stima che serviranno diversi colpi prima di centrare il bersaglio, richiedendo aggiustamenti del tiro;
 - ^^FIRE FOR EFFECT^^ quando le coordinate sono precise e ci si aspetta che la salva di colpi abbia effetto senza necessità di aggiustamenti.
 
-!!! note
+??? note
     Nella dottrina militare USA esistono anche le altri tipo di WARNO come SUPPRESSION, IMMEDIATE SUPPRESSION, IMMEDIATE SMOKE, che nelle nostre partite di Arma rimangono però di limitato utilizzo. Per approfondire potete leggere questo [manuale USA](https://www.marines.mil/Portals/1/Publications/FM%206-30.pdf).
 
 #### 3 - Posizione del bersaglio
@@ -71,7 +71,7 @@ La posizione del bersaglio può essere comunicata in modi diversi dal FO al FDC.
 
 Come convenzione preferiamo sempre utilizzare le coordinate della griglia in mappa di gioco, la minima precisione accettabile è la 6 digit grid, es: 1-2-3, 4-5-6.
 
-!!! note
+??? note
     Nella dottrina militare USA si utilizzano anche altri modi per comunicare la posizione dei bersagli, come il POLAR o SHIFT FROM A KNOWN POINT, che nelle nostre partite di Arma rimangono però di limitato utilizzo. Per approfondire potete leggere questo [manuale USA](https://www.marines.mil/Portals/1/Publications/FM%206-30.pdf).
 
 #### 4 - Descrizione del bersaglio
