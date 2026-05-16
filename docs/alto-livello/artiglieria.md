@@ -95,27 +95,27 @@ Nel metodo di ingaggio, l'osservatore specifica al FDC come vorrebbe ingaggiare 
 
 Nel controllo/remarks l'osservatore specifica informazioni aggiuntive al FDC per completare la richiesta di fuoco, come:
 
-<!-- da convertire eventualmente in tabella di brevity -->
-- ^^FIRE WHEN READY (FUOCO APPENA PRONTO):^^ il FDC spara (o ordina di sparare all'operatore) appena il colpo è pronto; 
-- ^^AT MY COMMAND (AL MIO COMANDO):^^ il FDC carica ed aspetta il via libera dell'osservatore prima di sparare;
-- ^^CANNOT OBSERVE (IMPOSSIBILE CONFERMARE):^^ l'osservatore non riesce a verificare l'efficacia dei colpi;
-- ^^CONTINUOUS FIRE (FUOCO A VOLONTA'):^^ fuoco continuo fino a comunicazione di cessate il fuoco;
-- ^^CHECK FIRE (CESSATE IL FUOCO):^^ stop immediato al fuoco;
-- ^^CEASE LOADING:^^ stop al caricamento dei pezzi (con eventuale fuoco degli ultimi colpi precedentemente caricati);
-- ^^REPEAT (RIPETI):^^ richiesta di sparare una nuova salva;
-
-Tutte le brevity possono essere tradotte in italiano.
+| Brevity inglese | Brevity Italiana | Significato |
+| --- | --- | --- |
+| FIRE WHEN READY | FUOCO APPENA PRONTO | il FDC spara (o ordina di sparare all'operatore) appena il colpo è pronto |
+| AT MY COMMAND | AL MIO COMANDO | il FDC carica ed aspetta il via libera dell'osservatore prima di sparare |
+| CANNOT OBSERVE | IMPOSSIBILE CONFERMARE | l'osservatore non riesce a verificare l'efficacia dei colpi |
+| CONTINUOUS FIRE | FUOCO A VOLONTÀ | fuoco continuo fino a comunicazione di cessate il fuoco |
+| CHECK FIRE | CESSATE IL FUOCO | stop immediato al fuoco |
+| CEASE LOADING | CESSATE IL CARICAMENTO | stop al caricamento dei pezzi (con eventuale fuoco degli ultimi colpi precedentemente caricati) |
+| REPEAT | RIPETERE SALVA | richiesta di sparare una nuova salva |
 
 #### 7 - Aggiustamenti del tiro
 
 Qualora servisse correggere il fuoco di artiglieria, le parole da utilizzare sono:
 
-- ^^LEFT/RIGHT^^ (a ggiustamento distanza orizzontale)
+- ^^LEFT/RIGHT^^ (aggiustamento distanza orizzontale)
 - ^^ADD/DROP^^ (aggiustamento di tiro troppo lungo/troppo corto)
 - si utilizza raramente UP/DOWN (aggiustamento di altezza, quindi quota)
 
-Le brevity sono seguite dalla quantità in metri. Ad esempio, se un colpo cadesse 200 metri lungo e 100 metri a destra del
-bersaglio, la correzione da richiedere al FDC sarebbe "DROP 200, LEFT 100". 
+Le brevity sono seguite dalla quantità in metri. Ad esempio, se un colpo cadesse **200 metri lungo** e **100 metri a destra** del bersaglio, la correzione da richiedere al FDC sarebbe ^^"DROP 200, LEFT 100"^^.
+
+!!! info "La direzione di riferimento per le chiamate è quella di fuoco del FDC interessato. Il FO deve quindi tenere in mente all'incirca da dove proviene il fuoco alleato."
 
 ### Esempio di una Call for Fire
 
