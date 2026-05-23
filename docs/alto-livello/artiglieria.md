@@ -5,7 +5,7 @@ title: Artiglieria
 
 # Supporto di fuoco da artiglieria
 
-In questo documento vengono riassunte le procedure per chiamare, con precisione e sicurezza, una missione di fuoco d'artiglieria (quindi non eseguita da ala rotante né ala statica, ma obici, e mortai).
+In questo documento vengono riassunte le procedure per chiamare, con precisione e sicurezza, una missione di fuoco d'artiglieria (quindi non eseguita da ala rotante né ala fissa, ma obici e mortai).
 
 ## Le categorie di supporti
 
