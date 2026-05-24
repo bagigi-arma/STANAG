@@ -10,7 +10,7 @@ In questo documento vengono riassunte le procedure per chiamare, con precisione 
 ## Le categorie di supporti
 
 - **Mortaio:**<br>
-  Un pezzo di artiglieria leggero, trasportabile da un gruppo di fanti in maniera furtiva. Viene generalmente impiegato dalle prossimità del fronte, supportando forze alleate con colpi esplosivi/fumogeni/illuminanti che possono giungere sul bersaglio entro un minuto, fino ad una distanza massima di circa 4 km per mortai da 82mm, o fino a 10 km per mortai da 120mm.<br>
+  Un pezzo di artiglieria leggero, trasportabile da un gruppo di fanti in maniera furtiva. Viene generalmente impiegato in prossimità del fronte, supportando forze alleate con colpi esplosivi/fumogeni/illuminanti che possono giungere sul bersaglio entro un minuto, fino ad una distanza massima di circa 4 km per mortai da 82mm, o fino a 10 km per mortai da 120mm.<br>
   Esempi: [M252](https://en.wikipedia.org/wiki/M252_mortar), [2B14 Podnos](https://en.wikipedia.org/wiki/2B14_Podnos).
 - **Obice:**<br>
   Un pezzo di artiglieria più pesante, che può essere statico (rimorchiabile da camion) o semovente su telaio cingolato. Il suo scopo è rimanere ben dietro le linee alleate per prestare supporto di fuoco **indiretto**, sparando proiettili esplosivi/fumogeni/illuminanti di 155mm per decine di chilometri. In caso di scontri ravvicinati può effettuare fuoco **diretto**, come un carro armato, anche se le prestazioni balistiche del cannone e il sistema di controllo del tiro meno adatto risultano in ingaggi più lenti.<br>
@@ -45,7 +45,7 @@ Ogni qual volta che il **FO** comunica, il **FDC** risponde con un readback per 
 
 Quando vengono sparati i colpi richiesti, il **FDC** può comunicare al **FO** che i colpi sono partiti con la brevity ^^"SHOT"^^, e può aggiungere come informazione il tempo di volata dei colpi.
 
-È invece obbligatorio, quando mancano circa 10 secondi all'impatto del primo colpo, che il **FDC** avvisi dell'arrivo imminente del proittile il **FO** con la brevity ^^"SPLASH"^^, in modo che quest'ultimo possa avvisare (se non lo ha già fatto) gli alleati vicini di rimanere in copertura, di fronte al rischio di frammentazione.
+È invece obbligatorio, quando mancano circa 10 secondi all'impatto del primo colpo, che il **FDC** avvisi dell'arrivo imminente del proiettile il **FO** con la brevity ^^"SPLASH"^^, in modo che quest'ultimo possa avvisare (se non lo ha già fatto) gli alleati vicini di rimanere in copertura, di fronte al rischio di frammentazione.
 
 Dopo aver valutato l'effetto della salva, il **FO** comunica i danni inflitti al **FDC**, chiedendo correzioni o confermando la neutralizzazione del bersaglio.
 
@@ -87,7 +87,7 @@ Per esempio:
 Nel metodo di ingaggio, l'osservatore specifica al FDC come vorrebbe ingaggiare il bersaglio:
 
 - ^^AREA FIRE:^^ utilizzato per attaccare un'area (es: un checkpoint con coperture che separano le unità), facendo sparare all'artiglieria dei colpi dispersi su qualche decina di metri;
-- ^^PRECISION FIRE:^^ utilizzato per attaccare uno bersaglio specifico (es: camion fermo su strada), che richiede impatti il più possibile vicini al ad esso, senza ulteriore dispersione da parte dell'artiglieria;
+- ^^PRECISION FIRE:^^ utilizzato per attaccare un bersaglio specifico (es: camion fermo su strada), che richiede impatti il più possibile vicini ad esso, senza ulteriore dispersione da parte dell'artiglieria;
 - ^^indicazione "DANGER CLOSE":^^ indica che vi sono unità alleate nel raggio di 600 metri dal bersaglio;
 - ^^TIPO E NUMERO MUNIZIONI^^, ad esempio l'osservatore specifica tipo di munizione (es. richiede HE oppure colpi fumogeni) e numero. In caso di mancata indicazione, il FDC decide in autonomia.
 
