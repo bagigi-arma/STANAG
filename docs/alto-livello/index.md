@@ -12,6 +12,10 @@ Esempi notevoli sono il coordinamento di supporti pesanti, come CAS da velivoli 
 ## Abilità avanzate
 
 <div class="grid cards" markdown>
+- :material-cone: [__Artiglieria__](artiglieria.md)<br>
+  Come coordinare missioni di fuoco d'artiglieria con precisione e sicurezza.
+</div>
+<div class="grid cards" markdown>
 - :material-tank: [__Veicoli Corrazzati__](veicoli-corrazzati.md)<br>
   Come utilizzare, comandare e coordinare veicoli corrazzati, come APC, IFV, Carri o Cacciacarri, sul campo di battaglia in operazioni meccanizzate.
 </div>
